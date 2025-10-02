@@ -40,7 +40,7 @@ const QuickSearch = (props) => {
 
 	var [queryPrams, setqueryPrams] = useState({ keyword: "", category: "", paged: 1, order: "DESC", per_page: 5, });
 
-	var [queryTerms, setqueryTerms] = useState({ taxonomy: 'product_cat', order: "ASC", });
+	var [queryTerms, setqueryTerms] = useState({ taxonomy: 'prompt_cat', order: "ASC", });
 	var [terms, setterms] = useState([]);
 
 	function fetchTerms() {

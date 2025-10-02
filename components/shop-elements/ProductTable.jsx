@@ -38,8 +38,8 @@ const ProductTable = (props) => {
 				link: `https://kidobazar.com/product/${item.slug}/`,
 				image_link: item.post_thumbnail?.src,
 				brand: item?.brands[0]?.name,
-				fb_product_category: item?.fb_product_category,
-				google_product_category: item?.google_product_category,
+				fb_prompt_category: item?.fb_prompt_category,
+				google_prompt_category: item?.google_prompt_category,
 			})
 
 		})
@@ -50,7 +50,7 @@ const ProductTable = (props) => {
 
 	// Function to download CSV
 	const downloadCSV = () => {
-		const headers = ['id', 'title', 'description', 'availability', 'condition', 'price', 'sale_price', 'product_tags[0]', 'link', 'image_link', 'brand', 'google_product_category', 'fb_product_category'];
+		const headers = ['id', 'title', 'description', 'availability', 'condition', 'price', 'sale_price', 'prompt_tags[0]', 'link', 'image_link', 'brand', 'google_prompt_category', 'fb_prompt_category'];
 
 		// Create CSV content
 		const csvContent = [
@@ -161,12 +161,12 @@ const ProductTable = (props) => {
 
 								<td className="px-4 py-4 whitespace-nowrap">
 									<span className={`inline-flex px-2 py-1 text-xs font-semibold rounded-full `}>
-										{product.google_product_category}
+										{product.google_prompt_category}
 									</span>
 								</td>
 								<td className="px-4 py-4 whitespace-nowrap">
 									<span className={`inline-flex px-2 py-1 text-xs font-semibold rounded-full `}>
-										{product.fb_product_category}
+										{product.fb_prompt_category}
 									</span>
 								</td>
 

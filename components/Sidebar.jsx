@@ -39,7 +39,7 @@ import { useCounterStore } from '/store/useCounterStore'
 
 
 // var postData = {
-// 	taxonomy: "product_cat",
+// 	taxonomy: "prompt_cat",
 // 	hierarchical: true,
 // };
 // postData = JSON.stringify(postData);
@@ -71,7 +71,7 @@ const Sidebar = () => {
 	useEffect(() => {
 
 		var postData = {
-			taxonomy: 'product_cat',
+			taxonomy: 'prompt_cat',
 			hierarchical: true,
 		};
 

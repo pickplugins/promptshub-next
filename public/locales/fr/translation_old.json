@@ -1,0 +1,91 @@
+{
+  "Products": "",
+  "Validation Requests": "",
+  "Report Count": "",
+  "Level": "",
+  "Domains": "",
+  "Last date": "",
+  "Domain": {
+    "": ""
+  },
+  "Progress": "",
+  "Add Emails": "",
+  "Add Emails Manually": "",
+  "Pick a CSV file": "",
+  "Choose": {
+    "": ""
+  },
+  "Valid": "",
+  "disposable": "",
+  "invalidEmail": "",
+  "invalidDomain": "",
+  "syntaxNotValid": "",
+  "Valid Domain": "",
+  "Free Email": "",
+  "Role Based": "",
+  "Verified SMTP": "",
+  "Export All": "",
+  "Export Selected": "",
+  "Delete Selected": "",
+  "Merge CSV file on Export?": "",
+  "Send Webhhok Request on Validation?": "",
+  "Webhook URL": "",
+  "Delete Tasks": "",
+  "Single Validation": "",
+  "No": "",
+  "Yes": "",
+  "Search": {
+    "": ""
+  },
+  "Run on": {
+    "": ""
+  },
+  "Loading": {
+    "": ""
+  },
+  "Type": {
+    "": ""
+  },
+  "Source": {
+    "": ""
+  },
+  "Please wait": {
+    "": ""
+  },
+  "Safe To Send": "",
+  "Free Email Provider": "",
+  "Inbox Full": "",
+  "Gibberish Email": "",
+  "SMTP Blacklisted": "",
+  "Disposable Domain": "",
+  "Catch All Domain": "",
+  "Syntax Valid": "",
+  "Valid Email": "",
+  "Has Valid Domain": "",
+  "Role Based Email": "",
+  "Verify SMTP": "",
+  "Domain Reputation": "",
+  "Product": "",
+  "Stock Status": "",
+  "Brands": "",
+  "SKU": "",
+  "Stock": "",
+  "Delete Products": "",
+  "Order Details 1": "",
+  "Tasks": "",
+  "You are not authorized to access": "",
+  "Edit Placeholder": "",
+  "Run on ChatGPT": "",
+  "Terms": "",
+  "Privacy Policy": "",
+  "Refund Policy": "",
+  "ticket": "",
+  "Add ticket": "",
+  "Total Task": "",
+  "Total Email Validated": "",
+  "Total API Keys": "",
+  "Bulk Submit Prompt": "",
+  "Premium?": "",
+  "Price - ": "",
+  "Tags ": ""
+}

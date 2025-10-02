@@ -103,7 +103,7 @@ export default async function page({ params }) {
   const data = await res.json();
 
 
-  var termQueryPrams = { slug: slug, taxonomy: 'product_tag', };
+  var termQueryPrams = { slug: slug, taxonomy: 'prompt_tag', };
 
 
   var termPostData = JSON.stringify(termQueryPrams);

@@ -2,16 +2,12 @@
 import { useEffect, useState } from "react";
 import EntriesArchive from "/components/EntriesArchive";
 
-import {
-	IconCheckbox,
-	IconSquare,
-	IconArrowNarrowLeftDashed,
-	IconArrowNarrowRightDashed,
-	IconRefresh,
-	IconLink,
-	IconSortDescending,
-	IconSortAscending,
-} from "@tabler/icons-react";
+
+
+import { IconArrowNarrowRightDashed, IconArrowNarrowLeftDashed, IconCopy, IconBrandOpenai, IconX, IconBookmark, IconHeart, IconHeartFilled, IconChevronDown, IconChevronUp, IconDownload, IconThumbUp, IconThumbDown, IconTags, IconLink, IconEyeSearch, IconHeartPlus, IconTrash, IconStackPop } from "@tabler/icons-react";
+
+
+
 import Link from 'next/link';
 import Spinner from "./Spinner";
 import AddToCart from "/components/shop-elements/AddToCart";
@@ -21,8 +17,10 @@ import { useCounterStore } from '/store/useCounterStore'
 
 
 const ProductArchive = (props) => {
-
 	const serverUrl = process.env.NEXT_PUBLIC_SERVER_URL;
+	const appUrl = process.env.NEXT_PUBLIC_APP_URL;
+
+
 	const { appData, notifications, addNotification, cartItems, addCartItems, removeCartItems, resetCartItems, updateCartItems, userDataX, setUserDataX } = useCounterStore()
 
 
@@ -119,24 +117,29 @@ const ProductArchive = (props) => {
 	// }
 
 
+	function cents_to_dollar(cents) {
+		const dollars = (cents / 100).toFixed(2);
 
+		return "$" + dollars;
+
+	}
 
 
 
 	function loopLayout(entry, columnIndex) {
 
 		return (
-			<div className="bg-[#ffcbb3] text-[#783009] "
+			<div className=""
 				key={columnIndex}>
 
-				{/* {JSON.stringify(entry)} */}
+				<div className="flex flex-col gap-4 relative">
 
 
-				<div className="flex flex-col relative">
-					<div className="w-full overflow-hidden bg-[#fff]  p-2">
+
+					<div className="w-full h-[300px] overflow-hidden bg-gray-600 rounded-sm ">
 						{entry?.post_thumbnail_url && (
-							<Link className="cursor-pointer" href={`/prompts/${entry.slug}/`} >
-								<Image className=" w-full" src={entry?.post_thumbnail_url} width={300} height={300} alt={entry?.title} />
+							<Link className="text-left text-xl  font-medium cursor-pointer" href={`/prompts/${entry?.slug}/`} >
+								<img className="object-cover h-full w-full" src={entry?.post_thumbnail_url} alt={entry?.title} />
 
 
 
@@ -144,8 +147,8 @@ const ProductArchive = (props) => {
 
 						)}
 						{!entry?.post_thumbnail_url && (
-							<Link className=" cursor-pointer opacity-45" href={`/prompts/${entry.slug}/`} >
-								<Image className="object-contain h-full w-full " src={`/thumb.png`} width={200} height={200} alt={entry?.title} />
+							<Link className="text-left text-xl  font-medium cursor-pointer" href={`/prompts/${entry?.slug}/`} >
+								<img className="object-cover h-full w-full opacity-20" src={`${appUrl}images/prompt-thumb.png`} alt={entry?.title} />
 
 							</Link>
 
@@ -159,41 +162,77 @@ const ProductArchive = (props) => {
 
 
 					<div className="text-left flex flex-col gap-3 flex-1 p-3">
-						<Link className="text-left text-sm lg:text-base  cursor-pointer" href={`/prompts/${entry.slug}/`} >{entry?.title}
-						</Link>
-
-						{/* {JSON.stringify(entry.categories)} */}
+						<Link className="text-left text-base  font-medium cursor-pointer" href={`/prompts/${entry?.slug}/`} >{entry?.title}</Link>
 
 
 
-						<div className="flex gap-3 items-center">
+						<div className="flex gap-4 items-center text-sm  flex-wrap">
 
-							<div className="font-bold text-lg text-[#783009]">{entry?.price}Tk</div>
 
-							{entry?.salePrice && (
-								<>
-									<div> - </div>
-									<div className="line-through text-base text-gray-600">{entry?.regularPrice}Tk</div>
+							<div className="text-left  flex items-center gap-1" >
 
-								</>
+								<div><IconEyeSearch width={18} /></div>
+
+								<div>{entry?.viewCount}</div>
+							</div>
+							<div className="text-left  flex items-center gap-1" >
+
+								<div><IconHeartPlus width={18} /></div>
+
+								<div>{entry?.loveCount}</div>
+							</div>
+							<div className="text-left  flex items-center gap-1" >
+
+								<div><IconThumbUp width={18} /></div>
+
+								<div>{entry?.voteCount}</div>
+							</div>
+							<div className="text-left  flex items-center gap-1" >
+
+								<div><IconDownload width={18} /></div>
+
+								<div>{entry?.downloadCount}</div>
+							</div>
+
+
+							{entry?.categories?.length > 0 && (
+								<div className="flex items-center text-sm gap-2 flex-wrap">
+
+									<div>
+										<IconTags width={18} />
+									</div>
+
+									{entry?.categories?.map((item, index) => {
+
+										return (
+											<div >
+
+												{/* <Link className="" href={`/category/${item?.slug}/`} >
+													{item.name}
+												</Link> */}
+												{entry?.categories?.length > (index + 1) && (
+													<span className="pr-1">, </span>
+												)}
+											</div>
+										)
+
+									})}
+								</div>
+
 							)}
+
+
+							{/* <div className=" ">{entry?.sku}</div> */}
+
 
 
 						</div>
 
-
-						{entry?.stockStatus == 'outofstock' && (
-							<div className="text-red-400 font-bold">Out of stock</div>
-						)}
-						{entry?.stockStatus == 'instock' && (
-							<AddToCart productData={entry} quantitySyncwithCart={true} hideButtonText={true} addCartItems={addCartItems} />
-						)}
+						<div>
+							{("Price")}: {entry?.credits ? cents_to_dollar(entry?.credits) : "$0.00"}
 
 
-
-
-
-
+						</div>
 
 
 					</div>
@@ -203,7 +242,7 @@ const ProductArchive = (props) => {
 
 
 				</div>
-			</div>
+			</div >
 
 		);
 	}

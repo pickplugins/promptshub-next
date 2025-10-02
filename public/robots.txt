@@ -1,4 +1,5 @@
 User-agent: *
+Disallow: /server/
 Disallow: /wp-admin/
 Disallow: /product-tag/
 Disallow: /tag/
@@ -11,8 +12,6 @@ Disallow: /comments/
 Disallow: /wp-content/
 Disallow: /feed/
 Disallow: /demo/
-Disallow: /server/
-Disallow: /docs-category/
 Disallow: /*?referrer
 Disallow: /*?utm_source
 Disallow: /*?ref
@@ -21,4 +20,4 @@ Disallow: /*?attribute_pa_domain-license
 
 Allow: /wp-admin/admin-ajax.php
 
-Sitemap: https://kidobazar.com/sitemap.xml
+Sitemap: https://promptshub.com/sitemap.xml

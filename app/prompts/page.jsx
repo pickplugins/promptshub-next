@@ -115,7 +115,7 @@ export default async function page({ params, searchParams }) {
   const data = await res.json();
 
 
-
+  console.log(data)
 
 
 

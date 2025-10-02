@@ -104,7 +104,7 @@ export default async function page({ params }) {
 
 
 
-  var termQueryPrams = { slug: slug, taxonomy: 'product_cat', };
+  var termQueryPrams = { slug: slug, taxonomy: 'prompt_cat', };
 
 
   var termPostData = JSON.stringify(termQueryPrams);

@@ -60,7 +60,7 @@ const MobileMenu = () => {
 	useEffect(() => {
 
 		var postData = {
-			taxonomy: 'product_cat',
+			taxonomy: 'prompt_cat',
 			hierarchical: true,
 		};
 

@@ -1,0 +1,24 @@
+User-agent: *
+Disallow: /wp-admin/
+Disallow: /product-tag/
+Disallow: /tag/
+Disallow: /product-category/
+Disallow: /page/
+Disallow: /wp-login.php
+Disallow: /cart/
+Disallow: /author/
+Disallow: /comments/
+Disallow: /wp-content/
+Disallow: /feed/
+Disallow: /demo/
+Disallow: /server/
+Disallow: /docs-category/
+Disallow: /*?referrer
+Disallow: /*?utm_source
+Disallow: /*?ref
+Disallow: /*?utm_id=
+Disallow: /*?attribute_pa_domain-license
+
+Allow: /wp-admin/admin-ajax.php
+
+Sitemap: https://kidobazar.com/sitemap.xml

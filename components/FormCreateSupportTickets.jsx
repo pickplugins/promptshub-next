@@ -266,7 +266,7 @@ const FormCreateSupportTickets = (props) => {
     },
     {
       "title": "How do I contact customer support?",
-      "content": "You can reach our customer support team through the Contact Us page on our website, via email at support@kidobazar.com, or by calling our hotline number during working hours."
+      "content": "You can reach our customer support team through the Contact Us page on our website, via email at support@promptshub.net, or by calling our hotline number during working hours."
     }
   ]
 

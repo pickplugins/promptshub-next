@@ -112,7 +112,7 @@ export default function Home() {
 							Reach out to us anytime:
 						</p>
 						<address class="not-italic">
-							<strong>Email:</strong> <a href="mailto:podcast@kidobazar.com" class="text-indigo-600">podcast@kidobazar.com</a>
+							<strong>Email:</strong> <a href="mailto:podcast@promptshub.net" class="text-indigo-600">podcast@promptshub.net</a>
 							<strong>Social:</strong> Follow us on <a href="#" class="text-indigo-600">Instagram</a>, <a href="#" class="text-indigo-600">Facebook</a>, and <a href="#" class="text-indigo-600">Twitter</a>
 						</address>
 					</section>

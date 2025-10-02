@@ -67,7 +67,7 @@ export default function Home() {
 						<h2>Introduction</h2>
 						<p>
 							At <strong>Kidobazar</strong>, we want you to be completely satisfied with your purchase. This Refund Policy
-							outlines the terms and conditions under which refunds and returns are processed for orders placed on kidobazar.com
+							outlines the terms and conditions under which refunds and returns are processed for orders placed on promptshub.net
 							(the "Site").
 						</p>
 					</section>
@@ -141,7 +141,7 @@ export default function Home() {
 							<li>If you haven’t received a refund yet, first check your bank account again.</li>
 							<li>Contact your credit card company; it may take some time before your refund is officially posted.</li>
 							<li>Next, contact your bank. There is often some processing time before a refund is posted.</li>
-							<li>If you’ve done all of this and still have not received your refund, please contact us at support@kidobazar.com.</li>
+							<li>If you’ve done all of this and still have not received your refund, please contact us at support@promptshub.net.</li>
 						</ul>
 					</section>
 

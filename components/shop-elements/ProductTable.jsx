@@ -35,7 +35,7 @@ const ProductTable = (props) => {
 				condition: 'new',
 				price: item.price,
 				salePrice: item.salePrice,
-				link: `https://kidobazar.com/product/${item.slug}/`,
+				link: `https://promptshub.net/product/${item.slug}/`,
 				image_link: item.post_thumbnail?.src,
 				brand: item?.brands[0]?.name,
 				fb_prompt_category: item?.fb_prompt_category,

@@ -11,8 +11,8 @@ export const useCounterStore = create((set) => ({
     appUrl: "http://localhost:3000/",
   },
   // appData: {
-  //   serverUrl: "https://server.kidobazar.com/",
-  //   appUrl: "https://kidobazar.com/",
+  //   serverUrl: "https://server.promptshub.net/",
+  //   appUrl: "https://promptshub.net/",
   // },
 
 

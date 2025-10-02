@@ -78,7 +78,7 @@ const GlobalFooter = () => {
 					<Link className="text-left   font-base cursor-pointer" href={`/about/`} >About Us</Link>
 					<Link className="text-left   font-base cursor-pointer" href={`/newsletter/`} >Newsletter</Link>
 					<Link className="text-left   font-base cursor-pointer" href={`/podcast/`} >Podcast</Link>
-					<Link className="text-left   font-base cursor-pointer" href={`/tickets-submit/`} >Create Support Ticket</Link>
+					<Link className="text-left   font-base cursor-pointer" href={`/create-ticket/`} >Create Support Ticket</Link>
 
 				</div>
 

@@ -68,7 +68,7 @@ export default function Home() {
 						<h2>Introduction</h2>
 						<p>
 							Welcome to <strong>Kidobazar</strong> ("we", "our", "us"). These Terms and Conditions ("Terms") govern your
-							use of our website kidobazar.com (the "Site") and any related services. By accessing or using our Site, you agree
+							use of our website promptshub.net (the "Site") and any related services. By accessing or using our Site, you agree
 							to comply with these Terms. If you do not agree, please discontinue use immediately.
 						</p>
 					</section>

@@ -67,7 +67,7 @@ export default function Home() {
 						<p>
 							Welcome to <strong>Kidobazar</strong> ("we", "our", "us"). We respect your privacy and are committed to protecting
 							the personal information of our users. This Privacy Policy explains how we collect, use, disclose, and safeguard
-							your information when you visit kidobazar.com (the "Site").
+							your information when you visit promptshub.net (the "Site").
 						</p>
 					</section>
 

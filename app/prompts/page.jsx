@@ -49,12 +49,12 @@ export async function generateMetadata({ searchParams }) {
 
   var pageMetaData = {
 
-    title: `${termname} Price in Bangladesh - Kidobazar`,
-    description: "Shop baby products, kids toys, clothing & essentials online at Kidobazar. Affordable prices, trusted brands & fast delivery for your little ones.",
+    title: `PromptShub – Prompt Engineering Tools, Templates & Community`,
+    description: "Join PromptShub — your central hub for AI prompt templates, prompt engineering tutorials, community contributions, and prompt versioning tools. Start exploring today!",
     post_thumbnail: { src: "", alt: "" },
-    keywords: "Kidobazar, kids online store, baby products, children’s toys, kids fashion, baby clothes, kids essentials, kids marketplace, buy baby toys online, kids shop",
-    ogTitle: `Shop by ${term.replace("-", " ").toUpperCase()} - Kidobazar`,
-    ogDes: "Discover Kidobazar, your one-stop kids marketplace for toys, clothing, baby products & more. Shop trusted brands at affordable prices."
+    keywords: "",
+    ogTitle: `PromptShub – Prompt Engineering Tools, Templates & Community`,
+    ogDes: "Elevate your AI workflows with PromptShub’s prompt templates, version control, collaboration features, and prompt engineering guides. Build smarter with prompts."
 
   }
 
@@ -113,10 +113,6 @@ export default async function page({ params, searchParams }) {
 
 
   const data = await res.json();
-
-
-  console.log(data)
-
 
 
   // const token = useAuthStore((state) => state.token);

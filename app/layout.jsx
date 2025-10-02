@@ -25,8 +25,8 @@ const geistMono = Geist_Mono({
 });
 
 export const metadata = {
-	title: "Kidobazar | Baby Products, Kids Toys & Fashion Online",
-	description: "Shop baby products, kids toys, clothing & essentials online at Kidobazar. Affordable prices, trusted brands & fast delivery for your little ones.",
+	title: "PromptShub – Ultimate AI Prompt Library & Prompt Engineering Hub",
+	description: "Discover, create, and share top-tier AI prompts at PromptShub. Explore prompt templates, tools, guides, and a vibrant community to supercharge your prompt engineering skills.",
 	icons: {
 		icon: "/favicon.png",
 	},

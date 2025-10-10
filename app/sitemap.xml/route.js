@@ -40,7 +40,7 @@ export async function GET() {
 
 
   var postData = {
-    per_page: 9999,
+    per_page: 999,
     order: "ASC",
     keyword: "",
   };

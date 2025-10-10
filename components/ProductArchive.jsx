@@ -34,6 +34,28 @@ const ProductArchive = (props) => {
 
 
 
+	const [debouncedQuery, setDebouncedQuery] = useState(queryPrams);
+
+
+	useEffect(() => {
+		const handler = setTimeout(() => {
+			setDebouncedQuery(queryPrams); // update debounced value after delay
+		}, 3000); // 500ms debounce delay
+
+		// Cleanup function: cancels the timeout if query changes before 500ms
+		return () => clearTimeout(handler);
+	}, [queryPrams]); // run effect when query changes
+
+
+
+	useEffect(() => {
+		if (debouncedQuery) {
+			console.log("Fetching API for:", debouncedQuery);
+			fetchPosts();
+
+		}
+	}, [debouncedQuery]);
+
 
 
 
@@ -98,10 +120,10 @@ const ProductArchive = (props) => {
 	}
 
 
-	useEffect(() => {
+	// useEffect(() => {
 
-		fetchPosts();
-	}, [queryPrams]);
+	// 	fetchPosts();
+	// }, [queryPrams]);
 	// }, [queryPrams, category]);
 
 

@@ -8,14 +8,28 @@ export async function GET() {
 
   // Example: dynamic routes (you can fetch from DB, CMS, API, etc.)
   const staticRoutes = ["",
+    "terms/",
+    "privacy/",
+    "refund/",
+
+    "ai-image-generator/",
+    "ai-text-generator/",
+    "ai-audio-generator/",
+    "ai-pdf-generator/",
+    "ai-sticker-generator/",
+    "ai-tshirt-designer/",
+    "ai-cartoon-character-generator/",
+    "ai-background-remover/",
+    "ai-old-photo-restoration/",
+    "about/",
+    "podcast/",
+    "newsletter/",
     "account/",
     "blog/",
     "contact/",
     "support/",
     "create-ticket/",
-    "terms/",
-    "privacy/",
-    "refund/",
+
   ];
   // const blogPosts = [
   //   { slug: "blog" },
@@ -27,12 +41,12 @@ export async function GET() {
 
   var postData = {
     per_page: 999,
-    order: "DESC",
+    order: "ASC",
     keyword: "",
   };
   postData = JSON.stringify(postData);
 
-  const res = await fetch(`${serverUrl}wp-json/promptshub/v2/get_products`, {
+  const res = await fetch(`${serverUrl}wp-json/promptshub/v2/get_prompts`, {
     method: "POST",
     cache: "no-store", // disables caching
 
@@ -59,8 +73,12 @@ export async function GET() {
   const allRoutes = [
     ...staticRoutes,
     // ...blogPosts.map((post) => `/blog/${post.slug}`),
-    ...products?.posts.map((product) => `product/${product.slug}/`),
+    ...products?.posts.map((product) => `prompts/${product.slug}/`),
   ];
+
+
+  // console.log(allRoutes);
+
 
   const sitemap = `<?xml version="1.0" encoding="UTF-8"?>
   <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">

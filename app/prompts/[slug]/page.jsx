@@ -50,16 +50,16 @@ export async function generateMetadata({ params }) {
     title: productData?.title?.slice(0, 65),
     description: productData?.post_excerpt || productData?.post_excerpt?.slice(0, 160),
     openGraph: {
-      title: productData.title,
+      title: productData?.title,
       description: productData?.post_excerpt || productData?.post_excerpt?.slice(0, 160),
       url: `${appUrl}/prompts/${slug}`,
-      images: [{ url: productData.post_thumbnail?.src, alt: productData.title }],
+      images: [{ url: productData?.post_thumbnail?.src, alt: productData?.title }],
     },
     twitter: {
       card: "summary_large_image",
-      title: productData.title,
+      title: productData?.title,
       description: productData?.post_excerpt || productData?.post_excerpt?.slice(0, 160),
-      images: [productData.post_thumbnail?.src],
+      images: [productData?.post_thumbnail?.src],
     },
   };
 }

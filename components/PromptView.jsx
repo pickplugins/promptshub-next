@@ -873,7 +873,7 @@ const PromptView = (props) => {
 
 						</div>
 
-						<div className="flex items-center flex-wrap gap-2">
+						<div className="flex hidden items-center flex-wrap gap-2">
 							<div className="text-base text-indigo-500 font-bold">
 								{("Price")}: {promptData?.credits ? cents_to_dollar(promptData?.credits) : "$0.00"}
 							</div>
@@ -925,7 +925,7 @@ const PromptView = (props) => {
 
 						</div>
 
-						<div className="my-5">
+						<div className="my-5 hidden">
 							<ToggleContent title={"What is the credit pricing system?"}
 								contentClass=""
 								headerClass=""
@@ -940,7 +940,7 @@ const PromptView = (props) => {
 
 						</div>
 
-						<div>
+						<div className="">
 							<div>
 								<Link className="text-left flex gap-2 text-amber-600" rel="nofollow" href={`/create-ticket/?prompt_id=${promptData?.id}&category=15196`}>
 									<IconHelp /> {("Report an Issue")}
@@ -971,6 +971,7 @@ const PromptView = (props) => {
 
 
 
+				{/* {JSON.stringify(promptData?.variations)} */}
 
 
 				{/* {promptData?.content && (

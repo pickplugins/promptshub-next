@@ -59,24 +59,52 @@ const page = () => {
 
 	var faqs = [
 		{
-			"question": "What is the Kidobazar.com newsletter?",
-			"answer": "The Kidobazar.com newsletter is a free subscription service that delivers the latest product updates, special offers, parenting tips, and exclusive deals directly to your email."
+			"title": "What kind of content will I receive in the PromptsHub newsletter?",
+			"content": "Our newsletter delivers: weekly AI prompt ideas and templates, updates on new AI tools and features, tutorials and how-to guides, industry news and trends, exclusive discounts and early access to new features, and creative inspiration from our community."
 		},
 		{
-			"question": "How can I subscribe to the Kidobazar.com newsletter?",
-			"answer": "You can subscribe by entering your email address in the newsletter sign-up form on the Kidobazar.com homepage or during checkout when making a purchase."
+			"title": "How often will I receive emails?",
+			"content": "We send our main newsletter weekly, typically on Tuesday mornings. You may occasionally receive special announcements for major updates or promotions, but we respect your inbox and avoid spam. You can adjust frequency preferences anytime."
 		},
 		{
-			"question": "Is the Kidobazar.com newsletter free?",
-			"answer": "Yes, subscribing to the Kidobazar.com newsletter is completely free. You will only receive updates, offers, and tips without any charges."
+			"title": "Is the newsletter really free?",
+			"content": "Yes! The PromptsHub newsletter is completely free. You'll receive valuable AI prompts, tips, and industry insights at no cost. We believe in sharing knowledge and helping our community grow together."
 		},
 		{
-			"question": "How often will I receive the newsletter?",
-			"answer": "The Kidobazar.com newsletter is sent out weekly, ensuring you stay updated with new arrivals, seasonal promotions, and parenting insights."
+			"title": "How do I unsubscribe or change my preferences?",
+			"content": "Every email we send includes an 'Unsubscribe' link at the bottom. You can click this to instantly remove yourself, or use it to update your preferences and choose which types of emails you'd like to receive."
 		},
 		{
-			"question": "Can I unsubscribe from the Kidobazar.com newsletter?",
-			"answer": "Yes, you can unsubscribe at any time by clicking the 'Unsubscribe' link provided at the bottom of every newsletter email."
+			"title": "What if I'm not receiving the newsletter after signing up?",
+			"content": "First, check your spam or promotions folder. If you still can't find our emails, add 'newsletter@promptshub.net' to your email contacts or safe sender list. If issues persist, contact our support team and we'll help troubleshoot."
+		},
+		{
+			"title": "Do you share my email with third parties?",
+			"content": "Never. We take your privacy seriously. Your email address is used exclusively for sending PromptsHub newsletters and updates. We do not sell, rent, or share your personal information with any third parties."
+		},
+		{
+			"title": "Can I share newsletter content with others?",
+			"content": "Absolutely! We encourage sharing our prompts and tips with friends and colleagues. However, please do not forward the entire newsletter or redistribute it commercially. Better yet, invite them to subscribe so they can get their own updates!"
+		},
+		{
+			"title": "I have ideas for newsletter content. How can I contribute?",
+			"content": "We love hearing from our community! If you have prompt ideas, tutorials, or topics you'd like covered, please email us at 'content@promptshub.net' with your suggestions. We often feature community contributions with proper credit."
+		},
+		{
+			"title": "Is there a mobile app for the newsletter?",
+			"content": "While we don't have a dedicated newsletter app, our emails are fully optimized for mobile devices. You can also access our blog and all AI tools through our mobile-responsive website at PromptsHub.net."
+		},
+		{
+			"title": "Do you offer different newsletter categories or topics?",
+			"content": "Currently, we offer a general AI prompts newsletter that covers various topics. However, we're planning to introduce specialized newsletters for different interests like AI Art, Writing Prompts, and Business AI. Stay tuned for these updates!"
+		},
+		{
+			"title": "How current is the information in your newsletters?",
+			"content": "Our content is always fresh and relevant. We cover the latest AI developments, new prompt techniques, and recent platform updates. Our team works to ensure you receive timely information that helps you stay ahead in the AI space."
+		},
+		{
+			"title": "Can businesses or educators use your newsletter content?",
+			"content": "Yes! Many businesses, educators, and teams find our newsletter content valuable for training, inspiration, and staying updated on AI trends. For enterprise-level usage or licensing, please contact our business team at 'enterprise@promptshub.net'."
 		}
 	]
 
@@ -125,7 +153,7 @@ const page = () => {
 							{faqs.map((item, index) => {
 
 								return (
-									<ToggleContent key={index} title={<FAQTitle text={item.question} index={index} />}
+									<ToggleContent key={index} title={<FAQTitle text={item.title} index={index} />}
 										contentClass="text-gray-600 p-5"
 										headerClass="w-full flex justify-between items-center p-3  rounded-sm  bg-[#783009] cursor-pointer text-white"
 										headerTitleClass=""
@@ -137,7 +165,7 @@ const page = () => {
 										<div className="">
 
 
-											{item?.answer}
+											{item?.content}
 
 
 										</div>

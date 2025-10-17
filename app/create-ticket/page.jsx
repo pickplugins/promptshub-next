@@ -19,15 +19,15 @@ export async function generateMetadata() {
 
 
 	var pageMetaData = {
-
-		title: "Create Support Ticket - Kidobazar",
-		description: "Need help? Create a support ticket on Kidobazar to get quick assistance from our customer service team for your orders, account, or inquiries.",
-		post_thumbnail: { src: "", alt: "" },
-		keywords: "Kidobazar, kids online store, baby products, children’s toys, kids fashion, baby clothes, kids essentials, kids marketplace, buy baby toys online, kids shop",
-		ogTitle: "Create Support Ticket - Kidobazar",
-		ogDes: "Need help? Create a support ticket on Kidobazar to get quick assistance from our customer service team for your orders, account, or inquiries."
-
+		"title": "Create Support Ticket - Get Help Fast | PromptsHub.net",
+		"description": "Submit your support requests quickly and efficiently with PromptsHub.net's Create Support Ticket page. Our team is ready to assist you with any issues or queries.",
+		"post_thumbnail": {
+			"src": "https://promptshub.net/assets/images/support-ticket-thumbnail.jpg",
+			"alt": "Create a support ticket on PromptsHub.net"
+		},
+		"keywords": "create support ticket, contact support, help desk, customer support, submit issue, PromptsHub"
 	}
+
 
 
 
@@ -35,14 +35,14 @@ export async function generateMetadata() {
 		title: pageMetaData.title,
 		description: pageMetaData.description?.slice(0, 160),
 		openGraph: {
-			title: pageMetaData.ogTitle,
+			title: pageMetaData.title,
 			description: pageMetaData.post_excerpt?.slice(0, 160),
 			url: `${appUrl}product/`,
-			images: [{ url: pageMetaData.post_thumbnail?.src, alt: pageMetaData.ogTitle }],
+			images: [{ url: pageMetaData.post_thumbnail?.src, alt: pageMetaData.title }],
 		},
 		twitter: {
 			card: "summary_large_image",
-			title: pageMetaData.ogTitle,
+			title: pageMetaData.title,
 			description: pageMetaData.post_excerpt?.slice(0, 160),
 			images: [pageMetaData.post_thumbnail?.src],
 		},

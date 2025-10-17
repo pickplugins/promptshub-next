@@ -229,44 +229,52 @@ const FormCreateSupportTickets = (props) => {
 
   var faqs = [
     {
-      "title": "What is KidoBazar?",
-      "content": "KidoBazar is an online marketplace in Bangladesh dedicated to kids' products including toys, clothing, baby care items, educational materials, and more. We aim to provide parents with a one-stop shopping experience."
+      "title": "What information should I include in my support ticket?",
+      "content": "Please include: your username, email address, detailed description of the issue, steps to reproduce the problem, browser/device information, screenshots if applicable, and any error messages you're receiving. The more details you provide, the faster we can help you."
     },
     {
-      "title": "Do you deliver all over Bangladesh?",
-      "content": "Yes, KidoBazar delivers products across Bangladesh. Delivery times may vary depending on your location."
+      "title": "How long does it take to get a response?",
+      "content": "We typically respond within 24-48 hours during business days. For urgent issues affecting your account or payments, we prioritize these tickets and aim to respond within 12 hours."
     },
     {
-      "title": "How long does delivery take?",
-      "content": "Delivery usually takes 2–5 business days within Dhaka and 3–7 business days outside Dhaka. We will notify you with tracking details once your order is shipped."
+      "title": "What types of issues can I submit through this form?",
+      "content": "You can submit: technical issues with our AI tools, billing and subscription titles, account access problems, feature requests, bug reports, content moderation concerns, and general inquiries about PromptsHub services."
     },
     {
-      "title": "What payment methods are accepted?",
-      "content": "We accept Cash on Delivery (COD), mobile banking (bKash, Nagad, Rocket), and major debit/credit cards."
+      "title": "I forgot which email I used for my account. What should I do?",
+      "content": "No problem! Please submit your ticket using your current contact email and include your username in the description. We can look up your account and update the email if needed once we verify your identity."
     },
     {
-      "title": "Is Cash on Delivery available?",
-      "content": "Yes, Cash on Delivery is available for most locations in Bangladesh."
+      "title": "Can I attach files to my support ticket?",
+      "content": "Yes, you can attach screenshots, error logs, or example files that help demonstrate your issue. Maximum file size is 10MB per attachment, and we support common image formats (JPG, PNG, GIF) and text files."
     },
     {
-      "title": "What is your return and refund policy?",
-      "content": "You can return or exchange products within 7 days of delivery if they are unused, undamaged, and in original packaging. Refunds will be processed within 5–7 business days after inspection."
+      "title": "How can I check the status of my existing ticket?",
+      "content": "After submitting a ticket, you'll receive a confirmation email with your ticket number. You can reply directly to that email thread for updates. We'll also notify you when there are status changes or when we need more information."
     },
     {
-      "title": "How can I track my order?",
-      "content": "After your order is confirmed, you will receive a tracking ID via SMS or email, which you can use to track your package."
+      "title": "I haven't received a confirmation email for my ticket. What should I do?",
+      "content": "First, check your spam or junk folder. If you still can't find it, wait 30 minutes and try submitting again. Make sure you're using a valid email address and that your inbox isn't full. If the issue persists, contact us through our social media channels."
     },
     {
-      "title": "Do you sell original branded products?",
-      "content": "Yes, KidoBazar ensures that all products are 100% authentic and sourced from trusted suppliers."
+      "title": "Is there a way to get faster support?",
+      "content": "Yes! PromptsHub Premium subscribers receive priority support with faster response times. For all users, providing complete information and clear reproduction steps in your initial ticket helps us resolve issues more quickly."
     },
     {
-      "title": "Do you offer discounts or promotions?",
-      "content": "Yes, we frequently run special offers, discounts, and seasonal sales. Keep an eye on our website and social media pages for the latest deals."
+      "title": "What's not appropriate for support tickets?",
+      "content": "Please don't use this form for: promotional content, spam, harassment, illegal activities, or questions that are already answered in our FAQ. For general how-to questions, check our documentation and community forums first for faster answers."
     },
     {
-      "title": "How do I contact customer support?",
-      "content": "You can reach our customer support team through the Contact Us page on our website, via email at support@promptshub.net, or by calling our hotline number during working hours."
+      "title": "Can I request a feature through the support system?",
+      "content": "Absolutely! We welcome feature requests and ideas. Please use the 'Feature Request' category when submitting your ticket and provide as much detail as possible about what you'd like to see and how it would benefit users."
+    },
+    {
+      "title": "What if I need to update information in my submitted ticket?",
+      "content": "Simply reply to the confirmation email you received for that ticket with the additional information. This will automatically update the existing ticket rather than creating a new one, keeping all context together."
+    },
+    {
+      "title": "Do you provide support in languages other than English?",
+      "content": "Currently, our primary support language is English. We can understand and respond to tickets in several major languages, but for the most accurate and timely responses, we recommend using English when possible."
     }
   ]
 

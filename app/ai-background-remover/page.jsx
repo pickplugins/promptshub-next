@@ -15,15 +15,15 @@ export async function generateMetadata() {
 
 
 	var pageMetaData = {
-
-		title: "About Us - Kidobazar",
-		description: "Discover Kidobazar – your trusted online marketplace for quality products at the best prices. Learn about our mission, values, and commitment to delivering a seamless shopping experience for families everywhere.",
-		post_thumbnail: { src: "", alt: "" },
-		keywords: "Kidobazar, kids online store, baby products, children’s toys, kids fashion, baby clothes, kids essentials, kids marketplace, buy baby toys online, kids shop",
-		ogTitle: "About Us - Kidobazar",
-		ogDes: "Discover Kidobazar – your trusted online marketplace for quality products at the best prices. Learn about our mission, values, and commitment to delivering a seamless shopping experience for families everywhere."
-
+		"title": "AI Background Remover - Remove Image Backgrounds Instantly | PromptsHub.net",
+		"description": "Easily remove backgrounds from images with PromptsHub.net's AI Background Remover. Perfect for designers, marketers, and anyone needing fast, precise image editing.",
+		"post_thumbnail": {
+			"src": "https://promptshub.net/assets/images/ai-background-remover-thumbnail.jpg",
+			"alt": "AI Background Remover removing background from an image"
+		},
+		"keywords": "AI background remover, remove image background, background eraser AI, online image editing, AI photo editor, PromptsHub"
 	}
+
 
 
 
@@ -31,14 +31,14 @@ export async function generateMetadata() {
 		title: pageMetaData.title,
 		description: pageMetaData.description?.slice(0, 160),
 		openGraph: {
-			title: pageMetaData.ogTitle,
+			title: pageMetaData.title,
 			description: pageMetaData.post_excerpt?.slice(0, 160),
 			url: `${appUrl}product/`,
-			images: [{ url: pageMetaData.post_thumbnail?.src, alt: pageMetaData.ogTitle }],
+			images: [{ url: pageMetaData.post_thumbnail?.src, alt: pageMetaData.title }],
 		},
 		twitter: {
 			card: "summary_large_image",
-			title: pageMetaData.ogTitle,
+			title: pageMetaData.title,
 			description: pageMetaData.post_excerpt?.slice(0, 160),
 			images: [pageMetaData.post_thumbnail?.src],
 		},

@@ -1012,7 +1012,7 @@ const PromptView = (props) => {
 											<div className="flex flex-col gap-3 text-left">
 												<div>
 
-													{!userDataX?.id && (
+													{/* {!userDataX?.id && (
 														<div className="relative">
 															<img className="w-full" src="https://i.ibb.co/WNJ6B5j9/image.png" alt="Premium AI Prompts" />
 															<div className="bg-amber-600 hover:bg-amber-500 cursor-pointer text-white py-2 px-4 rounded-sm xl:absolute top-1/2 xl:left-1/2 xl:transform xl:-translate-x-1/2 xl:-translate-y-1/2 
@@ -1024,7 +1024,7 @@ const PromptView = (props) => {
 
 															</div>
 														</div>
-													)}
+													)} */}
 
 													{userDataX?.id && (
 														<div>

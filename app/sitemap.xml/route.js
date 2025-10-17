@@ -7,28 +7,28 @@ export async function GET() {
   const baseUrl = appUrl;
 
   // Example: dynamic routes (you can fetch from DB, CMS, API, etc.)
-  const staticRoutes = ["",
-    "terms/",
-    "privacy/",
-    "refund/",
+  const staticRoutes = [
+    "terms",
+    "privacy",
+    "refund",
 
-    "ai-image-generator/",
-    "ai-text-generator/",
-    "ai-audio-generator/",
-    "ai-pdf-generator/",
-    "ai-sticker-generator/",
-    "ai-tshirt-designer/",
-    "ai-cartoon-character-generator/",
-    "ai-background-remover/",
-    "ai-old-photo-restoration/",
-    "about/",
-    "podcast/",
-    "newsletter/",
-    "account/",
-    "blog/",
-    "contact/",
-    "support/",
-    "create-ticket/",
+    "ai-image-generator",
+    "ai-text-generator",
+    "ai-audio-generator",
+    "ai-pdf-generator",
+    "ai-sticker-generator",
+    "ai-tshirt-designer",
+    "ai-cartoon-character-generator",
+    "ai-background-remover",
+    "ai-old-photo-restoration",
+    "about",
+    "podcast",
+    "newsletter",
+    "account",
+    "blog",
+    "contact",
+    "support",
+    "create-ticket",
 
   ];
   // const blogPosts = [
@@ -73,7 +73,7 @@ export async function GET() {
   const allRoutes = [
     ...staticRoutes,
     // ...blogPosts.map((post) => `/blog/${post.slug}`),
-    ...products?.posts.map((product) => `prompts/${product.slug}/`),
+    ...products?.posts.map((product) => `prompts/${product.slug}`),
   ];
 
 

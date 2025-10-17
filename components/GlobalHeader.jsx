@@ -80,7 +80,7 @@ const GlobalHeader = () => {
 	var headerLinks = [
 		// { label: "Home", url: "/", icon: <IconHome width={20} /> },
 		{ label: ("Home"), url: "/", icon: <IconBuildingStore width={20} /> },
-		{ label: ("Blog"), url: "/blog/", icon: <IconLogs width={20} /> },
+		// { label: ("Blog"), url: "/blog/", icon: <IconLogs width={20} /> },
 		// { label: ("Newsletter"), url: "/newsletter/", icon: <IconMailStar width={20} /> },
 
 		{ label: ("Account"), url: "/account/", icon: <IconUserCircle width={20} /> },

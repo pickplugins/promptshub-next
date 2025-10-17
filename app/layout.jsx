@@ -28,7 +28,7 @@ export const metadata = {
 	title: "PromptShub – Ultimate AI Prompt Library & Prompt Engineering Hub",
 	description: "Discover, create, and share top-tier AI prompts at PromptShub. Explore prompt templates, tools, guides, and a vibrant community to supercharge your prompt engineering skills.",
 	icons: {
-		icon: "/favicon.png",
+		icon: "/favicon.svg",
 	},
 };
 

@@ -74,7 +74,6 @@ export async function generateMetadata({ params }) {
 export default async function page({ params }) {
   const { slug } = await params; // ✅ await params
 
-  console.log(slug);
 
 
   const productResponse = await getProduct(slug);
@@ -83,9 +82,6 @@ export default async function page({ params }) {
 
 
   var productData = productResponse?.prompt;
-
-  console.log(productData);
-
 
 
   const productSchema = {

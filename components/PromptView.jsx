@@ -17,6 +17,7 @@ import ToggleContent from "../components/ToggleContent";
 import EmailSubscribe from "../components/EmailSubscribe";
 import ReactMarkdown from 'react-markdown';
 import PlaceholderEditor from "../components/shop-elements/PlaceholderEditor";
+import RelatedPosts from "../components/shop-elements/RelatedPosts";
 import { useCounterStore } from '/store/useCounterStore'
 
 
@@ -38,6 +39,7 @@ const PromptView = (props) => {
 	var [updateDescriptionPrompt, setupdateDescriptionPrompt] = useState(null);
 
 
+
 	function cents_to_dollar(cents) {
 		const dollars = (cents / 100).toFixed(2);
 
@@ -55,7 +57,7 @@ const PromptView = (props) => {
 	useEffect(() => {
 		setTimeout(() => {
 			viewPost(promptData?.id)
-			//setcategories(promptData?.categories?.map(item => item.term_id))
+			setcategories(promptData?.categories?.map(item => item.term_id))
 
 		}, 2000)
 
@@ -680,18 +682,9 @@ const PromptView = (props) => {
 	return (
 		<div className="  w-full xl:w-[1200px] mx-auto my-10 ">
 
-
-
-
-			{/* {JSON.stringify(userDataX)} */}
-
-
 			<div className=" p-5 flex flex-col gap-10 ">
 
 				<div className="grid grid-cols-1 lg:grid-cols-2 p-5 gap-10 bg-gray-800 text-gray-200 rounded-sm">
-
-					{/* {JSON.stringify(promptData?.gallery)} */}
-
 
 					<div className="rounded-sm overflow-hidden">
 
@@ -986,9 +979,6 @@ const PromptView = (props) => {
 
 							<div className="text-2xl text-white">{("Variations")}</div>
 
-							{/* {JSON.stringify(promptData)} */}
-
-
 
 						</div>
 						<div className="my-4 flex flex-col gap-5 ">
@@ -1026,12 +1016,17 @@ const PromptView = (props) => {
 														</div>
 													)} */}
 
-													{userDataX?.id && (
+													{/* {userDataX?.id && (
 														<div>
 															<div className="text-base font-bold mb-5">{item?.title}</div>
 															<div>{item?.content}</div>
 														</div>
-													)}
+													)} */}
+													<div>
+														<div className="text-base font-bold mb-5">{item?.title}</div>
+														<div>{item?.content}</div>
+													</div>
+
 
 
 
@@ -1147,45 +1142,44 @@ const PromptView = (props) => {
 				</div>
 
 
-				<div className="p-5 bg-gray-800 rounded-sm">
-					<div className="flex gap-3">
-						<div className="text-2xl text-white">{("Frequently Asked Questions")}</div>
+				{promptData?.faq?.length > 0 && (
+					<div className="p-5 bg-gray-800 rounded-sm">
+						<div className="flex gap-3">
+							<div className="text-2xl text-white">{("Frequently Asked Questions")}</div>
+						</div>
+						<div className="my-4 flex flex-col gap-5 ">
+
+
+							{promptData?.faq && (
+
+								<div className="my-4">
+									{promptData?.faq.map((item, index) => {
+
+										return (
+											<ToggleContent key={index} title={<FAQTitle text={item.title} index={index} />}
+												contentClass=""
+												headerClass=""
+												headerTitleClass=""
+												wrapperClass=""
+											>
+
+												<div className="text-gray-200">
+													{item?.content}
+												</div>
+
+											</ToggleContent>
+										)
+
+									})}
+								</div>
+							)}
+
+
+						</div>
+
 					</div>
-					<div className="my-4 flex flex-col gap-5 ">
+				)}
 
-
-						{promptData?.faq && (
-
-							<div className="my-4">
-								{promptData?.faq.map((item, index) => {
-
-									return (
-										<ToggleContent key={index} title={<FAQTitle text={item.title} index={index} />}
-											contentClass=""
-											headerClass=""
-											headerTitleClass=""
-											wrapperClass=""
-										>
-
-											<div className="text-gray-200">
-
-
-												{item?.content}
-
-
-											</div>
-
-										</ToggleContent>
-									)
-
-								})}
-							</div>
-						)}
-
-
-					</div>
-
-				</div>
 
 				{promptData?.content && (
 					<div className="p-5 bg-gray-800 rounded-sm">
@@ -1199,23 +1193,7 @@ const PromptView = (props) => {
 
 
 
-
-
-				{categories?.length > 0 && (
-					<div className="p-5 bg-gray-800 rounded-sm">
-						<div className="flex gap-3">
-							<div className="text-2xl text-white">{("Related Prompts")}</div>
-						</div>
-						<div className="my-4 ">
-
-
-
-							<RelatedPosts postId={promptData?.id} categories={categories} />
-						</div>
-
-					</div>
-
-				)}
+				<RelatedPosts productData={promptData} postId={promptData?.id} categories={categories} />
 
 
 

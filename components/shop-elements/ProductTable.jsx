@@ -6,7 +6,7 @@ const ProductTable = (props) => {
 
 	var entries = props.entries;
 
-	console.log(entries);
+
 
 
 

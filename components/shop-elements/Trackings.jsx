@@ -285,7 +285,7 @@ const Trackings = (props) => {
 
   function onTriggerOpenSampleNotes(args) {
 
-    console.log(args);
+
 
 
   }

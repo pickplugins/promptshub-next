@@ -140,7 +140,7 @@ function LocationPickerMap() {
           setMarkerPosition(newPosition);
         },
         (error) => {
-          console.error('Error getting current location:', error);
+
           alert('Unable to get your current location. Please make sure location access is enabled.');
         }
       );

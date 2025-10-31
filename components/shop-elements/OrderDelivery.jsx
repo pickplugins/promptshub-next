@@ -180,7 +180,7 @@ const OrderDelivery = (props) => {
 
             setriderData(rider)
 
-            console.log(res);
+
 
 
             setloading(false);

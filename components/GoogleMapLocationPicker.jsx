@@ -144,7 +144,7 @@ function LocationPickerMap({ onLocationChange, destination }) {
           updateLocation(newPosition);
         },
         (error) => {
-          console.error('Error getting current location:', error);
+
           alert('Unable to get your current location. Please make sure location access is enabled.');
         }
       );
@@ -212,7 +212,7 @@ function LocationPickerMap({ onLocationChange, destination }) {
                 scrollwheel: true,
                 gestureHandling: 'greedy'
               });
-              console.log('Map loaded with scroll wheel:', map.get('scrollwheel'));
+
             }}
           >
             <Marker

@@ -64,7 +64,6 @@ const Checkout = (props) => {
 
 	useEffect(() => {
 
-		//console.log(checkoutData?.payment_method);
 
 		//initiateAmarPay();
 
@@ -126,7 +125,7 @@ const Checkout = (props) => {
 				if (response.ok && response.status < 400) {
 					response.json().then((res) => {
 
-						console.log(res);
+
 						var result = res?.result;
 						var payment_url = res?.payment_url;
 						setaamarPayData({ ...aamarPayData, payment_url: payment_url })

@@ -38,7 +38,7 @@ export default function GoogleMapLineMap({
   // Helper: load Google Maps JS API script once
   useEffect(() => {
     if (!apiKey) {
-      console.error('GoogleMapLineMap: apiKey prop is required.');
+
       return;
     }
 
@@ -62,8 +62,8 @@ export default function GoogleMapLineMap({
     script.async = true;
     script.defer = true;
     script.addEventListener('load', initMap);
-    script.addEventListener('error', (e) => console.error('Google Maps script failed to load', e));
-    document.head.appendChild(script);
+    script.addEventListener('error', (e) =>
+      document.head.appendChild(script);
 
     return () => {
       script.removeEventListener('load', initMap);
@@ -76,7 +76,7 @@ export default function GoogleMapLineMap({
     if (!containerRef.current) return;
 
     if (!window.google || !window.google.maps) {
-      console.error('Google Maps JS API not available.');
+
       return;
     }
 

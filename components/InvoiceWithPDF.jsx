@@ -190,8 +190,8 @@ export default function InvoiceWithPDF({ invoice = null }) {
       pdf.save(`invoice-${sample.invoiceNumber || "export"}.pdf`);
 
     } catch (err) {
-      console.error("PDF generation failed:", err);
-      alert("Failed to create PDF. Please try again or check console for details.");
+
+      alert("Failed to create PDF. Please try again or check 
     }
   };
 

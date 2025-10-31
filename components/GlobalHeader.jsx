@@ -96,7 +96,7 @@ const GlobalHeader = () => {
 
 	function onTriggerOpenSearch(args) {
 
-		console.log(args);
+
 
 	}
 

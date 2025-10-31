@@ -82,7 +82,7 @@ const BlogArchive = (props) => {
 						var total = res?.total;
 						var max_pages = res?.max_pages;
 
-						console.log(posts);
+
 
 
 						setentries({ posts: posts, total: total, maxPages: max_pages })

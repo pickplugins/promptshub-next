@@ -19,7 +19,7 @@ const Upsells = (props) => {
 	var productData = props.productData;
 	var upsells = productData?.upsells;
 
-	console.log(upsells);
+
 
 
 	var ids = upsells?.map(item => item.id);
@@ -140,7 +140,7 @@ const Upsells = (props) => {
 
 
 
-		console.log("total_price", total_price);
+
 
 
 		setupsellPrice({ total: total_price, total_regularPrice: total_regularPrice, saved: saved })
@@ -159,7 +159,7 @@ const Upsells = (props) => {
 
 	// }, [ids]);
 
-	console.log(upsellPrice);
+
 
 
 	if (!upsellPrice.saved) {

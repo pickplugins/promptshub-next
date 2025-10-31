@@ -98,10 +98,10 @@ function Directions({ origin, destination, waypoints = [] }) {
 						map.fitBounds(bounds, { padding: 100 });
 					}, 100);
 				} else {
-					console.error("Directions request failed:", response.status);
+
 				}
 			} catch (error) {
-				console.error("Error requesting directions:", error);
+
 			}
 		};
 
@@ -156,7 +156,7 @@ export default function GoogleMapDirections(props) {
 	var destinationX = props?.destination
 	var waypointsX = props?.waypoints
 
-	console.log(props);
+
 
 
 	var waypointsZ = [];
@@ -191,7 +191,7 @@ export default function GoogleMapDirections(props) {
 
 
 
-	console.log("waypoints", waypoints);
+
 
 
 
@@ -245,7 +245,7 @@ export default function GoogleMapDirections(props) {
 		// }
 	], [origin, destination, waypoints]);
 
-	console.log("markers", markers);
+
 
 
 

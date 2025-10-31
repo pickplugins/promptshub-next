@@ -42,6 +42,7 @@ export async function GET() {
   var postData = {
     per_page: 999,
     order: "ASC",
+    orderby: "rand",
     keyword: "",
   };
   postData = JSON.stringify(postData);

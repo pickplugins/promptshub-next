@@ -50,7 +50,7 @@ const ProductArchive = (props) => {
 
 	useEffect(() => {
 		if (debouncedQuery) {
-			console.log("Fetching API for:", debouncedQuery);
+
 			fetchPosts();
 
 		}
@@ -100,7 +100,7 @@ const ProductArchive = (props) => {
 						var total = res?.total;
 						var max_pages = res?.max_pages;
 
-						console.log(posts);
+
 
 
 						setentries({ posts: posts, total: total, maxPages: max_pages })

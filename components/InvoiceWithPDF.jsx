@@ -191,7 +191,7 @@ export default function InvoiceWithPDF({ invoice = null }) {
 
     } catch (err) {
 
-      alert("Failed to create PDF. Please try again or check 
+      alert("Failed to create PDF. Please try again or check")
     }
   };
 

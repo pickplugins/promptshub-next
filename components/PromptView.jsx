@@ -935,9 +935,9 @@ const PromptView = (props) => {
 
 						<div className="">
 							<div>
-								<Link className="text-left flex gap-2 text-amber-600" rel="nofollow" href={`/create-ticket/?prompt_id=${promptData?.id}&category=15196`}>
+								{/* <Link className="text-left flex gap-2 text-amber-600" rel="nofollow" href={`/create-ticket/?prompt_id=${promptData?.id}&category=15196`}>
 									<IconHelp /> {("Report an Issue")}
-								</Link>
+								</Link> */}
 
 							</div>
 						</div>

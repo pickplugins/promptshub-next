@@ -2,7 +2,6 @@ User-agent: *
 Disallow: /server/
 Disallow: /wp-admin/
 Disallow: /product-tag/
-Disallow: /tag/
 Disallow: /product-category/
 Disallow: /page/
 Disallow: /wp-login.php

@@ -810,7 +810,7 @@ const PromptView = (props) => {
 										<div key={index} className="border border-gray-700 px-2 py-1 rounded-sm hover:bg-gray-700 cursor-pointer">
 											{/* <span>{item.name}</span> */}
 
-											<Link className="" href={`/categories/${item.slug}/`} dangerouslySetInnerHTML={{ __html: item.name }}>
+											<Link className="" href={`/category/${item.slug}/`} dangerouslySetInnerHTML={{ __html: item.name }}>
 
 											</Link>
 
@@ -832,7 +832,7 @@ const PromptView = (props) => {
 								{promptData?.tags.map((item, index) => {
 									return (
 										<div key={index} className="flex flex-wrap">
-											<Link className="hover:text-indigo-500" href={`/tags/${item.slug}/`} dangerouslySetInnerHTML={{ __html: item.name }}>
+											<Link className="hover:text-indigo-500" href={`/tag/${item.slug}/`} dangerouslySetInnerHTML={{ __html: item.name }}>
 
 											</Link>
 											{promptData?.tags.length > (index + 1) && (

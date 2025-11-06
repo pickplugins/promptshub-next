@@ -34,7 +34,7 @@ export async function generateMetadata({ params }) {
 
   var pageMetaData = {
 
-    title: `${slugname} Prompts for Collections`,
+    title: `${slugname} Prompts Collections for Chatgpt, Gemini.`,
     "description": "Create high-quality text content effortlessly with PromptsHub.net’s AI Text Generator. Generate blog posts, social media captions, emails, and more using powerful AI models and expertly optimized prompts.",
     "post_thumbnail": {
       "src": "https://promptshub.net/assets/images/ai-text-generator-banner.jpg",

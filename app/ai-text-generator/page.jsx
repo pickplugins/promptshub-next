@@ -31,15 +31,15 @@ export async function generateMetadata() {
 		title: pageMetaData.title,
 		description: pageMetaData.description?.slice(0, 160),
 		openGraph: {
-			title: pageMetaData.ogTitle,
-			description: pageMetaData.post_excerpt?.slice(0, 160),
+			title: pageMetaData.title,
+			description: pageMetaData.description?.slice(0, 160),
 			url: `${appUrl}product/`,
-			images: [{ url: pageMetaData.post_thumbnail?.src, alt: pageMetaData.ogTitle }],
+			images: [{ url: pageMetaData.post_thumbnail?.src, alt: pageMetaData.title }],
 		},
 		twitter: {
 			card: "summary_large_image",
-			title: pageMetaData.ogTitle,
-			description: pageMetaData.post_excerpt?.slice(0, 160),
+			title: pageMetaData.title,
+			description: pageMetaData.description?.slice(0, 160),
 			images: [pageMetaData.post_thumbnail?.src],
 		},
 	};

@@ -34,12 +34,13 @@ export async function generateMetadata({ params }) {
 
   var pageMetaData = {
 
-    title: `${slugname} Price in Bangladesh - Kidobazar`,
-    description: "Shop baby products, kids toys, clothing & essentials online at Kidobazar. Affordable prices, trusted brands & fast delivery for your little ones.",
-    post_thumbnail: { src: "", alt: "" },
-    keywords: "Kidobazar, kids online store, baby products, children’s toys, kids fashion, baby clothes, kids essentials, kids marketplace, buy baby toys online, kids shop",
-    ogTitle: ` ${slug} - Kidobazar – Baby Products, Kids Toys & Fashion Online`,
-    ogDes: "Discover Kidobazar, your one-stop kids marketplace for toys, clothing, baby products & more. Shop trusted brands at affordable prices."
+    title: `${slugname} Prompts for Collections`,
+    "description": "Create high-quality text content effortlessly with PromptsHub.net’s AI Text Generator. Generate blog posts, social media captions, emails, and more using powerful AI models and expertly optimized prompts.",
+    "post_thumbnail": {
+      "src": "https://promptshub.net/assets/images/ai-text-generator-banner.jpg",
+      "alt": "AI Text Generator by PromptsHub.net"
+    },
+    "keywords": "AI text generator, PromptsHub AI tools, content generator, AI writing assistant, blog post generator, social media text AI, GPT prompts, AI content creation"
 
   }
 
@@ -49,15 +50,15 @@ export async function generateMetadata({ params }) {
     title: pageMetaData.title,
     description: pageMetaData.description?.slice(0, 160),
     openGraph: {
-      title: pageMetaData.ogTitle,
-      description: pageMetaData.post_excerpt?.slice(0, 160),
+      title: pageMetaData.title,
+      description: pageMetaData.description?.slice(0, 160),
       url: `${appUrl}product/`,
-      images: [{ url: pageMetaData.post_thumbnail?.src, alt: pageMetaData.ogTitle }],
+      images: [{ url: pageMetaData.post_thumbnail?.src, alt: pageMetaData.title }],
     },
     twitter: {
       card: "summary_large_image",
-      title: pageMetaData.ogTitle,
-      description: pageMetaData.post_excerpt?.slice(0, 160),
+      title: pageMetaData.title,
+      description: pageMetaData.description?.slice(0, 160),
       images: [pageMetaData.post_thumbnail?.src],
     },
   };

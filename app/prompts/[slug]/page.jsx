@@ -85,80 +85,116 @@ export default async function page({ params }) {
 
 
   const productSchema = {
-    "@context": "https://schema.org/",
-    "@type": "Product",
-    "name": productData?.title,
+    "@context": "https://schema.org",
+    "@type": "Article",
+    "mainEntityOfPage": {
+      "@type": "WebPage",
+      "@id": `${appUrl}/prompts/${slug}`
+    },
+    "headline": productData?.title,
     "image": [productData?.post_thumbnail?.src],
-    "sku": productData?.sku || slug,
-    "description": productData?.post_excerpt ? productData?.post_excerpt : productData?.title,
-    "brand": {
-      "@type": "Brand",
+    "datePublished": productData?.date,
+    "dateModified": productData?.date,
+    "author": {
+      "@type": "Person",
       "name": "PromptsHub"
     },
-    "review": {
-      "@type": "Review",
-      "reviewRating": {
-        "@type": "Rating",
-        "ratingValue": "5",
-        "bestRating": "5"
-      },
-      "author": {
-        "@type": "Person",
-        "name": "Customer"
+    "publisher": {
+      "@type": "Organization",
+      "name": "PromptsHub",
+      "logo": {
+        "@type": "ImageObject",
+        "url": "https://promptshub.net/_next/image?url=%2Flogo-h.png&w=256&q=75"
       }
     },
-    "aggregateRating": {
-      "@type": "AggregateRating",
-      "ratingValue": "4.8",
-      "reviewCount": "25"
-    },
-    "offers": {
-      "@type": "Offer",
-      "url": `${appUrl}/prompts/${slug}`,
-      "priceCurrency": "BDT",
-      "price": productData?.price,
-      "availability": "https://schema.org/InStock",
-      "itemCondition": "https://schema.org/NewCondition",
-      "priceValidUntil": "2025-12-31",
-      "hasMerchantReturnPolicy": {
-        "@type": "MerchantReturnPolicy",
-        "returnPolicyCategory": "https://schema.org/MerchantReturnFiniteReturnWindow",
-        "merchantReturnDays": 7,
-        "applicableCountry": "BD",
-        "returnMethod": "https://schema.org/ReturnByMail",
-        "returnFees": "https://schema.org/FreeReturn"
-      },
-      "shippingDetails": {
-        "@type": "OfferShippingDetails",
-        "shippingDestination": {
-          "@type": "DefinedRegion",
-          "addressCountry": "US"
-        },
-        "deliveryTime": {
-          "@type": "ShippingDeliveryTime",
-          "handlingTime": {
-            "@type": "QuantitativeValue",
-            "minValue": 1,
-            "maxValue": 2,
-            "unitCode": "d"
-          },
-          "transitTime": {
-            "@type": "QuantitativeValue",
-            "minValue": 2,
-            "maxValue": 5,
-            "unitCode": "d"
-          }
-        },
-        "shippingRate": {
-          "@type": "MonetaryAmount",
-          "value": "0",
-          "currency": "BDT"
-        }
-      }
-    }
+    "description": productData?.post_excerpt ? productData?.post_excerpt : productData?.title
   }
 
-    ;
+
+
+  // const productSchema = {
+  //   "@context": "https://schema.org/",
+  //   "@type": "Product",
+  //   "name": productData?.title,
+  //   "image": [productData?.post_thumbnail?.src],
+  //   "sku": productData?.sku || slug,
+  //   "description": productData?.post_excerpt ? productData?.post_excerpt : productData?.title,
+  //   "brand": {
+  //     "@type": "Brand",
+  //     "name": "PromptsHub"
+  //   },
+  //   "review": {
+  //     "@type": "Review",
+  //     "reviewRating": {
+  //       "@type": "Rating",
+  //       "ratingValue": "5",
+  //       "bestRating": "5"
+  //     },
+  //     "author": {
+  //       "@type": "Person",
+  //       "name": "Customer"
+  //     }
+  //   },
+  //   "aggregateRating": {
+  //     "@type": "AggregateRating",
+  //     "ratingValue": "4.8",
+  //     "reviewCount": "25"
+  //   },
+  //   "offers": {
+  //     "@type": "Offer",
+  //     "url": `${appUrl}/prompts/${slug}`,
+  //     "priceCurrency": "BDT",
+  //     "price": productData?.price,
+  //     "availability": "https://schema.org/InStock",
+  //     "itemCondition": "https://schema.org/NewCondition",
+  //     "priceValidUntil": "2025-12-31",
+  //     "hasMerchantReturnPolicy": {
+  //       "@type": "MerchantReturnPolicy",
+  //       "returnPolicyCategory": "https://schema.org/MerchantReturnFiniteReturnWindow",
+  //       "merchantReturnDays": 7,
+  //       "applicableCountry": "BD",
+  //       "returnMethod": "https://schema.org/ReturnByMail",
+  //       "returnFees": "https://schema.org/FreeReturn"
+  //     },
+  //     "shippingDetails": {
+  //       "@type": "OfferShippingDetails",
+  //       "shippingDestination": {
+  //         "@type": "DefinedRegion",
+  //         "addressCountry": "US"
+  //       },
+  //       "deliveryTime": {
+  //         "@type": "ShippingDeliveryTime",
+  //         "handlingTime": {
+  //           "@type": "QuantitativeValue",
+  //           "minValue": 1,
+  //           "maxValue": 2,
+  //           "unitCode": "d"
+  //         },
+  //         "transitTime": {
+  //           "@type": "QuantitativeValue",
+  //           "minValue": 2,
+  //           "maxValue": 5,
+  //           "unitCode": "d"
+  //         }
+  //       },
+  //       "shippingRate": {
+  //         "@type": "MonetaryAmount",
+  //         "value": "0",
+  //         "currency": "BDT"
+  //       }
+  //     }
+  //   }
+  // }
+
+  //   ;
+
+
+
+
+
+
+
+
 
 
 

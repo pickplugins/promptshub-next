@@ -124,7 +124,7 @@ const Sidebar = () => {
 
 				<div className="p-4">
 					<div className="mb-2 text-base text-white">{("Categories")}</div>
-					<AccordionMenu navId={"categoriesnavs"} root={"/categories/"} categories={categories} />
+					<AccordionMenu navId={"categoriesnavs"} root={"/category/"} categories={categories} />
 
 					<div>
 						<Accounts />

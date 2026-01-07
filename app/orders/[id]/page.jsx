@@ -4,9 +4,9 @@ import { useState, useEffect, useContext } from "react";
 import LocationPicker from "/components/LocationPicker";
 import Link from "next/link";
 
-import { useCounterStore } from '/store/useCounterStore'
-import { useUtilsStore } from "/store/useUtilsStore";
-import { useAuthStore } from "/store/authStore";
+import { useCounterStore } from '../store/useCounterStore'
+import { useUtilsStore } from "../store/useUtilsStore";
+import { useAuthStore } from "../store/authStore";
 import Spinner from "/components/Spinner";
 import InvoiceWithPDF from "/components/InvoiceWithPDF";
 import Tabs from "/components/Tabs";

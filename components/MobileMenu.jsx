@@ -38,7 +38,7 @@ import {
 } from "@tabler/icons-react";
 import 'animate.css';
 
-import { useCounterStore } from '/store/useCounterStore'
+import { useCounterStore } from '../store/useCounterStore'
 
 
 

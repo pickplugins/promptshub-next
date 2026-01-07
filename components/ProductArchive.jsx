@@ -1,6 +1,6 @@
 "use client";
 import { useEffect, useState } from "react";
-import EntriesArchive from "/components/EntriesArchive";
+import EntriesArchive from "../components/EntriesArchive";
 
 
 
@@ -10,10 +10,8 @@ import { IconArrowNarrowRightDashed, IconArrowNarrowLeftDashed, IconCopy, IconBr
 
 import Link from 'next/link';
 import Spinner from "./Spinner";
-import AddToCart from "/components/shop-elements/AddToCart";
-import Image from "next/image";
 
-import { useCounterStore } from '/store/useCounterStore'
+import { useCounterStore } from '../store/useCounterStore'
 
 
 const ProductArchive = (props) => {

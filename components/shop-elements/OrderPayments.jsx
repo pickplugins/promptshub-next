@@ -7,7 +7,7 @@ import Link from "next/link";
 import { APIProvider, Map, useMapsLibrary, useMap } from '@vis.gl/react-google-maps';
 
 
-import { useCounterStore } from '/store/useCounterStore'
+import { useCounterStore } from '../store/useCounterStore'
 import { useUtilsStore } from "/store/useUtilsStore";
 import LocationPicker from "/components/LocationPicker";
 import GoogleMapDirections from "/components/GoogleMapDirections";

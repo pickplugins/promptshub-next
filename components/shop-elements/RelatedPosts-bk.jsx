@@ -3,11 +3,11 @@ import { useState, useEffect, useContext } from "react";
 
 import Link from "next/link";
 import Image from "next/image";
-import AddToCart from "/components/shop-elements/AddToCart";
+import AddToCart from "../components/shop-elements/AddToCart";
 
 import { IconArrowNarrowRightDashed, IconArrowNarrowLeftDashed, IconCopy, IconBrandOpenai, IconX, IconBookmark, IconHeart, IconHeartFilled, IconChevronDown, IconChevronUp, IconDownload, IconThumbUp, IconThumbDown, IconTags, IconLink, IconEyeSearch, IconHeartPlus, IconTrash, IconStackPop } from "@tabler/icons-react";
 
-import { useCounterStore } from '/store/useCounterStore'
+import { useCounterStore } from '../store/useCounterStore'
 
 
 

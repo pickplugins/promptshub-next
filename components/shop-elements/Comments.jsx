@@ -3,8 +3,8 @@ import { useState, useEffect, useContext } from "react";
 
 import CommentsList from "./CommentsList";
 import CommentsForm from "./CommentsForm";
-import { useCounterStore } from '/store/useCounterStore'
-import { useAuthStore } from "/store/authStore";
+import { useCounterStore } from '../../store/useCounterStore'
+import { useAuthStore } from '../../store/authStore'
 
 const Comments = (props) => {
 	const token = useAuthStore((state) => state.token);

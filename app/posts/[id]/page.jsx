@@ -5,7 +5,7 @@ import Image from "next/image";
 
 
 import { useState, useEffect, useContext } from "react";
-import AddToCart from "/components/shop-elements/AddToCart";
+import AddToCart from "../../components/shop-elements/AddToCart";
 import ImageGallery from "/components/shop-elements/ImageGallery";
 import Tabs from "/components/Tabs";
 import Tab from "/components/Tab";
@@ -13,7 +13,7 @@ import Comments from "/components/shop-elements/Comments";
 import RelatedPosts from "/components/shop-elements/RelatedPosts";
 import Upsells from "/components/shop-elements/Upsells";
 import ToggleContent from "/components/ToggleContent";
-import { useCounterStore } from '/store/useCounterStore'
+import { useCounterStore } from '../store/useCounterStore'
 
 
 const page = ({ params }) => {

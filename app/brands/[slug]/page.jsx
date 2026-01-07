@@ -2,12 +2,8 @@
 import Link from "next/link";
 import Image from "next/image";
 import React from "react";
-// import { useState, useEffect, useContext } from "react";
-import { useCounterStore } from '/store/useCounterStore'
-// import { useUtilsStore } from "/store/useUtilsStore";
-// import { useAuthStore } from "/store/authStore";
-import AddToCart from "/components/shop-elements/AddToCart";
-import ProductArchive from "/components/ProductArchive";
+
+import ProductArchive from "../components/ProductArchive";
 
 
 import { IconArrowNarrowRightDashed, IconArrowNarrowLeftDashed, IconCopy, IconBrandOpenai, IconX, IconBookmark, IconHeart, IconHeartFilled, IconChevronDown, IconChevronUp, IconDownload, IconThumbUp, IconThumbDown, IconTags, IconLink, IconEyeSearch, IconHeartPlus, IconTrash, IconStackPop } from "@tabler/icons-react";

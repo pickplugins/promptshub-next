@@ -6,23 +6,9 @@ import Image from "next/image";
 
 
 // import { useState, useEffect, useContext } from "react";
-import AddToCart from "/components/shop-elements/AddToCart";
-import SubscribeToCall from "/components/shop-elements/SubscribeToCall";
-import RequestForStock from "/components/shop-elements/RequestForStock";
-import ImageGallery from "/components/shop-elements/ImageGallery";
-import Tabs from "/components/Tabs";
-import Tab from "/components/Tab";
-import Comments from "/components/shop-elements/Comments";
-import RelatedPosts from "/components/shop-elements/RelatedPosts";
-import RequestForDiscount from "/components/shop-elements/RequestForDiscount";
-import Upsells from "/components/shop-elements/Upsells";
-import PromptView from "/components/PromptView";
-import ToggleContent from "/components/ToggleContent";
-import ReactMarkdown from 'react-markdown';
 
-// import { useCounterStore } from '/store/useCounterStore'
-// import { useUtilsStore } from "/store/useUtilsStore";
-// import { useAuthStore } from "/store/authStore";
+import PromptView from "/components/PromptView";
+
 import { marked } from 'marked';
 import { IconArrowNarrowRightDashed, IconHelp, IconCopy, IconBrandOpenai, IconX, IconShoppingCartPlus, IconHeart, IconHeartFilled, IconChevronDown, IconShoppingCartCopy, IconDownload, IconThumbUp, IconThumbDown, IconEyeSearch, IconReplace } from "@tabler/icons-react";
 

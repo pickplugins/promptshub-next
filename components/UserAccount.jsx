@@ -9,7 +9,7 @@ import {
 	IconDatabaseSmile,
 	IconShoppingCart,
 } from "@tabler/icons-react";
-import { useCounterStore } from '/store/useCounterStore'
+import { useCounterStore } from '../store/useCounterStore'
 import AccordionMenu from "./AccordionMenu";
 import { useAuthStore } from "/store/authStore";
 

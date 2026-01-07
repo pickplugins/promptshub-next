@@ -1,11 +1,11 @@
 "use client"
 import { useState, useEffect } from "react";
 import { IconMessages, IconRosetteDiscountCheck, IconX, IconHeartDiscount, IconMessage2 } from "@tabler/icons-react";
-import { useCounterStore } from '/store/useCounterStore'
-import Spinner from "/components/Spinner";
+import { useCounterStore } from '../store/useCounterStore'
+import Spinner from "../components/Spinner";
 import DatePicker from "react-datepicker";
 import "react-datepicker/dist/react-datepicker.css";
-import PopoverButton from "/components/PopoverButton";
+import PopoverButton from "../components/PopoverButton";
 
 const RequestForDiscount = (props) => {
 

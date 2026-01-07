@@ -2,7 +2,7 @@
 import { useState, useEffect, Component } from "react";
 import { IconChevronDown, IconChevronUp, IconSquare, IconFidgetSpinner, IconTrash, IconHelpHexagon, IconStar, IconClockPause, IconExclamationCircle, IconRosetteDiscountCheck, IconX } from "@tabler/icons-react";
 
-import { useCounterStore } from '/store/useCounterStore'
+import { useCounterStore } from '../store/useCounterStore'
 
 import ToggleContent from "/components/ToggleContent";
 import TermsPicker from "/components/shop-elements/TermsPicker";

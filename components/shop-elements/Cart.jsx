@@ -4,13 +4,13 @@ import { IconSquareRoundedPlusFilled, IconSquareRoundedMinusFilled, IconStarFill
 import Image from "next/image";
 
 import Checkout from "./Checkout";
-import { useCounterStore } from '/store/useCounterStore'
-import { useUtilsStore } from "/store/useUtilsStore";
-import { useAuthStore } from "/store/authStore";
+import { useCounterStore } from '../../store/useCounterStore'
+import { useUtilsStore } from "../../store/useUtilsStore";
+import { useAuthStore } from "../../store/authStore";
 import Spinner from "../Spinner";
 import 'animate.css';
 const serverUrl = process.env.NEXT_PUBLIC_SERVER_URL;
-import * as fbq from "/lib/fpixel";
+import * as fbq from "../../lib/fpixel";
 
 
 const Cart = (props) => {

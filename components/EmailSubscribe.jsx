@@ -1,7 +1,7 @@
 'use client'
 import React, { useContext, useState } from "react";
-import Spinner from "/components/Spinner";
-import { useCounterStore } from '/store/useCounterStore'
+import Spinner from "../components/Spinner";
+import { useCounterStore } from '../store/useCounterStore'
 
 const EmailSubscribe = () => {
 

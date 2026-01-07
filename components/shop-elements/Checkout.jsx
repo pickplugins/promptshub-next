@@ -1,15 +1,15 @@
 'use client'
 import { useState, useEffect, useContext, useRef } from "react";
 import { IconSquareRoundedPlusFilled, IconSquareRoundedMinusFilled, IconStarFilled, IconStar, IconTrash, IconBasketCheck, IconChevronUp, IconChevronDown, IconX, IconShoppingCartCancel, IconSquare, IconSquareCheck } from "@tabler/icons-react";
-import Spinner from "/components/Spinner";
+import Spinner from "../../components/Spinner";
 
 import ToggleContent from "../ToggleContent";
 import LocationPicker from "../LocationPicker";
-import { useCounterStore } from '/store/useCounterStore'
-import { useUtilsStore } from "/store/useUtilsStore";
+import { useCounterStore } from '../../store/useCounterStore'
+import { useUtilsStore } from '../../store/useUtilsStore'
 import { useRouter } from "next/navigation";
-import { useAuthStore } from "/store/authStore";
-import * as fbq from "/lib/fpixel";
+import { useAuthStore } from '../../store/authStore'
+import * as fbq from '../../lib/fpixel'
 
 
 const Checkout = (props) => {

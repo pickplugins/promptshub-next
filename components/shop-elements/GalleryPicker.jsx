@@ -2,7 +2,7 @@
 import { useState, useEffect } from "react";
 import { IconRefresh, IconEraser, IconSquareX, IconArrowNarrowRightDashed, IconArrowNarrowLeftDashed } from "@tabler/icons-react";
 import Popover from "../Popover";
-import { useCounterStore } from '/store/useCounterStore'
+import { useCounterStore } from '../store/useCounterStore'
 
 const GalleryPicker = (props) => {
 

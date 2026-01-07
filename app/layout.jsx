@@ -1,10 +1,10 @@
 import { Geist, Geist_Mono } from "next/font/google";
 import "./globals.css";
-import Sidebar from "/components/Sidebar";
-import MobileMenu from "/components/MobileMenu";
-import GlobalHeader from "/components/GlobalHeader";
-import GlobalFooter from "/components/GlobalFooter";
-import { AuthProvider } from "/components/auth-context";
+import Sidebar from "../components/Sidebar";
+import MobileMenu from "../components/MobileMenu";
+import GlobalHeader from "../components/GlobalHeader";
+import GlobalFooter from "../components/GlobalFooter";
+import { AuthProvider } from "../components/auth-context";
 import { Metadata } from "next";
 import NextTopLoader from 'nextjs-toploader';
 import Script from "next/script";

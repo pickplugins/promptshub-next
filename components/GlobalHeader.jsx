@@ -12,14 +12,14 @@ import {
 	IconBuildingStore,
 	IconLogs,
 } from "@tabler/icons-react";
-import { useCounterStore } from '/store/useCounterStore'
+import { useCounterStore } from '../store/useCounterStore'
 import { usePathname } from 'next/navigation';
 import Cart from "./shop-elements/Cart";
-import { useAuthStore } from "/store/authStore";
+import { useAuthStore } from '../store/authStore'
 import 'animate.css';
 import Accounts from "./Accounts";
 import AccordionMenu from "./AccordionMenu";
-import PopoverButton from "/components/PopoverButton";
+import PopoverButton from "../components/PopoverButton";
 
 const GlobalHeader = () => {
 	const token = useAuthStore((state) => state.token);

@@ -6,8 +6,8 @@ import '@splidejs/react-splide/css/core';
 
 import Image from "next/image";
 import Link from 'next/link';
-import AddToCart from "/components/shop-elements/AddToCart";
-import { useCounterStore } from '/store/useCounterStore'
+import AddToCart from "../components/shop-elements/AddToCart";
+import { useCounterStore } from '../store/useCounterStore'
 
 const serverUrl = process.env.NEXT_PUBLIC_SERVER_URL;
 

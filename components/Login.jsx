@@ -3,7 +3,7 @@
 import { useState } from "react";
 import { useAuth } from "./auth-context";
 import { useRouter } from "next/navigation";
-import Spinner from "/components/Spinner";
+import Spinner from "../components/Spinner";
 
 export default function Login() {
 

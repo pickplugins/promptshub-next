@@ -18,7 +18,7 @@ import EmailSubscribe from "../components/EmailSubscribe";
 import ReactMarkdown from 'react-markdown';
 import PlaceholderEditor from "../components/shop-elements/PlaceholderEditor";
 import RelatedPosts from "../components/shop-elements/RelatedPosts";
-import { useCounterStore } from '/store/useCounterStore'
+import { useCounterStore } from '../store/useCounterStore'
 
 
 const appUrl = process.env.NEXT_PUBLIC_APP_URL;

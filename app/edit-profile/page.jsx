@@ -5,7 +5,7 @@ import Image from "next/image";
 import React from "react";
 import { useState, useEffect, useContext } from "react";
 import EntriesTable from "/components/EntriesTable";
-import { useCounterStore } from '/store/useCounterStore'
+import { useCounterStore } from '../store/useCounterStore'
 
 import { IconChevronDown, IconChevronUp, IconSquare, IconFidgetSpinner, IconTrash, IconStarFilled, IconStar, IconClockPause, IconExclamationCircle, IconRosetteDiscountCheck, IconX } from "@tabler/icons-react";
 

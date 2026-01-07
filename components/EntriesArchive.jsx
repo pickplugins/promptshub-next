@@ -14,7 +14,7 @@ import {
 import Link from 'next/link';
 import Spinner from "./Spinner";
 
-import { useCounterStore } from '/store/useCounterStore'
+import { useCounterStore } from '../store/useCounterStore'
 
 
 const EntriesArchive = (props) => {

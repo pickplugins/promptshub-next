@@ -2,7 +2,7 @@
 
 import React, { useContext, useState } from "react";
 import Spinner from "./Spinner";
-import { useCounterStore } from '/store/useCounterStore'
+import { useCounterStore } from '../store/useCounterStore'
 
 
 const Register = () => {

@@ -1,9 +1,9 @@
 "use client";
 
 import { createContext, useContext, useState, useEffect } from "react";
-import { useCounterStore } from '/store/useCounterStore'
+import { useCounterStore } from '../store/useCounterStore'
 import { useRouter } from "next/navigation";
-import { useAuthStore } from "/store/authStore";
+import { useAuthStore } from "../store/authStore";
 
 const AuthContext = createContext(null);
 

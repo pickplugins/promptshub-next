@@ -3,9 +3,9 @@ import { useState, useEffect, useContext } from "react";
 
 import { IconArrowNarrowRightDashed, IconArrowNarrowLeftDashed, IconMessage2, IconMessages, IconX, IconBookmark, IconTrolley, IconHeartFilled, IconChevronDown, IconChevronUp, IconDownload, IconThumbUp, IconThumbDown, IconEyeSearch, IconExclamationCircle } from "@tabler/icons-react";
 import StarRating from "./StarRating";
-import { useCounterStore } from '/store/useCounterStore'
-import { useAuthStore } from "/store/authStore";
-import PopoverButton from "/components/PopoverButton";
+import { useCounterStore } from '../../store/useCounterStore'
+import { useAuthStore } from '../../store/authStore'
+import PopoverButton from '../../components/PopoverButton'
 
 const CommentsForm = (props) => {
 	const token = useAuthStore((state) => state.token);

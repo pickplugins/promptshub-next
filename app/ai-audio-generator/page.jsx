@@ -2,8 +2,8 @@
 
 import UserAccount from "/components/UserAccount";
 
-import { useCounterStore } from '/store/useCounterStore'
-import { AuthProvider } from "/components/auth-context";
+import { useCounterStore } from '../store/useCounterStore'
+import { AuthProvider } from "../components/auth-context";
 import { useAuthStore } from "/store/authStore";
 
 

@@ -2,7 +2,7 @@
 import { useState, useEffect, Component } from "react";
 import { IconArrowLeft, IconX, IconAlertSquare, IconCheck } from '@tabler/icons-react';
 
-import { useCounterStore } from '/store/useCounterStore'
+import { useCounterStore } from '../store/useCounterStore'
 
 
 

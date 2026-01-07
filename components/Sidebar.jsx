@@ -34,7 +34,7 @@ import {
 	IconList,
 } from "@tabler/icons-react";
 
-import { useCounterStore } from '/store/useCounterStore'
+import { useCounterStore } from '../store/useCounterStore'
 
 
 

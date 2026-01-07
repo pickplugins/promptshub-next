@@ -6,11 +6,11 @@ import Link from "next/link";
 
 import { APIProvider, Map, useMapsLibrary, useMap } from '@vis.gl/react-google-maps';
 
-import { useAuthStore } from "/store/authStore";
+import { useAuthStore } from '../../store/authStore'
 
-import { useCounterStore } from '/store/useCounterStore'
-import { useUtilsStore } from "/store/useUtilsStore";
-import GoogleMapLocationPicker from "/components/GoogleMapLocationPicker";
+import { useCounterStore } from '../../store/useCounterStore'
+import { useUtilsStore } from '../../store/useUtilsStore'
+import GoogleMapLocationPicker from '../../components/GoogleMapLocationPicker'
 // import LocationPicker from "/components/LocationPicker";
 import GoogleMapDirections from "/components/GoogleMapDirections";
 import PopoverButton from "/components/PopoverButton";

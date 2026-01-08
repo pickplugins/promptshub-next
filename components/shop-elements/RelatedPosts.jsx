@@ -28,7 +28,7 @@ const RelatedPosts = (props) => {
 			"content": "Professional photograph of Popcorn with chili flakes shot with [camera brand and model] using [lens specifications], [shooting mode] with [exposure settings], [lighting conditions] featuring [natural/artificial light], [composition technique] with [rule of thirds/leading lines], [depth of field] creating [bokeh quality], [color grading] with [mood/tone], [perspective angle] from [shooting position], [environmental context], [foreground/background elements], [moment capture], [technical quality], [post-processing style], award-winning photography",
 			"excerpt": "Professional AI image generation prompt for Popcorn with chili flakes with multiple style variations and placeholder formatting",
 			"status": "publish",
-			"post_thumbnail_url": "https://promptshub.net/server/wp-content/uploads/2025/07/image-1002.jpg",
+			"post_thumbnail_url": "https://server.promptshub.net/wp-content/uploads/2025/07/image-1002.jpg",
 			"featured": "",
 			"author": {
 				"name": "promptshub",
@@ -59,42 +59,42 @@ const RelatedPosts = (props) => {
 				{
 					"id": 187601,
 					"title": "image-1002",
-					"src": "https://promptshub.net/server/wp-content/uploads/2025/07/image-1002.jpg"
+					"src": "https://server.promptshub.net/wp-content/uploads/2025/07/image-1002.jpg"
 				},
 				{
 					"id": 187600,
 					"title": "image-1001",
-					"src": "https://promptshub.net/server/wp-content/uploads/2025/07/image-1001.jpg"
+					"src": "https://server.promptshub.net/wp-content/uploads/2025/07/image-1001.jpg"
 				},
 				{
 					"id": 187598,
 					"title": "image-999",
-					"src": "https://promptshub.net/server/wp-content/uploads/2025/07/image-999.jpg"
+					"src": "https://server.promptshub.net/wp-content/uploads/2025/07/image-999.jpg"
 				},
 				{
 					"id": 187597,
 					"title": "image-998",
-					"src": "https://promptshub.net/server/wp-content/uploads/2025/07/image-998.jpg"
+					"src": "https://server.promptshub.net/wp-content/uploads/2025/07/image-998.jpg"
 				},
 				{
 					"id": 187596,
 					"title": "image-997",
-					"src": "https://promptshub.net/server/wp-content/uploads/2025/07/image-997.jpg"
+					"src": "https://server.promptshub.net/wp-content/uploads/2025/07/image-997.jpg"
 				},
 				{
 					"id": 187594,
 					"title": "image-995",
-					"src": "https://promptshub.net/server/wp-content/uploads/2025/07/image-995.jpg"
+					"src": "https://server.promptshub.net/wp-content/uploads/2025/07/image-995.jpg"
 				},
 				{
 					"id": 187593,
 					"title": "image-994",
-					"src": "https://promptshub.net/server/wp-content/uploads/2025/07/image-994.jpg"
+					"src": "https://server.promptshub.net/wp-content/uploads/2025/07/image-994.jpg"
 				},
 				{
 					"id": 187592,
 					"title": "image-993",
-					"src": "https://promptshub.net/server/wp-content/uploads/2025/07/image-993.jpg"
+					"src": "https://server.promptshub.net/wp-content/uploads/2025/07/image-993.jpg"
 				}
 			],
 			"addons": [],
@@ -126,7 +126,7 @@ const RelatedPosts = (props) => {
 					"thumbnail": {
 						"id": 187592,
 						"title": "",
-						"src": "https://promptshub.net/server/wp-content/uploads/2025/07/image-993.jpg"
+						"src": "https://server.promptshub.net/wp-content/uploads/2025/07/image-993.jpg"
 					}
 				},
 				{
@@ -135,7 +135,7 @@ const RelatedPosts = (props) => {
 					"thumbnail": {
 						"id": 187593,
 						"title": "",
-						"src": "https://promptshub.net/server/wp-content/uploads/2025/07/image-994.jpg"
+						"src": "https://server.promptshub.net/wp-content/uploads/2025/07/image-994.jpg"
 					}
 				},
 				{
@@ -144,7 +144,7 @@ const RelatedPosts = (props) => {
 					"thumbnail": {
 						"id": 187594,
 						"title": "",
-						"src": "https://promptshub.net/server/wp-content/uploads/2025/07/image-995.jpg"
+						"src": "https://server.promptshub.net/wp-content/uploads/2025/07/image-995.jpg"
 					}
 				},
 				{
@@ -153,7 +153,7 @@ const RelatedPosts = (props) => {
 					"thumbnail": {
 						"id": 187595,
 						"title": "",
-						"src": "https://promptshub.net/server/wp-content/uploads/2025/07/image-996.jpg"
+						"src": "https://server.promptshub.net/wp-content/uploads/2025/07/image-996.jpg"
 					}
 				},
 				{
@@ -162,7 +162,7 @@ const RelatedPosts = (props) => {
 					"thumbnail": {
 						"id": 187596,
 						"title": "",
-						"src": "https://promptshub.net/server/wp-content/uploads/2025/07/image-997.jpg"
+						"src": "https://server.promptshub.net/wp-content/uploads/2025/07/image-997.jpg"
 					}
 				},
 				{
@@ -171,7 +171,7 @@ const RelatedPosts = (props) => {
 					"thumbnail": {
 						"id": 187597,
 						"title": "",
-						"src": "https://promptshub.net/server/wp-content/uploads/2025/07/image-998.jpg"
+						"src": "https://server.promptshub.net/wp-content/uploads/2025/07/image-998.jpg"
 					}
 				},
 				{
@@ -180,7 +180,7 @@ const RelatedPosts = (props) => {
 					"thumbnail": {
 						"id": 187598,
 						"title": "",
-						"src": "https://promptshub.net/server/wp-content/uploads/2025/07/image-999.jpg"
+						"src": "https://server.promptshub.net/wp-content/uploads/2025/07/image-999.jpg"
 					}
 				},
 				{
@@ -189,7 +189,7 @@ const RelatedPosts = (props) => {
 					"thumbnail": {
 						"id": 187599,
 						"title": "",
-						"src": "https://promptshub.net/server/wp-content/uploads/2025/07/image-1000.jpg"
+						"src": "https://server.promptshub.net/wp-content/uploads/2025/07/image-1000.jpg"
 					}
 				},
 				{
@@ -198,7 +198,7 @@ const RelatedPosts = (props) => {
 					"thumbnail": {
 						"id": 187600,
 						"title": "",
-						"src": "https://promptshub.net/server/wp-content/uploads/2025/07/image-1001.jpg"
+						"src": "https://server.promptshub.net/wp-content/uploads/2025/07/image-1001.jpg"
 					}
 				}
 			]
@@ -209,7 +209,7 @@ const RelatedPosts = (props) => {
 			"content": "Professional photograph of Spicy cheese popcorn shot with [camera brand and model] using [lens specifications], [shooting mode] with [exposure settings], [lighting conditions] featuring [natural/artificial light], [composition technique] with [rule of thirds/leading lines], [depth of field] creating [bokeh quality], [color grading] with [mood/tone], [perspective angle] from [shooting position], [environmental context], [foreground/background elements], [moment capture], [technical quality], [post-processing style], award-winning photography",
 			"excerpt": "Professional AI image generation prompt for Spicy cheese popcorn with multiple style variations and placeholder formatting",
 			"status": "publish",
-			"post_thumbnail_url": "https://promptshub.net/server/wp-content/uploads/2025/07/image-983.jpg",
+			"post_thumbnail_url": "https://server.promptshub.net/wp-content/uploads/2025/07/image-983.jpg",
 			"featured": "",
 			"author": {
 				"name": "promptshub",
@@ -240,47 +240,47 @@ const RelatedPosts = (props) => {
 				{
 					"id": 187591,
 					"title": "image-992",
-					"src": "https://promptshub.net/server/wp-content/uploads/2025/07/image-992.jpg"
+					"src": "https://server.promptshub.net/wp-content/uploads/2025/07/image-992.jpg"
 				},
 				{
 					"id": 187590,
 					"title": "image-991",
-					"src": "https://promptshub.net/server/wp-content/uploads/2025/07/image-991.jpg"
+					"src": "https://server.promptshub.net/wp-content/uploads/2025/07/image-991.jpg"
 				},
 				{
 					"id": 187589,
 					"title": "image-990",
-					"src": "https://promptshub.net/server/wp-content/uploads/2025/07/image-990.jpg"
+					"src": "https://server.promptshub.net/wp-content/uploads/2025/07/image-990.jpg"
 				},
 				{
 					"id": 187588,
 					"title": "image-989",
-					"src": "https://promptshub.net/server/wp-content/uploads/2025/07/image-989.jpg"
+					"src": "https://server.promptshub.net/wp-content/uploads/2025/07/image-989.jpg"
 				},
 				{
 					"id": 187587,
 					"title": "image-988",
-					"src": "https://promptshub.net/server/wp-content/uploads/2025/07/image-988.jpg"
+					"src": "https://server.promptshub.net/wp-content/uploads/2025/07/image-988.jpg"
 				},
 				{
 					"id": 187586,
 					"title": "image-987",
-					"src": "https://promptshub.net/server/wp-content/uploads/2025/07/image-987.jpg"
+					"src": "https://server.promptshub.net/wp-content/uploads/2025/07/image-987.jpg"
 				},
 				{
 					"id": 187585,
 					"title": "image-986",
-					"src": "https://promptshub.net/server/wp-content/uploads/2025/07/image-986.jpg"
+					"src": "https://server.promptshub.net/wp-content/uploads/2025/07/image-986.jpg"
 				},
 				{
 					"id": 187583,
 					"title": "image-984",
-					"src": "https://promptshub.net/server/wp-content/uploads/2025/07/image-984.jpg"
+					"src": "https://server.promptshub.net/wp-content/uploads/2025/07/image-984.jpg"
 				},
 				{
 					"id": 187582,
 					"title": "image-983",
-					"src": "https://promptshub.net/server/wp-content/uploads/2025/07/image-983.jpg"
+					"src": "https://server.promptshub.net/wp-content/uploads/2025/07/image-983.jpg"
 				}
 			],
 			"addons": [],
@@ -312,7 +312,7 @@ const RelatedPosts = (props) => {
 					"thumbnail": {
 						"id": 187583,
 						"title": "",
-						"src": "https://promptshub.net/server/wp-content/uploads/2025/07/image-984.jpg"
+						"src": "https://server.promptshub.net/wp-content/uploads/2025/07/image-984.jpg"
 					}
 				},
 				{
@@ -321,7 +321,7 @@ const RelatedPosts = (props) => {
 					"thumbnail": {
 						"id": 187585,
 						"title": "",
-						"src": "https://promptshub.net/server/wp-content/uploads/2025/07/image-986.jpg"
+						"src": "https://server.promptshub.net/wp-content/uploads/2025/07/image-986.jpg"
 					}
 				},
 				{
@@ -330,7 +330,7 @@ const RelatedPosts = (props) => {
 					"thumbnail": {
 						"id": 187586,
 						"title": "",
-						"src": "https://promptshub.net/server/wp-content/uploads/2025/07/image-987.jpg"
+						"src": "https://server.promptshub.net/wp-content/uploads/2025/07/image-987.jpg"
 					}
 				},
 				{
@@ -339,7 +339,7 @@ const RelatedPosts = (props) => {
 					"thumbnail": {
 						"id": 187587,
 						"title": "",
-						"src": "https://promptshub.net/server/wp-content/uploads/2025/07/image-988.jpg"
+						"src": "https://server.promptshub.net/wp-content/uploads/2025/07/image-988.jpg"
 					}
 				},
 				{
@@ -348,7 +348,7 @@ const RelatedPosts = (props) => {
 					"thumbnail": {
 						"id": 187588,
 						"title": "",
-						"src": "https://promptshub.net/server/wp-content/uploads/2025/07/image-989.jpg"
+						"src": "https://server.promptshub.net/wp-content/uploads/2025/07/image-989.jpg"
 					}
 				},
 				{
@@ -357,7 +357,7 @@ const RelatedPosts = (props) => {
 					"thumbnail": {
 						"id": 187589,
 						"title": "",
-						"src": "https://promptshub.net/server/wp-content/uploads/2025/07/image-990.jpg"
+						"src": "https://server.promptshub.net/wp-content/uploads/2025/07/image-990.jpg"
 					}
 				},
 				{
@@ -366,7 +366,7 @@ const RelatedPosts = (props) => {
 					"thumbnail": {
 						"id": 187590,
 						"title": "",
-						"src": "https://promptshub.net/server/wp-content/uploads/2025/07/image-991.jpg"
+						"src": "https://server.promptshub.net/wp-content/uploads/2025/07/image-991.jpg"
 					}
 				},
 				{
@@ -375,7 +375,7 @@ const RelatedPosts = (props) => {
 					"thumbnail": {
 						"id": 187591,
 						"title": "",
-						"src": "https://promptshub.net/server/wp-content/uploads/2025/07/image-992.jpg"
+						"src": "https://server.promptshub.net/wp-content/uploads/2025/07/image-992.jpg"
 					}
 				},
 				{
@@ -395,7 +395,7 @@ const RelatedPosts = (props) => {
 			"content": "Professional photograph of Kettle corn shot with [camera brand and model] using [lens specifications], [shooting mode] with [exposure settings], [lighting conditions] featuring [natural/artificial light], [composition technique] with [rule of thirds/leading lines], [depth of field] creating [bokeh quality], [color grading] with [mood/tone], [perspective angle] from [shooting position], [environmental context], [foreground/background elements], [moment capture], [technical quality], [post-processing style], award-winning photography",
 			"excerpt": "Professional AI image generation prompt for Kettle corn with multiple style variations and placeholder formatting",
 			"status": "publish",
-			"post_thumbnail_url": "https://promptshub.net/server/wp-content/uploads/2025/07/image-972.jpg",
+			"post_thumbnail_url": "https://server.promptshub.net/wp-content/uploads/2025/07/image-972.jpg",
 			"featured": "",
 			"author": {
 				"name": "promptshub",
@@ -426,42 +426,42 @@ const RelatedPosts = (props) => {
 				{
 					"id": 187581,
 					"title": "image-982",
-					"src": "https://promptshub.net/server/wp-content/uploads/2025/07/image-982.jpg"
+					"src": "https://server.promptshub.net/wp-content/uploads/2025/07/image-982.jpg"
 				},
 				{
 					"id": 187580,
 					"title": "image-981",
-					"src": "https://promptshub.net/server/wp-content/uploads/2025/07/image-981.jpg"
+					"src": "https://server.promptshub.net/wp-content/uploads/2025/07/image-981.jpg"
 				},
 				{
 					"id": 187579,
 					"title": "image-980",
-					"src": "https://promptshub.net/server/wp-content/uploads/2025/07/image-980.jpg"
+					"src": "https://server.promptshub.net/wp-content/uploads/2025/07/image-980.jpg"
 				},
 				{
 					"id": 187578,
 					"title": "image-979",
-					"src": "https://promptshub.net/server/wp-content/uploads/2025/07/image-979.jpg"
+					"src": "https://server.promptshub.net/wp-content/uploads/2025/07/image-979.jpg"
 				},
 				{
 					"id": 187577,
 					"title": "image-978",
-					"src": "https://promptshub.net/server/wp-content/uploads/2025/07/image-978.jpg"
+					"src": "https://server.promptshub.net/wp-content/uploads/2025/07/image-978.jpg"
 				},
 				{
 					"id": 187574,
 					"title": "image-975",
-					"src": "https://promptshub.net/server/wp-content/uploads/2025/07/image-975.jpg"
+					"src": "https://server.promptshub.net/wp-content/uploads/2025/07/image-975.jpg"
 				},
 				{
 					"id": 187572,
 					"title": "image-973",
-					"src": "https://promptshub.net/server/wp-content/uploads/2025/07/image-973.jpg"
+					"src": "https://server.promptshub.net/wp-content/uploads/2025/07/image-973.jpg"
 				},
 				{
 					"id": 187571,
 					"title": "image-972",
-					"src": "https://promptshub.net/server/wp-content/uploads/2025/07/image-972.jpg"
+					"src": "https://server.promptshub.net/wp-content/uploads/2025/07/image-972.jpg"
 				}
 			],
 			"addons": [],
@@ -493,7 +493,7 @@ const RelatedPosts = (props) => {
 					"thumbnail": {
 						"id": 187572,
 						"title": "",
-						"src": "https://promptshub.net/server/wp-content/uploads/2025/07/image-973.jpg"
+						"src": "https://server.promptshub.net/wp-content/uploads/2025/07/image-973.jpg"
 					}
 				},
 				{
@@ -502,7 +502,7 @@ const RelatedPosts = (props) => {
 					"thumbnail": {
 						"id": 187574,
 						"title": "",
-						"src": "https://promptshub.net/server/wp-content/uploads/2025/07/image-975.jpg"
+						"src": "https://server.promptshub.net/wp-content/uploads/2025/07/image-975.jpg"
 					}
 				},
 				{
@@ -511,7 +511,7 @@ const RelatedPosts = (props) => {
 					"thumbnail": {
 						"id": 187575,
 						"title": "",
-						"src": "https://promptshub.net/server/wp-content/uploads/2025/07/image-976.jpg"
+						"src": "https://server.promptshub.net/wp-content/uploads/2025/07/image-976.jpg"
 					}
 				},
 				{
@@ -520,7 +520,7 @@ const RelatedPosts = (props) => {
 					"thumbnail": {
 						"id": 187576,
 						"title": "",
-						"src": "https://promptshub.net/server/wp-content/uploads/2025/07/image-977.jpg"
+						"src": "https://server.promptshub.net/wp-content/uploads/2025/07/image-977.jpg"
 					}
 				},
 				{
@@ -529,7 +529,7 @@ const RelatedPosts = (props) => {
 					"thumbnail": {
 						"id": 187577,
 						"title": "",
-						"src": "https://promptshub.net/server/wp-content/uploads/2025/07/image-978.jpg"
+						"src": "https://server.promptshub.net/wp-content/uploads/2025/07/image-978.jpg"
 					}
 				},
 				{
@@ -538,7 +538,7 @@ const RelatedPosts = (props) => {
 					"thumbnail": {
 						"id": 187578,
 						"title": "",
-						"src": "https://promptshub.net/server/wp-content/uploads/2025/07/image-979.jpg"
+						"src": "https://server.promptshub.net/wp-content/uploads/2025/07/image-979.jpg"
 					}
 				},
 				{
@@ -547,7 +547,7 @@ const RelatedPosts = (props) => {
 					"thumbnail": {
 						"id": 187579,
 						"title": "",
-						"src": "https://promptshub.net/server/wp-content/uploads/2025/07/image-980.jpg"
+						"src": "https://server.promptshub.net/wp-content/uploads/2025/07/image-980.jpg"
 					}
 				},
 				{
@@ -556,7 +556,7 @@ const RelatedPosts = (props) => {
 					"thumbnail": {
 						"id": 187580,
 						"title": "",
-						"src": "https://promptshub.net/server/wp-content/uploads/2025/07/image-981.jpg"
+						"src": "https://server.promptshub.net/wp-content/uploads/2025/07/image-981.jpg"
 					}
 				},
 				{
@@ -565,7 +565,7 @@ const RelatedPosts = (props) => {
 					"thumbnail": {
 						"id": 187581,
 						"title": "",
-						"src": "https://promptshub.net/server/wp-content/uploads/2025/07/image-982.jpg"
+						"src": "https://server.promptshub.net/wp-content/uploads/2025/07/image-982.jpg"
 					}
 				}
 			]
@@ -576,7 +576,7 @@ const RelatedPosts = (props) => {
 			"content": "Professional photograph of Unsalted popcorn shot with [camera brand and model] using [lens specifications], [shooting mode] with [exposure settings], [lighting conditions] featuring [natural/artificial light], [composition technique] with [rule of thirds/leading lines], [depth of field] creating [bokeh quality], [color grading] with [mood/tone], [perspective angle] from [shooting position], [environmental context], [foreground/background elements], [moment capture], [technical quality], [post-processing style], award-winning photography",
 			"excerpt": "Professional AI image generation prompt for Unsalted popcorn with multiple style variations and placeholder formatting",
 			"status": "publish",
-			"post_thumbnail_url": "https://promptshub.net/server/wp-content/uploads/2025/07/image-961.jpg",
+			"post_thumbnail_url": "https://server.promptshub.net/wp-content/uploads/2025/07/image-961.jpg",
 			"featured": "",
 			"author": {
 				"name": "promptshub",
@@ -607,52 +607,52 @@ const RelatedPosts = (props) => {
 				{
 					"id": 187570,
 					"title": "image-971",
-					"src": "https://promptshub.net/server/wp-content/uploads/2025/07/image-971.jpg"
+					"src": "https://server.promptshub.net/wp-content/uploads/2025/07/image-971.jpg"
 				},
 				{
 					"id": 187569,
 					"title": "image-970",
-					"src": "https://promptshub.net/server/wp-content/uploads/2025/07/image-970.jpg"
+					"src": "https://server.promptshub.net/wp-content/uploads/2025/07/image-970.jpg"
 				},
 				{
 					"id": 187568,
 					"title": "image-969",
-					"src": "https://promptshub.net/server/wp-content/uploads/2025/07/image-969.jpg"
+					"src": "https://server.promptshub.net/wp-content/uploads/2025/07/image-969.jpg"
 				},
 				{
 					"id": 187567,
 					"title": "image-968",
-					"src": "https://promptshub.net/server/wp-content/uploads/2025/07/image-968.jpg"
+					"src": "https://server.promptshub.net/wp-content/uploads/2025/07/image-968.jpg"
 				},
 				{
 					"id": 187566,
 					"title": "image-967",
-					"src": "https://promptshub.net/server/wp-content/uploads/2025/07/image-967.jpg"
+					"src": "https://server.promptshub.net/wp-content/uploads/2025/07/image-967.jpg"
 				},
 				{
 					"id": 187565,
 					"title": "image-966",
-					"src": "https://promptshub.net/server/wp-content/uploads/2025/07/image-966.jpg"
+					"src": "https://server.promptshub.net/wp-content/uploads/2025/07/image-966.jpg"
 				},
 				{
 					"id": 187564,
 					"title": "image-965",
-					"src": "https://promptshub.net/server/wp-content/uploads/2025/07/image-965.jpg"
+					"src": "https://server.promptshub.net/wp-content/uploads/2025/07/image-965.jpg"
 				},
 				{
 					"id": 187563,
 					"title": "image-964",
-					"src": "https://promptshub.net/server/wp-content/uploads/2025/07/image-964.jpg"
+					"src": "https://server.promptshub.net/wp-content/uploads/2025/07/image-964.jpg"
 				},
 				{
 					"id": 187561,
 					"title": "image-962",
-					"src": "https://promptshub.net/server/wp-content/uploads/2025/07/image-962.jpg"
+					"src": "https://server.promptshub.net/wp-content/uploads/2025/07/image-962.jpg"
 				},
 				{
 					"id": 187560,
 					"title": "image-961",
-					"src": "https://promptshub.net/server/wp-content/uploads/2025/07/image-961.jpg"
+					"src": "https://server.promptshub.net/wp-content/uploads/2025/07/image-961.jpg"
 				}
 			],
 			"addons": [],
@@ -684,7 +684,7 @@ const RelatedPosts = (props) => {
 					"thumbnail": {
 						"id": 187561,
 						"title": "",
-						"src": "https://promptshub.net/server/wp-content/uploads/2025/07/image-962.jpg"
+						"src": "https://server.promptshub.net/wp-content/uploads/2025/07/image-962.jpg"
 					}
 				},
 				{
@@ -693,7 +693,7 @@ const RelatedPosts = (props) => {
 					"thumbnail": {
 						"id": 187563,
 						"title": "",
-						"src": "https://promptshub.net/server/wp-content/uploads/2025/07/image-964.jpg"
+						"src": "https://server.promptshub.net/wp-content/uploads/2025/07/image-964.jpg"
 					}
 				},
 				{
@@ -702,7 +702,7 @@ const RelatedPosts = (props) => {
 					"thumbnail": {
 						"id": 187564,
 						"title": "",
-						"src": "https://promptshub.net/server/wp-content/uploads/2025/07/image-965.jpg"
+						"src": "https://server.promptshub.net/wp-content/uploads/2025/07/image-965.jpg"
 					}
 				},
 				{
@@ -711,7 +711,7 @@ const RelatedPosts = (props) => {
 					"thumbnail": {
 						"id": 187565,
 						"title": "",
-						"src": "https://promptshub.net/server/wp-content/uploads/2025/07/image-966.jpg"
+						"src": "https://server.promptshub.net/wp-content/uploads/2025/07/image-966.jpg"
 					}
 				},
 				{
@@ -720,7 +720,7 @@ const RelatedPosts = (props) => {
 					"thumbnail": {
 						"id": 187566,
 						"title": "",
-						"src": "https://promptshub.net/server/wp-content/uploads/2025/07/image-967.jpg"
+						"src": "https://server.promptshub.net/wp-content/uploads/2025/07/image-967.jpg"
 					}
 				},
 				{
@@ -729,7 +729,7 @@ const RelatedPosts = (props) => {
 					"thumbnail": {
 						"id": 187567,
 						"title": "",
-						"src": "https://promptshub.net/server/wp-content/uploads/2025/07/image-968.jpg"
+						"src": "https://server.promptshub.net/wp-content/uploads/2025/07/image-968.jpg"
 					}
 				},
 				{
@@ -738,7 +738,7 @@ const RelatedPosts = (props) => {
 					"thumbnail": {
 						"id": 187568,
 						"title": "",
-						"src": "https://promptshub.net/server/wp-content/uploads/2025/07/image-969.jpg"
+						"src": "https://server.promptshub.net/wp-content/uploads/2025/07/image-969.jpg"
 					}
 				},
 				{
@@ -747,7 +747,7 @@ const RelatedPosts = (props) => {
 					"thumbnail": {
 						"id": 187569,
 						"title": "",
-						"src": "https://promptshub.net/server/wp-content/uploads/2025/07/image-970.jpg"
+						"src": "https://server.promptshub.net/wp-content/uploads/2025/07/image-970.jpg"
 					}
 				},
 				{
@@ -756,7 +756,7 @@ const RelatedPosts = (props) => {
 					"thumbnail": {
 						"id": 187570,
 						"title": "",
-						"src": "https://promptshub.net/server/wp-content/uploads/2025/07/image-971.jpg"
+						"src": "https://server.promptshub.net/wp-content/uploads/2025/07/image-971.jpg"
 					}
 				}
 			]
@@ -767,7 +767,7 @@ const RelatedPosts = (props) => {
 			"content": "Professional photograph of Tandoori spiced popcorn shot with [camera brand and model] using [lens specifications], [shooting mode] with [exposure settings], [lighting conditions] featuring [natural/artificial light], [composition technique] with [rule of thirds/leading lines], [depth of field] creating [bokeh quality], [color grading] with [mood/tone], [perspective angle] from [shooting position], [environmental context], [foreground/background elements], [moment capture], [technical quality], [post-processing style], award-winning photography",
 			"excerpt": "Professional AI image generation prompt for Tandoori spiced popcorn with multiple style variations and placeholder formatting",
 			"status": "publish",
-			"post_thumbnail_url": "https://promptshub.net/server/wp-content/uploads/2025/07/image-918.jpg",
+			"post_thumbnail_url": "https://server.promptshub.net/wp-content/uploads/2025/07/image-918.jpg",
 			"featured": "",
 			"author": {
 				"name": "promptshub",
@@ -824,7 +824,7 @@ const RelatedPosts = (props) => {
 					"thumbnail": {
 						"id": 1531,
 						"title": "",
-						"src": "https://promptshub.net/server/wp-content/uploads/2025/07/image-792.jpg"
+						"src": "https://server.promptshub.net/wp-content/uploads/2025/07/image-792.jpg"
 					}
 				},
 				{
@@ -833,7 +833,7 @@ const RelatedPosts = (props) => {
 					"thumbnail": {
 						"id": 1532,
 						"title": "",
-						"src": "https://promptshub.net/server/wp-content/uploads/2025/07/image-793.jpg"
+						"src": "https://server.promptshub.net/wp-content/uploads/2025/07/image-793.jpg"
 					}
 				},
 				{
@@ -842,7 +842,7 @@ const RelatedPosts = (props) => {
 					"thumbnail": {
 						"id": 187519,
 						"title": "",
-						"src": "https://promptshub.net/server/wp-content/uploads/2025/07/image-920.jpg"
+						"src": "https://server.promptshub.net/wp-content/uploads/2025/07/image-920.jpg"
 					}
 				},
 				{
@@ -851,7 +851,7 @@ const RelatedPosts = (props) => {
 					"thumbnail": {
 						"id": 187520,
 						"title": "",
-						"src": "https://promptshub.net/server/wp-content/uploads/2025/07/image-921.jpg"
+						"src": "https://server.promptshub.net/wp-content/uploads/2025/07/image-921.jpg"
 					}
 				},
 				{
@@ -860,7 +860,7 @@ const RelatedPosts = (props) => {
 					"thumbnail": {
 						"id": 187521,
 						"title": "",
-						"src": "https://promptshub.net/server/wp-content/uploads/2025/07/image-922.jpg"
+						"src": "https://server.promptshub.net/wp-content/uploads/2025/07/image-922.jpg"
 					}
 				},
 				{
@@ -869,7 +869,7 @@ const RelatedPosts = (props) => {
 					"thumbnail": {
 						"id": 187522,
 						"title": "",
-						"src": "https://promptshub.net/server/wp-content/uploads/2025/07/image-923.jpg"
+						"src": "https://server.promptshub.net/wp-content/uploads/2025/07/image-923.jpg"
 					}
 				},
 				{
@@ -878,7 +878,7 @@ const RelatedPosts = (props) => {
 					"thumbnail": {
 						"id": 187523,
 						"title": "",
-						"src": "https://promptshub.net/server/wp-content/uploads/2025/07/image-924.jpg"
+						"src": "https://server.promptshub.net/wp-content/uploads/2025/07/image-924.jpg"
 					}
 				},
 				{
@@ -887,7 +887,7 @@ const RelatedPosts = (props) => {
 					"thumbnail": {
 						"id": 187524,
 						"title": "",
-						"src": "https://promptshub.net/server/wp-content/uploads/2025/07/image-925.jpg"
+						"src": "https://server.promptshub.net/wp-content/uploads/2025/07/image-925.jpg"
 					}
 				},
 				{
@@ -896,7 +896,7 @@ const RelatedPosts = (props) => {
 					"thumbnail": {
 						"id": 187525,
 						"title": "",
-						"src": "https://promptshub.net/server/wp-content/uploads/2025/07/image-926.jpg"
+						"src": "https://server.promptshub.net/wp-content/uploads/2025/07/image-926.jpg"
 					}
 				},
 				{
@@ -905,7 +905,7 @@ const RelatedPosts = (props) => {
 					"thumbnail": {
 						"id": 187526,
 						"title": "",
-						"src": "https://promptshub.net/server/wp-content/uploads/2025/07/image-927.jpg"
+						"src": "https://server.promptshub.net/wp-content/uploads/2025/07/image-927.jpg"
 					}
 				}
 			]
@@ -916,7 +916,7 @@ const RelatedPosts = (props) => {
 			"content": "Lap desk / Bed tray Furniture landscape, [golden hour lighting], scenic view, [8k ultra detail], [vibrant autumn colors], [wide angle 24mm lens], photography, [peaceful serene atmosphere]",
 			"excerpt": "Professional AI image generation prompt for Lap desk / Bed tray Furniture with multiple style variations and placeholder formatting",
 			"status": "publish",
-			"post_thumbnail_url": "https://promptshub.net/server/wp-content/uploads/2025/07/image-939.jpg",
+			"post_thumbnail_url": "https://server.promptshub.net/wp-content/uploads/2025/07/image-939.jpg",
 			"featured": "",
 			"author": {
 				"name": "promptshub",
@@ -951,32 +951,32 @@ const RelatedPosts = (props) => {
 				{
 					"id": 187538,
 					"title": "image-939",
-					"src": "https://promptshub.net/server/wp-content/uploads/2025/07/image-939.jpg"
+					"src": "https://server.promptshub.net/wp-content/uploads/2025/07/image-939.jpg"
 				},
 				{
 					"id": 187540,
 					"title": "image-941",
-					"src": "https://promptshub.net/server/wp-content/uploads/2025/07/image-941.jpg"
+					"src": "https://server.promptshub.net/wp-content/uploads/2025/07/image-941.jpg"
 				},
 				{
 					"id": 187548,
 					"title": "image-949",
-					"src": "https://promptshub.net/server/wp-content/uploads/2025/07/image-949.jpg"
+					"src": "https://server.promptshub.net/wp-content/uploads/2025/07/image-949.jpg"
 				},
 				{
 					"id": 187547,
 					"title": "image-948",
-					"src": "https://promptshub.net/server/wp-content/uploads/2025/07/image-948.jpg"
+					"src": "https://server.promptshub.net/wp-content/uploads/2025/07/image-948.jpg"
 				},
 				{
 					"id": 187542,
 					"title": "image-943",
-					"src": "https://promptshub.net/server/wp-content/uploads/2025/07/image-943.jpg"
+					"src": "https://server.promptshub.net/wp-content/uploads/2025/07/image-943.jpg"
 				},
 				{
 					"id": 187545,
 					"title": "image-946",
-					"src": "https://promptshub.net/server/wp-content/uploads/2025/07/image-946.jpg"
+					"src": "https://server.promptshub.net/wp-content/uploads/2025/07/image-946.jpg"
 				}
 			],
 			"addons": [],
@@ -1008,7 +1008,7 @@ const RelatedPosts = (props) => {
 					"thumbnail": {
 						"id": 187539,
 						"title": "",
-						"src": "https://promptshub.net/server/wp-content/uploads/2025/07/image-940.jpg"
+						"src": "https://server.promptshub.net/wp-content/uploads/2025/07/image-940.jpg"
 					}
 				},
 				{
@@ -1017,7 +1017,7 @@ const RelatedPosts = (props) => {
 					"thumbnail": {
 						"id": 187541,
 						"title": "",
-						"src": "https://promptshub.net/server/wp-content/uploads/2025/07/image-942.jpg"
+						"src": "https://server.promptshub.net/wp-content/uploads/2025/07/image-942.jpg"
 					}
 				},
 				{
@@ -1026,7 +1026,7 @@ const RelatedPosts = (props) => {
 					"thumbnail": {
 						"id": 187540,
 						"title": "",
-						"src": "https://promptshub.net/server/wp-content/uploads/2025/07/image-941.jpg"
+						"src": "https://server.promptshub.net/wp-content/uploads/2025/07/image-941.jpg"
 					}
 				},
 				{
@@ -1035,7 +1035,7 @@ const RelatedPosts = (props) => {
 					"thumbnail": {
 						"id": 187542,
 						"title": "",
-						"src": "https://promptshub.net/server/wp-content/uploads/2025/07/image-943.jpg"
+						"src": "https://server.promptshub.net/wp-content/uploads/2025/07/image-943.jpg"
 					}
 				},
 				{
@@ -1044,7 +1044,7 @@ const RelatedPosts = (props) => {
 					"thumbnail": {
 						"id": 187543,
 						"title": "",
-						"src": "https://promptshub.net/server/wp-content/uploads/2025/07/image-944.jpg"
+						"src": "https://server.promptshub.net/wp-content/uploads/2025/07/image-944.jpg"
 					}
 				},
 				{
@@ -1053,7 +1053,7 @@ const RelatedPosts = (props) => {
 					"thumbnail": {
 						"id": 187544,
 						"title": "",
-						"src": "https://promptshub.net/server/wp-content/uploads/2025/07/image-945.jpg"
+						"src": "https://server.promptshub.net/wp-content/uploads/2025/07/image-945.jpg"
 					}
 				},
 				{
@@ -1062,7 +1062,7 @@ const RelatedPosts = (props) => {
 					"thumbnail": {
 						"id": 187545,
 						"title": "",
-						"src": "https://promptshub.net/server/wp-content/uploads/2025/07/image-946.jpg"
+						"src": "https://server.promptshub.net/wp-content/uploads/2025/07/image-946.jpg"
 					}
 				},
 				{
@@ -1071,7 +1071,7 @@ const RelatedPosts = (props) => {
 					"thumbnail": {
 						"id": 187546,
 						"title": "",
-						"src": "https://promptshub.net/server/wp-content/uploads/2025/07/image-947.jpg"
+						"src": "https://server.promptshub.net/wp-content/uploads/2025/07/image-947.jpg"
 					}
 				},
 				{
@@ -1080,7 +1080,7 @@ const RelatedPosts = (props) => {
 					"thumbnail": {
 						"id": 187547,
 						"title": "",
-						"src": "https://promptshub.net/server/wp-content/uploads/2025/07/image-948.jpg"
+						"src": "https://server.promptshub.net/wp-content/uploads/2025/07/image-948.jpg"
 					}
 				},
 				{
@@ -1089,7 +1089,7 @@ const RelatedPosts = (props) => {
 					"thumbnail": {
 						"id": 187548,
 						"title": "",
-						"src": "https://promptshub.net/server/wp-content/uploads/2025/07/image-949.jpg"
+						"src": "https://server.promptshub.net/wp-content/uploads/2025/07/image-949.jpg"
 					}
 				}
 			]
@@ -1100,7 +1100,7 @@ const RelatedPosts = (props) => {
 			"content": "Stair shelf / Corner shelf Furniture landscape, [golden hour lighting], scenic view, [8k ultra detail], [vibrant autumn colors], [wide angle 24mm lens], photography, [peaceful serene atmosphere]",
 			"excerpt": "Professional AI image generation prompt for Stair shelf / Corner shelf Furniture with multiple style variations and placeholder formatting",
 			"status": "publish",
-			"post_thumbnail_url": "https://promptshub.net/server/wp-content/uploads/2025/07/image-1142.jpg",
+			"post_thumbnail_url": "https://server.promptshub.net/wp-content/uploads/2025/07/image-1142.jpg",
 			"featured": "",
 			"author": {
 				"name": "promptshub",
@@ -1135,57 +1135,57 @@ const RelatedPosts = (props) => {
 				{
 					"id": 187752,
 					"title": "image-1152",
-					"src": "https://promptshub.net/server/wp-content/uploads/2025/07/image-1152.jpg"
+					"src": "https://server.promptshub.net/wp-content/uploads/2025/07/image-1152.jpg"
 				},
 				{
 					"id": 187751,
 					"title": "image-1151",
-					"src": "https://promptshub.net/server/wp-content/uploads/2025/07/image-1151.jpg"
+					"src": "https://server.promptshub.net/wp-content/uploads/2025/07/image-1151.jpg"
 				},
 				{
 					"id": 187750,
 					"title": "image-1150",
-					"src": "https://promptshub.net/server/wp-content/uploads/2025/07/image-1150.jpg"
+					"src": "https://server.promptshub.net/wp-content/uploads/2025/07/image-1150.jpg"
 				},
 				{
 					"id": 187749,
 					"title": "image-1149",
-					"src": "https://promptshub.net/server/wp-content/uploads/2025/07/image-1149.jpg"
+					"src": "https://server.promptshub.net/wp-content/uploads/2025/07/image-1149.jpg"
 				},
 				{
 					"id": 187748,
 					"title": "image-1148",
-					"src": "https://promptshub.net/server/wp-content/uploads/2025/07/image-1148.jpg"
+					"src": "https://server.promptshub.net/wp-content/uploads/2025/07/image-1148.jpg"
 				},
 				{
 					"id": 187747,
 					"title": "image-1147",
-					"src": "https://promptshub.net/server/wp-content/uploads/2025/07/image-1147.jpg"
+					"src": "https://server.promptshub.net/wp-content/uploads/2025/07/image-1147.jpg"
 				},
 				{
 					"id": 187746,
 					"title": "image-1146",
-					"src": "https://promptshub.net/server/wp-content/uploads/2025/07/image-1146.jpg"
+					"src": "https://server.promptshub.net/wp-content/uploads/2025/07/image-1146.jpg"
 				},
 				{
 					"id": 187745,
 					"title": "image-1145",
-					"src": "https://promptshub.net/server/wp-content/uploads/2025/07/image-1145.jpg"
+					"src": "https://server.promptshub.net/wp-content/uploads/2025/07/image-1145.jpg"
 				},
 				{
 					"id": 187744,
 					"title": "image-1144",
-					"src": "https://promptshub.net/server/wp-content/uploads/2025/07/image-1144.jpg"
+					"src": "https://server.promptshub.net/wp-content/uploads/2025/07/image-1144.jpg"
 				},
 				{
 					"id": 187743,
 					"title": "image-1143",
-					"src": "https://promptshub.net/server/wp-content/uploads/2025/07/image-1143.jpg"
+					"src": "https://server.promptshub.net/wp-content/uploads/2025/07/image-1143.jpg"
 				},
 				{
 					"id": 187742,
 					"title": "image-1142",
-					"src": "https://promptshub.net/server/wp-content/uploads/2025/07/image-1142.jpg"
+					"src": "https://server.promptshub.net/wp-content/uploads/2025/07/image-1142.jpg"
 				}
 			],
 			"addons": [],
@@ -1217,7 +1217,7 @@ const RelatedPosts = (props) => {
 					"thumbnail": {
 						"id": 187743,
 						"title": "",
-						"src": "https://promptshub.net/server/wp-content/uploads/2025/07/image-1143.jpg"
+						"src": "https://server.promptshub.net/wp-content/uploads/2025/07/image-1143.jpg"
 					}
 				},
 				{
@@ -1226,7 +1226,7 @@ const RelatedPosts = (props) => {
 					"thumbnail": {
 						"id": 187744,
 						"title": "",
-						"src": "https://promptshub.net/server/wp-content/uploads/2025/07/image-1144.jpg"
+						"src": "https://server.promptshub.net/wp-content/uploads/2025/07/image-1144.jpg"
 					}
 				},
 				{
@@ -1235,7 +1235,7 @@ const RelatedPosts = (props) => {
 					"thumbnail": {
 						"id": 187745,
 						"title": "",
-						"src": "https://promptshub.net/server/wp-content/uploads/2025/07/image-1145.jpg"
+						"src": "https://server.promptshub.net/wp-content/uploads/2025/07/image-1145.jpg"
 					}
 				},
 				{
@@ -1244,7 +1244,7 @@ const RelatedPosts = (props) => {
 					"thumbnail": {
 						"id": 187746,
 						"title": "",
-						"src": "https://promptshub.net/server/wp-content/uploads/2025/07/image-1146.jpg"
+						"src": "https://server.promptshub.net/wp-content/uploads/2025/07/image-1146.jpg"
 					}
 				},
 				{
@@ -1253,7 +1253,7 @@ const RelatedPosts = (props) => {
 					"thumbnail": {
 						"id": 187747,
 						"title": "",
-						"src": "https://promptshub.net/server/wp-content/uploads/2025/07/image-1147.jpg"
+						"src": "https://server.promptshub.net/wp-content/uploads/2025/07/image-1147.jpg"
 					}
 				},
 				{
@@ -1262,7 +1262,7 @@ const RelatedPosts = (props) => {
 					"thumbnail": {
 						"id": 187748,
 						"title": "",
-						"src": "https://promptshub.net/server/wp-content/uploads/2025/07/image-1148.jpg"
+						"src": "https://server.promptshub.net/wp-content/uploads/2025/07/image-1148.jpg"
 					}
 				},
 				{
@@ -1271,7 +1271,7 @@ const RelatedPosts = (props) => {
 					"thumbnail": {
 						"id": 187749,
 						"title": "",
-						"src": "https://promptshub.net/server/wp-content/uploads/2025/07/image-1149.jpg"
+						"src": "https://server.promptshub.net/wp-content/uploads/2025/07/image-1149.jpg"
 					}
 				},
 				{
@@ -1280,7 +1280,7 @@ const RelatedPosts = (props) => {
 					"thumbnail": {
 						"id": 187750,
 						"title": "",
-						"src": "https://promptshub.net/server/wp-content/uploads/2025/07/image-1150.jpg"
+						"src": "https://server.promptshub.net/wp-content/uploads/2025/07/image-1150.jpg"
 					}
 				},
 				{
@@ -1289,7 +1289,7 @@ const RelatedPosts = (props) => {
 					"thumbnail": {
 						"id": 187751,
 						"title": "",
-						"src": "https://promptshub.net/server/wp-content/uploads/2025/07/image-1151.jpg"
+						"src": "https://server.promptshub.net/wp-content/uploads/2025/07/image-1151.jpg"
 					}
 				},
 				{
@@ -1298,7 +1298,7 @@ const RelatedPosts = (props) => {
 					"thumbnail": {
 						"id": 187752,
 						"title": "",
-						"src": "https://promptshub.net/server/wp-content/uploads/2025/07/image-1152.jpg"
+						"src": "https://server.promptshub.net/wp-content/uploads/2025/07/image-1152.jpg"
 					}
 				}
 			]
@@ -1309,7 +1309,7 @@ const RelatedPosts = (props) => {
 			"content": "Fireplace mantle / Surround Furniture landscape, [golden hour lighting], scenic view, [8k ultra detail], [vibrant autumn colors], [wide angle 24mm lens], photography, [peaceful serene atmosphere]",
 			"excerpt": "Professional AI image generation prompt for Fireplace mantle / Surround Furniture with multiple style variations and placeholder formatting",
 			"status": "publish",
-			"post_thumbnail_url": "https://promptshub.net/server/wp-content/uploads/2025/07/image-1167.jpg",
+			"post_thumbnail_url": "https://server.promptshub.net/wp-content/uploads/2025/07/image-1167.jpg",
 			"featured": "",
 			"author": {
 				"name": "promptshub",
@@ -1344,37 +1344,37 @@ const RelatedPosts = (props) => {
 				{
 					"id": 187774,
 					"title": "image-1174",
-					"src": "https://promptshub.net/server/wp-content/uploads/2025/07/image-1174.jpg"
+					"src": "https://server.promptshub.net/wp-content/uploads/2025/07/image-1174.jpg"
 				},
 				{
 					"id": 187773,
 					"title": "image-1173",
-					"src": "https://promptshub.net/server/wp-content/uploads/2025/07/image-1173.jpg"
+					"src": "https://server.promptshub.net/wp-content/uploads/2025/07/image-1173.jpg"
 				},
 				{
 					"id": 187772,
 					"title": "image-1172",
-					"src": "https://promptshub.net/server/wp-content/uploads/2025/07/image-1172.jpg"
+					"src": "https://server.promptshub.net/wp-content/uploads/2025/07/image-1172.jpg"
 				},
 				{
 					"id": 187771,
 					"title": "image-1171",
-					"src": "https://promptshub.net/server/wp-content/uploads/2025/07/image-1171.jpg"
+					"src": "https://server.promptshub.net/wp-content/uploads/2025/07/image-1171.jpg"
 				},
 				{
 					"id": 187769,
 					"title": "image-1169",
-					"src": "https://promptshub.net/server/wp-content/uploads/2025/07/image-1169.jpg"
+					"src": "https://server.promptshub.net/wp-content/uploads/2025/07/image-1169.jpg"
 				},
 				{
 					"id": 187768,
 					"title": "image-1168",
-					"src": "https://promptshub.net/server/wp-content/uploads/2025/07/image-1168.jpg"
+					"src": "https://server.promptshub.net/wp-content/uploads/2025/07/image-1168.jpg"
 				},
 				{
 					"id": 187767,
 					"title": "image-1167",
-					"src": "https://promptshub.net/server/wp-content/uploads/2025/07/image-1167.jpg"
+					"src": "https://server.promptshub.net/wp-content/uploads/2025/07/image-1167.jpg"
 				}
 			],
 			"addons": [],
@@ -1406,7 +1406,7 @@ const RelatedPosts = (props) => {
 					"thumbnail": {
 						"id": 187764,
 						"title": "",
-						"src": "https://promptshub.net/server/wp-content/uploads/2025/07/image-1164.jpg"
+						"src": "https://server.promptshub.net/wp-content/uploads/2025/07/image-1164.jpg"
 					}
 				},
 				{
@@ -1415,7 +1415,7 @@ const RelatedPosts = (props) => {
 					"thumbnail": {
 						"id": 187765,
 						"title": "",
-						"src": "https://promptshub.net/server/wp-content/uploads/2025/07/image-1165.jpg"
+						"src": "https://server.promptshub.net/wp-content/uploads/2025/07/image-1165.jpg"
 					}
 				},
 				{
@@ -1424,7 +1424,7 @@ const RelatedPosts = (props) => {
 					"thumbnail": {
 						"id": 187766,
 						"title": "",
-						"src": "https://promptshub.net/server/wp-content/uploads/2025/07/image-1166.jpg"
+						"src": "https://server.promptshub.net/wp-content/uploads/2025/07/image-1166.jpg"
 					}
 				},
 				{
@@ -1433,7 +1433,7 @@ const RelatedPosts = (props) => {
 					"thumbnail": {
 						"id": 187768,
 						"title": "",
-						"src": "https://promptshub.net/server/wp-content/uploads/2025/07/image-1168.jpg"
+						"src": "https://server.promptshub.net/wp-content/uploads/2025/07/image-1168.jpg"
 					}
 				},
 				{
@@ -1442,7 +1442,7 @@ const RelatedPosts = (props) => {
 					"thumbnail": {
 						"id": 187769,
 						"title": "",
-						"src": "https://promptshub.net/server/wp-content/uploads/2025/07/image-1169.jpg"
+						"src": "https://server.promptshub.net/wp-content/uploads/2025/07/image-1169.jpg"
 					}
 				},
 				{
@@ -1451,7 +1451,7 @@ const RelatedPosts = (props) => {
 					"thumbnail": {
 						"id": 187770,
 						"title": "",
-						"src": "https://promptshub.net/server/wp-content/uploads/2025/07/image-1170.jpg"
+						"src": "https://server.promptshub.net/wp-content/uploads/2025/07/image-1170.jpg"
 					}
 				},
 				{
@@ -1460,7 +1460,7 @@ const RelatedPosts = (props) => {
 					"thumbnail": {
 						"id": 187771,
 						"title": "",
-						"src": "https://promptshub.net/server/wp-content/uploads/2025/07/image-1171.jpg"
+						"src": "https://server.promptshub.net/wp-content/uploads/2025/07/image-1171.jpg"
 					}
 				},
 				{
@@ -1469,7 +1469,7 @@ const RelatedPosts = (props) => {
 					"thumbnail": {
 						"id": 187772,
 						"title": "",
-						"src": "https://promptshub.net/server/wp-content/uploads/2025/07/image-1172.jpg"
+						"src": "https://server.promptshub.net/wp-content/uploads/2025/07/image-1172.jpg"
 					}
 				},
 				{
@@ -1478,7 +1478,7 @@ const RelatedPosts = (props) => {
 					"thumbnail": {
 						"id": 187773,
 						"title": "",
-						"src": "https://promptshub.net/server/wp-content/uploads/2025/07/image-1173.jpg"
+						"src": "https://server.promptshub.net/wp-content/uploads/2025/07/image-1173.jpg"
 					}
 				},
 				{
@@ -1487,7 +1487,7 @@ const RelatedPosts = (props) => {
 					"thumbnail": {
 						"id": 187774,
 						"title": "",
-						"src": "https://promptshub.net/server/wp-content/uploads/2025/07/image-1174.jpg"
+						"src": "https://server.promptshub.net/wp-content/uploads/2025/07/image-1174.jpg"
 					}
 				}
 			]
@@ -1498,7 +1498,7 @@ const RelatedPosts = (props) => {
 			"content": "Pet furniture (cat tree, dog bed, etc.) Furniture landscape, [golden hour lighting], scenic view, [8k ultra detail], [vibrant autumn colors], [wide angle 24mm lens], photography, [peaceful serene atmosphere]",
 			"excerpt": "Professional AI image generation prompt for Pet furniture (cat tree, dog bed, etc.) Furniture with multiple style variations and placeholder formatting",
 			"status": "publish",
-			"post_thumbnail_url": "https://promptshub.net/server/wp-content/uploads/2025/07/image-1175.jpg",
+			"post_thumbnail_url": "https://server.promptshub.net/wp-content/uploads/2025/07/image-1175.jpg",
 			"featured": "",
 			"author": {
 				"name": "promptshub",
@@ -1533,57 +1533,57 @@ const RelatedPosts = (props) => {
 				{
 					"id": 187785,
 					"title": "image-1185",
-					"src": "https://promptshub.net/server/wp-content/uploads/2025/07/image-1185.jpg"
+					"src": "https://server.promptshub.net/wp-content/uploads/2025/07/image-1185.jpg"
 				},
 				{
 					"id": 187784,
 					"title": "image-1184",
-					"src": "https://promptshub.net/server/wp-content/uploads/2025/07/image-1184.jpg"
+					"src": "https://server.promptshub.net/wp-content/uploads/2025/07/image-1184.jpg"
 				},
 				{
 					"id": 187783,
 					"title": "image-1183",
-					"src": "https://promptshub.net/server/wp-content/uploads/2025/07/image-1183.jpg"
+					"src": "https://server.promptshub.net/wp-content/uploads/2025/07/image-1183.jpg"
 				},
 				{
 					"id": 187782,
 					"title": "image-1182",
-					"src": "https://promptshub.net/server/wp-content/uploads/2025/07/image-1182.jpg"
+					"src": "https://server.promptshub.net/wp-content/uploads/2025/07/image-1182.jpg"
 				},
 				{
 					"id": 187781,
 					"title": "image-1181",
-					"src": "https://promptshub.net/server/wp-content/uploads/2025/07/image-1181.jpg"
+					"src": "https://server.promptshub.net/wp-content/uploads/2025/07/image-1181.jpg"
 				},
 				{
 					"id": 187780,
 					"title": "image-1180",
-					"src": "https://promptshub.net/server/wp-content/uploads/2025/07/image-1180.jpg"
+					"src": "https://server.promptshub.net/wp-content/uploads/2025/07/image-1180.jpg"
 				},
 				{
 					"id": 187779,
 					"title": "image-1179",
-					"src": "https://promptshub.net/server/wp-content/uploads/2025/07/image-1179.jpg"
+					"src": "https://server.promptshub.net/wp-content/uploads/2025/07/image-1179.jpg"
 				},
 				{
 					"id": 187778,
 					"title": "image-1178",
-					"src": "https://promptshub.net/server/wp-content/uploads/2025/07/image-1178.jpg"
+					"src": "https://server.promptshub.net/wp-content/uploads/2025/07/image-1178.jpg"
 				},
 				{
 					"id": 187777,
 					"title": "image-1177",
-					"src": "https://promptshub.net/server/wp-content/uploads/2025/07/image-1177.jpg"
+					"src": "https://server.promptshub.net/wp-content/uploads/2025/07/image-1177.jpg"
 				},
 				{
 					"id": 187776,
 					"title": "image-1176",
-					"src": "https://promptshub.net/server/wp-content/uploads/2025/07/image-1176.jpg"
+					"src": "https://server.promptshub.net/wp-content/uploads/2025/07/image-1176.jpg"
 				},
 				{
 					"id": 187775,
 					"title": "image-1175",
-					"src": "https://promptshub.net/server/wp-content/uploads/2025/07/image-1175.jpg"
+					"src": "https://server.promptshub.net/wp-content/uploads/2025/07/image-1175.jpg"
 				}
 			],
 			"addons": [],
@@ -1615,7 +1615,7 @@ const RelatedPosts = (props) => {
 					"thumbnail": {
 						"id": 187776,
 						"title": "",
-						"src": "https://promptshub.net/server/wp-content/uploads/2025/07/image-1176.jpg"
+						"src": "https://server.promptshub.net/wp-content/uploads/2025/07/image-1176.jpg"
 					}
 				},
 				{
@@ -1624,7 +1624,7 @@ const RelatedPosts = (props) => {
 					"thumbnail": {
 						"id": 187777,
 						"title": "",
-						"src": "https://promptshub.net/server/wp-content/uploads/2025/07/image-1177.jpg"
+						"src": "https://server.promptshub.net/wp-content/uploads/2025/07/image-1177.jpg"
 					}
 				},
 				{
@@ -1633,7 +1633,7 @@ const RelatedPosts = (props) => {
 					"thumbnail": {
 						"id": 187778,
 						"title": "",
-						"src": "https://promptshub.net/server/wp-content/uploads/2025/07/image-1178.jpg"
+						"src": "https://server.promptshub.net/wp-content/uploads/2025/07/image-1178.jpg"
 					}
 				},
 				{
@@ -1642,7 +1642,7 @@ const RelatedPosts = (props) => {
 					"thumbnail": {
 						"id": 187779,
 						"title": "",
-						"src": "https://promptshub.net/server/wp-content/uploads/2025/07/image-1179.jpg"
+						"src": "https://server.promptshub.net/wp-content/uploads/2025/07/image-1179.jpg"
 					}
 				},
 				{
@@ -1651,7 +1651,7 @@ const RelatedPosts = (props) => {
 					"thumbnail": {
 						"id": 187780,
 						"title": "",
-						"src": "https://promptshub.net/server/wp-content/uploads/2025/07/image-1180.jpg"
+						"src": "https://server.promptshub.net/wp-content/uploads/2025/07/image-1180.jpg"
 					}
 				},
 				{
@@ -1660,7 +1660,7 @@ const RelatedPosts = (props) => {
 					"thumbnail": {
 						"id": 187781,
 						"title": "",
-						"src": "https://promptshub.net/server/wp-content/uploads/2025/07/image-1181.jpg"
+						"src": "https://server.promptshub.net/wp-content/uploads/2025/07/image-1181.jpg"
 					}
 				},
 				{
@@ -1669,7 +1669,7 @@ const RelatedPosts = (props) => {
 					"thumbnail": {
 						"id": 187782,
 						"title": "",
-						"src": "https://promptshub.net/server/wp-content/uploads/2025/07/image-1182.jpg"
+						"src": "https://server.promptshub.net/wp-content/uploads/2025/07/image-1182.jpg"
 					}
 				},
 				{
@@ -1678,7 +1678,7 @@ const RelatedPosts = (props) => {
 					"thumbnail": {
 						"id": 187783,
 						"title": "",
-						"src": "https://promptshub.net/server/wp-content/uploads/2025/07/image-1183.jpg"
+						"src": "https://server.promptshub.net/wp-content/uploads/2025/07/image-1183.jpg"
 					}
 				},
 				{
@@ -1687,7 +1687,7 @@ const RelatedPosts = (props) => {
 					"thumbnail": {
 						"id": 187784,
 						"title": "",
-						"src": "https://promptshub.net/server/wp-content/uploads/2025/07/image-1184.jpg"
+						"src": "https://server.promptshub.net/wp-content/uploads/2025/07/image-1184.jpg"
 					}
 				},
 				{
@@ -1696,7 +1696,7 @@ const RelatedPosts = (props) => {
 					"thumbnail": {
 						"id": 187785,
 						"title": "",
-						"src": "https://promptshub.net/server/wp-content/uploads/2025/07/image-1185.jpg"
+						"src": "https://server.promptshub.net/wp-content/uploads/2025/07/image-1185.jpg"
 					}
 				}
 			]
@@ -1707,7 +1707,7 @@ const RelatedPosts = (props) => {
 			"content": "Aquarium stand Furniture landscape, [golden hour lighting], scenic view, [8k ultra detail], [vibrant autumn colors], [wide angle 24mm lens], photography, [peaceful serene atmosphere]",
 			"excerpt": "Professional AI image generation prompt for Aquarium stand Furniture with multiple style variations and placeholder formatting",
 			"status": "publish",
-			"post_thumbnail_url": "https://promptshub.net/server/wp-content/uploads/2025/07/image-1196.jpg",
+			"post_thumbnail_url": "https://server.promptshub.net/wp-content/uploads/2025/07/image-1196.jpg",
 			"featured": "",
 			"author": {
 				"name": "promptshub",
@@ -1742,47 +1742,47 @@ const RelatedPosts = (props) => {
 				{
 					"id": 187796,
 					"title": "image-1196",
-					"src": "https://promptshub.net/server/wp-content/uploads/2025/07/image-1196.jpg"
+					"src": "https://server.promptshub.net/wp-content/uploads/2025/07/image-1196.jpg"
 				},
 				{
 					"id": 187795,
 					"title": "image-1195",
-					"src": "https://promptshub.net/server/wp-content/uploads/2025/07/image-1195.jpg"
+					"src": "https://server.promptshub.net/wp-content/uploads/2025/07/image-1195.jpg"
 				},
 				{
 					"id": 187794,
 					"title": "image-1194",
-					"src": "https://promptshub.net/server/wp-content/uploads/2025/07/image-1194.jpg"
+					"src": "https://server.promptshub.net/wp-content/uploads/2025/07/image-1194.jpg"
 				},
 				{
 					"id": 187793,
 					"title": "image-1193",
-					"src": "https://promptshub.net/server/wp-content/uploads/2025/07/image-1193.jpg"
+					"src": "https://server.promptshub.net/wp-content/uploads/2025/07/image-1193.jpg"
 				},
 				{
 					"id": 187791,
 					"title": "image-1191",
-					"src": "https://promptshub.net/server/wp-content/uploads/2025/07/image-1191.jpg"
+					"src": "https://server.promptshub.net/wp-content/uploads/2025/07/image-1191.jpg"
 				},
 				{
 					"id": 187789,
 					"title": "image-1189",
-					"src": "https://promptshub.net/server/wp-content/uploads/2025/07/image-1189.jpg"
+					"src": "https://server.promptshub.net/wp-content/uploads/2025/07/image-1189.jpg"
 				},
 				{
 					"id": 187788,
 					"title": "image-1188",
-					"src": "https://promptshub.net/server/wp-content/uploads/2025/07/image-1188.jpg"
+					"src": "https://server.promptshub.net/wp-content/uploads/2025/07/image-1188.jpg"
 				},
 				{
 					"id": 187787,
 					"title": "image-1187",
-					"src": "https://promptshub.net/server/wp-content/uploads/2025/07/image-1187.jpg"
+					"src": "https://server.promptshub.net/wp-content/uploads/2025/07/image-1187.jpg"
 				},
 				{
 					"id": 187786,
 					"title": "image-1186",
-					"src": "https://promptshub.net/server/wp-content/uploads/2025/07/image-1186.jpg"
+					"src": "https://server.promptshub.net/wp-content/uploads/2025/07/image-1186.jpg"
 				}
 			],
 			"addons": [],
@@ -1814,7 +1814,7 @@ const RelatedPosts = (props) => {
 					"thumbnail": {
 						"id": 187786,
 						"title": "",
-						"src": "https://promptshub.net/server/wp-content/uploads/2025/07/image-1186.jpg"
+						"src": "https://server.promptshub.net/wp-content/uploads/2025/07/image-1186.jpg"
 					}
 				},
 				{
@@ -1823,7 +1823,7 @@ const RelatedPosts = (props) => {
 					"thumbnail": {
 						"id": 187787,
 						"title": "",
-						"src": "https://promptshub.net/server/wp-content/uploads/2025/07/image-1187.jpg"
+						"src": "https://server.promptshub.net/wp-content/uploads/2025/07/image-1187.jpg"
 					}
 				},
 				{
@@ -1832,7 +1832,7 @@ const RelatedPosts = (props) => {
 					"thumbnail": {
 						"id": 187788,
 						"title": "",
-						"src": "https://promptshub.net/server/wp-content/uploads/2025/07/image-1188.jpg"
+						"src": "https://server.promptshub.net/wp-content/uploads/2025/07/image-1188.jpg"
 					}
 				},
 				{
@@ -1841,7 +1841,7 @@ const RelatedPosts = (props) => {
 					"thumbnail": {
 						"id": 187789,
 						"title": "",
-						"src": "https://promptshub.net/server/wp-content/uploads/2025/07/image-1189.jpg"
+						"src": "https://server.promptshub.net/wp-content/uploads/2025/07/image-1189.jpg"
 					}
 				},
 				{
@@ -1850,7 +1850,7 @@ const RelatedPosts = (props) => {
 					"thumbnail": {
 						"id": 187790,
 						"title": "",
-						"src": "https://promptshub.net/server/wp-content/uploads/2025/07/image-1190.jpg"
+						"src": "https://server.promptshub.net/wp-content/uploads/2025/07/image-1190.jpg"
 					}
 				},
 				{
@@ -1859,7 +1859,7 @@ const RelatedPosts = (props) => {
 					"thumbnail": {
 						"id": 187791,
 						"title": "",
-						"src": "https://promptshub.net/server/wp-content/uploads/2025/07/image-1191.jpg"
+						"src": "https://server.promptshub.net/wp-content/uploads/2025/07/image-1191.jpg"
 					}
 				},
 				{
@@ -1868,7 +1868,7 @@ const RelatedPosts = (props) => {
 					"thumbnail": {
 						"id": 187792,
 						"title": "",
-						"src": "https://promptshub.net/server/wp-content/uploads/2025/07/image-1192.jpg"
+						"src": "https://server.promptshub.net/wp-content/uploads/2025/07/image-1192.jpg"
 					}
 				},
 				{
@@ -1877,7 +1877,7 @@ const RelatedPosts = (props) => {
 					"thumbnail": {
 						"id": 187793,
 						"title": "",
-						"src": "https://promptshub.net/server/wp-content/uploads/2025/07/image-1193.jpg"
+						"src": "https://server.promptshub.net/wp-content/uploads/2025/07/image-1193.jpg"
 					}
 				},
 				{
@@ -1886,7 +1886,7 @@ const RelatedPosts = (props) => {
 					"thumbnail": {
 						"id": 187794,
 						"title": "",
-						"src": "https://promptshub.net/server/wp-content/uploads/2025/07/image-1194.jpg"
+						"src": "https://server.promptshub.net/wp-content/uploads/2025/07/image-1194.jpg"
 					}
 				},
 				{
@@ -1895,7 +1895,7 @@ const RelatedPosts = (props) => {
 					"thumbnail": {
 						"id": 187795,
 						"title": "",
-						"src": "https://promptshub.net/server/wp-content/uploads/2025/07/image-1195.jpg"
+						"src": "https://server.promptshub.net/wp-content/uploads/2025/07/image-1195.jpg"
 					}
 				}
 			]
@@ -1906,7 +1906,7 @@ const RelatedPosts = (props) => {
 			"content": "Folding screen / Room divider Furniture landscape, [golden hour lighting], scenic view, [8k ultra detail], [vibrant autumn colors], [wide angle 24mm lens], photography, [peaceful serene atmosphere]",
 			"excerpt": "Professional AI image generation prompt for Folding screen / Room divider Furniture with multiple style variations and placeholder formatting",
 			"status": "publish",
-			"post_thumbnail_url": "https://promptshub.net/server/wp-content/uploads/2025/07/image-1207.jpg",
+			"post_thumbnail_url": "https://server.promptshub.net/wp-content/uploads/2025/07/image-1207.jpg",
 			"featured": "",
 			"author": {
 				"name": "promptshub",
@@ -1941,57 +1941,57 @@ const RelatedPosts = (props) => {
 				{
 					"id": 187807,
 					"title": "image-1207",
-					"src": "https://promptshub.net/server/wp-content/uploads/2025/07/image-1207.jpg"
+					"src": "https://server.promptshub.net/wp-content/uploads/2025/07/image-1207.jpg"
 				},
 				{
 					"id": 187806,
 					"title": "image-1206",
-					"src": "https://promptshub.net/server/wp-content/uploads/2025/07/image-1206.jpg"
+					"src": "https://server.promptshub.net/wp-content/uploads/2025/07/image-1206.jpg"
 				},
 				{
 					"id": 187805,
 					"title": "image-1205",
-					"src": "https://promptshub.net/server/wp-content/uploads/2025/07/image-1205.jpg"
+					"src": "https://server.promptshub.net/wp-content/uploads/2025/07/image-1205.jpg"
 				},
 				{
 					"id": 187804,
 					"title": "image-1204",
-					"src": "https://promptshub.net/server/wp-content/uploads/2025/07/image-1204.jpg"
+					"src": "https://server.promptshub.net/wp-content/uploads/2025/07/image-1204.jpg"
 				},
 				{
 					"id": 187803,
 					"title": "image-1203",
-					"src": "https://promptshub.net/server/wp-content/uploads/2025/07/image-1203.jpg"
+					"src": "https://server.promptshub.net/wp-content/uploads/2025/07/image-1203.jpg"
 				},
 				{
 					"id": 187802,
 					"title": "image-1202",
-					"src": "https://promptshub.net/server/wp-content/uploads/2025/07/image-1202.jpg"
+					"src": "https://server.promptshub.net/wp-content/uploads/2025/07/image-1202.jpg"
 				},
 				{
 					"id": 187801,
 					"title": "image-1201",
-					"src": "https://promptshub.net/server/wp-content/uploads/2025/07/image-1201.jpg"
+					"src": "https://server.promptshub.net/wp-content/uploads/2025/07/image-1201.jpg"
 				},
 				{
 					"id": 187800,
 					"title": "image-1200",
-					"src": "https://promptshub.net/server/wp-content/uploads/2025/07/image-1200.jpg"
+					"src": "https://server.promptshub.net/wp-content/uploads/2025/07/image-1200.jpg"
 				},
 				{
 					"id": 187799,
 					"title": "image-1199",
-					"src": "https://promptshub.net/server/wp-content/uploads/2025/07/image-1199.jpg"
+					"src": "https://server.promptshub.net/wp-content/uploads/2025/07/image-1199.jpg"
 				},
 				{
 					"id": 187798,
 					"title": "image-1198",
-					"src": "https://promptshub.net/server/wp-content/uploads/2025/07/image-1198.jpg"
+					"src": "https://server.promptshub.net/wp-content/uploads/2025/07/image-1198.jpg"
 				},
 				{
 					"id": 187797,
 					"title": "image-1197",
-					"src": "https://promptshub.net/server/wp-content/uploads/2025/07/image-1197.jpg"
+					"src": "https://server.promptshub.net/wp-content/uploads/2025/07/image-1197.jpg"
 				}
 			],
 			"addons": [],
@@ -2023,7 +2023,7 @@ const RelatedPosts = (props) => {
 					"thumbnail": {
 						"id": 187797,
 						"title": "",
-						"src": "https://promptshub.net/server/wp-content/uploads/2025/07/image-1197.jpg"
+						"src": "https://server.promptshub.net/wp-content/uploads/2025/07/image-1197.jpg"
 					}
 				},
 				{
@@ -2032,7 +2032,7 @@ const RelatedPosts = (props) => {
 					"thumbnail": {
 						"id": 187798,
 						"title": "",
-						"src": "https://promptshub.net/server/wp-content/uploads/2025/07/image-1198.jpg"
+						"src": "https://server.promptshub.net/wp-content/uploads/2025/07/image-1198.jpg"
 					}
 				},
 				{
@@ -2041,7 +2041,7 @@ const RelatedPosts = (props) => {
 					"thumbnail": {
 						"id": 187799,
 						"title": "",
-						"src": "https://promptshub.net/server/wp-content/uploads/2025/07/image-1199.jpg"
+						"src": "https://server.promptshub.net/wp-content/uploads/2025/07/image-1199.jpg"
 					}
 				},
 				{
@@ -2050,7 +2050,7 @@ const RelatedPosts = (props) => {
 					"thumbnail": {
 						"id": 187800,
 						"title": "",
-						"src": "https://promptshub.net/server/wp-content/uploads/2025/07/image-1200.jpg"
+						"src": "https://server.promptshub.net/wp-content/uploads/2025/07/image-1200.jpg"
 					}
 				},
 				{
@@ -2059,7 +2059,7 @@ const RelatedPosts = (props) => {
 					"thumbnail": {
 						"id": 187801,
 						"title": "",
-						"src": "https://promptshub.net/server/wp-content/uploads/2025/07/image-1201.jpg"
+						"src": "https://server.promptshub.net/wp-content/uploads/2025/07/image-1201.jpg"
 					}
 				},
 				{
@@ -2068,7 +2068,7 @@ const RelatedPosts = (props) => {
 					"thumbnail": {
 						"id": 187802,
 						"title": "",
-						"src": "https://promptshub.net/server/wp-content/uploads/2025/07/image-1202.jpg"
+						"src": "https://server.promptshub.net/wp-content/uploads/2025/07/image-1202.jpg"
 					}
 				},
 				{
@@ -2077,7 +2077,7 @@ const RelatedPosts = (props) => {
 					"thumbnail": {
 						"id": 187803,
 						"title": "",
-						"src": "https://promptshub.net/server/wp-content/uploads/2025/07/image-1203.jpg"
+						"src": "https://server.promptshub.net/wp-content/uploads/2025/07/image-1203.jpg"
 					}
 				},
 				{
@@ -2086,7 +2086,7 @@ const RelatedPosts = (props) => {
 					"thumbnail": {
 						"id": 187804,
 						"title": "",
-						"src": "https://promptshub.net/server/wp-content/uploads/2025/07/image-1204.jpg"
+						"src": "https://server.promptshub.net/wp-content/uploads/2025/07/image-1204.jpg"
 					}
 				},
 				{
@@ -2095,7 +2095,7 @@ const RelatedPosts = (props) => {
 					"thumbnail": {
 						"id": 187805,
 						"title": "",
-						"src": "https://promptshub.net/server/wp-content/uploads/2025/07/image-1205.jpg"
+						"src": "https://server.promptshub.net/wp-content/uploads/2025/07/image-1205.jpg"
 					}
 				},
 				{
@@ -2104,7 +2104,7 @@ const RelatedPosts = (props) => {
 					"thumbnail": {
 						"id": 187806,
 						"title": "",
-						"src": "https://promptshub.net/server/wp-content/uploads/2025/07/image-1206.jpg"
+						"src": "https://server.promptshub.net/wp-content/uploads/2025/07/image-1206.jpg"
 					}
 				}
 			]
@@ -2115,7 +2115,7 @@ const RelatedPosts = (props) => {
 			"content": "Gaming chair Furniture landscape, [golden hour lighting], scenic view, [8k ultra detail], [vibrant autumn colors], [wide angle 24mm lens], photography, [peaceful serene atmosphere]",
 			"excerpt": "Professional AI image generation prompt for Gaming chair Furniture with multiple style variations and placeholder formatting",
 			"status": "publish",
-			"post_thumbnail_url": "https://promptshub.net/server/wp-content/uploads/2025/07/image-1218.jpg",
+			"post_thumbnail_url": "https://server.promptshub.net/wp-content/uploads/2025/07/image-1218.jpg",
 			"featured": "",
 			"author": {
 				"name": "promptshub",
@@ -2150,52 +2150,52 @@ const RelatedPosts = (props) => {
 				{
 					"id": 187818,
 					"title": "image-1218",
-					"src": "https://promptshub.net/server/wp-content/uploads/2025/07/image-1218.jpg"
+					"src": "https://server.promptshub.net/wp-content/uploads/2025/07/image-1218.jpg"
 				},
 				{
 					"id": 187817,
 					"title": "image-1217",
-					"src": "https://promptshub.net/server/wp-content/uploads/2025/07/image-1217.jpg"
+					"src": "https://server.promptshub.net/wp-content/uploads/2025/07/image-1217.jpg"
 				},
 				{
 					"id": 187816,
 					"title": "image-1216",
-					"src": "https://promptshub.net/server/wp-content/uploads/2025/07/image-1216.jpg"
+					"src": "https://server.promptshub.net/wp-content/uploads/2025/07/image-1216.jpg"
 				},
 				{
 					"id": 187815,
 					"title": "image-1215",
-					"src": "https://promptshub.net/server/wp-content/uploads/2025/07/image-1215.jpg"
+					"src": "https://server.promptshub.net/wp-content/uploads/2025/07/image-1215.jpg"
 				},
 				{
 					"id": 187814,
 					"title": "image-1214",
-					"src": "https://promptshub.net/server/wp-content/uploads/2025/07/image-1214.jpg"
+					"src": "https://server.promptshub.net/wp-content/uploads/2025/07/image-1214.jpg"
 				},
 				{
 					"id": 187813,
 					"title": "image-1213",
-					"src": "https://promptshub.net/server/wp-content/uploads/2025/07/image-1213.jpg"
+					"src": "https://server.promptshub.net/wp-content/uploads/2025/07/image-1213.jpg"
 				},
 				{
 					"id": 187811,
 					"title": "image-1211",
-					"src": "https://promptshub.net/server/wp-content/uploads/2025/07/image-1211.jpg"
+					"src": "https://server.promptshub.net/wp-content/uploads/2025/07/image-1211.jpg"
 				},
 				{
 					"id": 187810,
 					"title": "image-1210",
-					"src": "https://promptshub.net/server/wp-content/uploads/2025/07/image-1210.jpg"
+					"src": "https://server.promptshub.net/wp-content/uploads/2025/07/image-1210.jpg"
 				},
 				{
 					"id": 187809,
 					"title": "image-1209",
-					"src": "https://promptshub.net/server/wp-content/uploads/2025/07/image-1209.jpg"
+					"src": "https://server.promptshub.net/wp-content/uploads/2025/07/image-1209.jpg"
 				},
 				{
 					"id": 187808,
 					"title": "image-1208",
-					"src": "https://promptshub.net/server/wp-content/uploads/2025/07/image-1208.jpg"
+					"src": "https://server.promptshub.net/wp-content/uploads/2025/07/image-1208.jpg"
 				}
 			],
 			"addons": [],
@@ -2227,7 +2227,7 @@ const RelatedPosts = (props) => {
 					"thumbnail": {
 						"id": 187808,
 						"title": "",
-						"src": "https://promptshub.net/server/wp-content/uploads/2025/07/image-1208.jpg"
+						"src": "https://server.promptshub.net/wp-content/uploads/2025/07/image-1208.jpg"
 					}
 				},
 				{
@@ -2236,7 +2236,7 @@ const RelatedPosts = (props) => {
 					"thumbnail": {
 						"id": 187809,
 						"title": "",
-						"src": "https://promptshub.net/server/wp-content/uploads/2025/07/image-1209.jpg"
+						"src": "https://server.promptshub.net/wp-content/uploads/2025/07/image-1209.jpg"
 					}
 				},
 				{
@@ -2245,7 +2245,7 @@ const RelatedPosts = (props) => {
 					"thumbnail": {
 						"id": 187810,
 						"title": "",
-						"src": "https://promptshub.net/server/wp-content/uploads/2025/07/image-1210.jpg"
+						"src": "https://server.promptshub.net/wp-content/uploads/2025/07/image-1210.jpg"
 					}
 				},
 				{
@@ -2254,7 +2254,7 @@ const RelatedPosts = (props) => {
 					"thumbnail": {
 						"id": 187811,
 						"title": "",
-						"src": "https://promptshub.net/server/wp-content/uploads/2025/07/image-1211.jpg"
+						"src": "https://server.promptshub.net/wp-content/uploads/2025/07/image-1211.jpg"
 					}
 				},
 				{
@@ -2263,7 +2263,7 @@ const RelatedPosts = (props) => {
 					"thumbnail": {
 						"id": 187812,
 						"title": "",
-						"src": "https://promptshub.net/server/wp-content/uploads/2025/07/image-1212.jpg"
+						"src": "https://server.promptshub.net/wp-content/uploads/2025/07/image-1212.jpg"
 					}
 				},
 				{
@@ -2272,7 +2272,7 @@ const RelatedPosts = (props) => {
 					"thumbnail": {
 						"id": 187813,
 						"title": "",
-						"src": "https://promptshub.net/server/wp-content/uploads/2025/07/image-1213.jpg"
+						"src": "https://server.promptshub.net/wp-content/uploads/2025/07/image-1213.jpg"
 					}
 				},
 				{
@@ -2281,7 +2281,7 @@ const RelatedPosts = (props) => {
 					"thumbnail": {
 						"id": 187814,
 						"title": "",
-						"src": "https://promptshub.net/server/wp-content/uploads/2025/07/image-1214.jpg"
+						"src": "https://server.promptshub.net/wp-content/uploads/2025/07/image-1214.jpg"
 					}
 				},
 				{
@@ -2290,7 +2290,7 @@ const RelatedPosts = (props) => {
 					"thumbnail": {
 						"id": 187815,
 						"title": "",
-						"src": "https://promptshub.net/server/wp-content/uploads/2025/07/image-1215.jpg"
+						"src": "https://server.promptshub.net/wp-content/uploads/2025/07/image-1215.jpg"
 					}
 				},
 				{
@@ -2299,7 +2299,7 @@ const RelatedPosts = (props) => {
 					"thumbnail": {
 						"id": 187816,
 						"title": "",
-						"src": "https://promptshub.net/server/wp-content/uploads/2025/07/image-1216.jpg"
+						"src": "https://server.promptshub.net/wp-content/uploads/2025/07/image-1216.jpg"
 					}
 				},
 				{
@@ -2308,7 +2308,7 @@ const RelatedPosts = (props) => {
 					"thumbnail": {
 						"id": 187817,
 						"title": "",
-						"src": "https://promptshub.net/server/wp-content/uploads/2025/07/image-1217.jpg"
+						"src": "https://server.promptshub.net/wp-content/uploads/2025/07/image-1217.jpg"
 					}
 				}
 			]
@@ -2319,7 +2319,7 @@ const RelatedPosts = (props) => {
 			"content": "Massage chair Furniture landscape, [golden hour lighting], scenic view, [8k ultra detail], [vibrant autumn colors], [wide angle 24mm lens], photography, [peaceful serene atmosphere]",
 			"excerpt": "Professional AI image generation prompt for Massage chair Furniture with multiple style variations and placeholder formatting",
 			"status": "publish",
-			"post_thumbnail_url": "https://promptshub.net/server/wp-content/uploads/2025/07/image-1229.jpg",
+			"post_thumbnail_url": "https://server.promptshub.net/wp-content/uploads/2025/07/image-1229.jpg",
 			"featured": "",
 			"author": {
 				"name": "promptshub",
@@ -2354,57 +2354,57 @@ const RelatedPosts = (props) => {
 				{
 					"id": 187829,
 					"title": "image-1229",
-					"src": "https://promptshub.net/server/wp-content/uploads/2025/07/image-1229.jpg"
+					"src": "https://server.promptshub.net/wp-content/uploads/2025/07/image-1229.jpg"
 				},
 				{
 					"id": 187828,
 					"title": "image-1228",
-					"src": "https://promptshub.net/server/wp-content/uploads/2025/07/image-1228.jpg"
+					"src": "https://server.promptshub.net/wp-content/uploads/2025/07/image-1228.jpg"
 				},
 				{
 					"id": 187827,
 					"title": "image-1227",
-					"src": "https://promptshub.net/server/wp-content/uploads/2025/07/image-1227.jpg"
+					"src": "https://server.promptshub.net/wp-content/uploads/2025/07/image-1227.jpg"
 				},
 				{
 					"id": 187826,
 					"title": "image-1226",
-					"src": "https://promptshub.net/server/wp-content/uploads/2025/07/image-1226.jpg"
+					"src": "https://server.promptshub.net/wp-content/uploads/2025/07/image-1226.jpg"
 				},
 				{
 					"id": 187825,
 					"title": "image-1225",
-					"src": "https://promptshub.net/server/wp-content/uploads/2025/07/image-1225.jpg"
+					"src": "https://server.promptshub.net/wp-content/uploads/2025/07/image-1225.jpg"
 				},
 				{
 					"id": 187824,
 					"title": "image-1224",
-					"src": "https://promptshub.net/server/wp-content/uploads/2025/07/image-1224.jpg"
+					"src": "https://server.promptshub.net/wp-content/uploads/2025/07/image-1224.jpg"
 				},
 				{
 					"id": 187823,
 					"title": "image-1223",
-					"src": "https://promptshub.net/server/wp-content/uploads/2025/07/image-1223.jpg"
+					"src": "https://server.promptshub.net/wp-content/uploads/2025/07/image-1223.jpg"
 				},
 				{
 					"id": 187822,
 					"title": "image-1222",
-					"src": "https://promptshub.net/server/wp-content/uploads/2025/07/image-1222.jpg"
+					"src": "https://server.promptshub.net/wp-content/uploads/2025/07/image-1222.jpg"
 				},
 				{
 					"id": 187821,
 					"title": "image-1221",
-					"src": "https://promptshub.net/server/wp-content/uploads/2025/07/image-1221.jpg"
+					"src": "https://server.promptshub.net/wp-content/uploads/2025/07/image-1221.jpg"
 				},
 				{
 					"id": 187820,
 					"title": "image-1220",
-					"src": "https://promptshub.net/server/wp-content/uploads/2025/07/image-1220.jpg"
+					"src": "https://server.promptshub.net/wp-content/uploads/2025/07/image-1220.jpg"
 				},
 				{
 					"id": 187819,
 					"title": "image-1219",
-					"src": "https://promptshub.net/server/wp-content/uploads/2025/07/image-1219.jpg"
+					"src": "https://server.promptshub.net/wp-content/uploads/2025/07/image-1219.jpg"
 				}
 			],
 			"addons": [],
@@ -2436,7 +2436,7 @@ const RelatedPosts = (props) => {
 					"thumbnail": {
 						"id": 187822,
 						"title": "",
-						"src": "https://promptshub.net/server/wp-content/uploads/2025/07/image-1222.jpg"
+						"src": "https://server.promptshub.net/wp-content/uploads/2025/07/image-1222.jpg"
 					}
 				},
 				{
@@ -2445,7 +2445,7 @@ const RelatedPosts = (props) => {
 					"thumbnail": {
 						"id": 187821,
 						"title": "",
-						"src": "https://promptshub.net/server/wp-content/uploads/2025/07/image-1221.jpg"
+						"src": "https://server.promptshub.net/wp-content/uploads/2025/07/image-1221.jpg"
 					}
 				},
 				{
@@ -2454,7 +2454,7 @@ const RelatedPosts = (props) => {
 					"thumbnail": {
 						"id": 187819,
 						"title": "",
-						"src": "https://promptshub.net/server/wp-content/uploads/2025/07/image-1219.jpg"
+						"src": "https://server.promptshub.net/wp-content/uploads/2025/07/image-1219.jpg"
 					}
 				},
 				{
@@ -2463,7 +2463,7 @@ const RelatedPosts = (props) => {
 					"thumbnail": {
 						"id": 187820,
 						"title": "",
-						"src": "https://promptshub.net/server/wp-content/uploads/2025/07/image-1220.jpg"
+						"src": "https://server.promptshub.net/wp-content/uploads/2025/07/image-1220.jpg"
 					}
 				},
 				{
@@ -2472,7 +2472,7 @@ const RelatedPosts = (props) => {
 					"thumbnail": {
 						"id": 187823,
 						"title": "",
-						"src": "https://promptshub.net/server/wp-content/uploads/2025/07/image-1223.jpg"
+						"src": "https://server.promptshub.net/wp-content/uploads/2025/07/image-1223.jpg"
 					}
 				},
 				{
@@ -2481,7 +2481,7 @@ const RelatedPosts = (props) => {
 					"thumbnail": {
 						"id": 187824,
 						"title": "",
-						"src": "https://promptshub.net/server/wp-content/uploads/2025/07/image-1224.jpg"
+						"src": "https://server.promptshub.net/wp-content/uploads/2025/07/image-1224.jpg"
 					}
 				},
 				{
@@ -2490,7 +2490,7 @@ const RelatedPosts = (props) => {
 					"thumbnail": {
 						"id": 187825,
 						"title": "",
-						"src": "https://promptshub.net/server/wp-content/uploads/2025/07/image-1225.jpg"
+						"src": "https://server.promptshub.net/wp-content/uploads/2025/07/image-1225.jpg"
 					}
 				},
 				{
@@ -2499,7 +2499,7 @@ const RelatedPosts = (props) => {
 					"thumbnail": {
 						"id": 187826,
 						"title": "",
-						"src": "https://promptshub.net/server/wp-content/uploads/2025/07/image-1226.jpg"
+						"src": "https://server.promptshub.net/wp-content/uploads/2025/07/image-1226.jpg"
 					}
 				},
 				{
@@ -2508,7 +2508,7 @@ const RelatedPosts = (props) => {
 					"thumbnail": {
 						"id": 187827,
 						"title": "",
-						"src": "https://promptshub.net/server/wp-content/uploads/2025/07/image-1227.jpg"
+						"src": "https://server.promptshub.net/wp-content/uploads/2025/07/image-1227.jpg"
 					}
 				},
 				{
@@ -2517,7 +2517,7 @@ const RelatedPosts = (props) => {
 					"thumbnail": {
 						"id": 187828,
 						"title": "",
-						"src": "https://promptshub.net/server/wp-content/uploads/2025/07/image-1228.jpg"
+						"src": "https://server.promptshub.net/wp-content/uploads/2025/07/image-1228.jpg"
 					}
 				}
 			]
@@ -2528,7 +2528,7 @@ const RelatedPosts = (props) => {
 			"content": "Daybed Furniture landscape, [golden hour lighting], scenic view, [8k ultra detail], [vibrant autumn colors], [wide angle 24mm lens], photography, [peaceful serene atmosphere]",
 			"excerpt": "Professional AI image generation prompt for Daybed Furniture with multiple style variations and placeholder formatting",
 			"status": "publish",
-			"post_thumbnail_url": "https://promptshub.net/server/wp-content/uploads/2025/07/image-1240.jpg",
+			"post_thumbnail_url": "https://server.promptshub.net/wp-content/uploads/2025/07/image-1240.jpg",
 			"featured": "",
 			"author": {
 				"name": "promptshub",
@@ -2563,47 +2563,47 @@ const RelatedPosts = (props) => {
 				{
 					"id": 187840,
 					"title": "image-1240",
-					"src": "https://promptshub.net/server/wp-content/uploads/2025/07/image-1240.jpg"
+					"src": "https://server.promptshub.net/wp-content/uploads/2025/07/image-1240.jpg"
 				},
 				{
 					"id": 187839,
 					"title": "image-1239",
-					"src": "https://promptshub.net/server/wp-content/uploads/2025/07/image-1239.jpg"
+					"src": "https://server.promptshub.net/wp-content/uploads/2025/07/image-1239.jpg"
 				},
 				{
 					"id": 187837,
 					"title": "image-1237",
-					"src": "https://promptshub.net/server/wp-content/uploads/2025/07/image-1237.jpg"
+					"src": "https://server.promptshub.net/wp-content/uploads/2025/07/image-1237.jpg"
 				},
 				{
 					"id": 187836,
 					"title": "image-1236",
-					"src": "https://promptshub.net/server/wp-content/uploads/2025/07/image-1236.jpg"
+					"src": "https://server.promptshub.net/wp-content/uploads/2025/07/image-1236.jpg"
 				},
 				{
 					"id": 187835,
 					"title": "image-1235",
-					"src": "https://promptshub.net/server/wp-content/uploads/2025/07/image-1235.jpg"
+					"src": "https://server.promptshub.net/wp-content/uploads/2025/07/image-1235.jpg"
 				},
 				{
 					"id": 187833,
 					"title": "image-1233",
-					"src": "https://promptshub.net/server/wp-content/uploads/2025/07/image-1233.jpg"
+					"src": "https://server.promptshub.net/wp-content/uploads/2025/07/image-1233.jpg"
 				},
 				{
 					"id": 187832,
 					"title": "image-1232",
-					"src": "https://promptshub.net/server/wp-content/uploads/2025/07/image-1232.jpg"
+					"src": "https://server.promptshub.net/wp-content/uploads/2025/07/image-1232.jpg"
 				},
 				{
 					"id": 187831,
 					"title": "image-1231",
-					"src": "https://promptshub.net/server/wp-content/uploads/2025/07/image-1231.jpg"
+					"src": "https://server.promptshub.net/wp-content/uploads/2025/07/image-1231.jpg"
 				},
 				{
 					"id": 187830,
 					"title": "image-1230",
-					"src": "https://promptshub.net/server/wp-content/uploads/2025/07/image-1230.jpg"
+					"src": "https://server.promptshub.net/wp-content/uploads/2025/07/image-1230.jpg"
 				}
 			],
 			"addons": [],
@@ -2635,7 +2635,7 @@ const RelatedPosts = (props) => {
 					"thumbnail": {
 						"id": 187839,
 						"title": "",
-						"src": "https://promptshub.net/server/wp-content/uploads/2025/07/image-1239.jpg"
+						"src": "https://server.promptshub.net/wp-content/uploads/2025/07/image-1239.jpg"
 					}
 				},
 				{
@@ -2644,7 +2644,7 @@ const RelatedPosts = (props) => {
 					"thumbnail": {
 						"id": 187830,
 						"title": "",
-						"src": "https://promptshub.net/server/wp-content/uploads/2025/07/image-1230.jpg"
+						"src": "https://server.promptshub.net/wp-content/uploads/2025/07/image-1230.jpg"
 					}
 				},
 				{
@@ -2653,7 +2653,7 @@ const RelatedPosts = (props) => {
 					"thumbnail": {
 						"id": 187831,
 						"title": "",
-						"src": "https://promptshub.net/server/wp-content/uploads/2025/07/image-1231.jpg"
+						"src": "https://server.promptshub.net/wp-content/uploads/2025/07/image-1231.jpg"
 					}
 				},
 				{
@@ -2662,7 +2662,7 @@ const RelatedPosts = (props) => {
 					"thumbnail": {
 						"id": 187832,
 						"title": "",
-						"src": "https://promptshub.net/server/wp-content/uploads/2025/07/image-1232.jpg"
+						"src": "https://server.promptshub.net/wp-content/uploads/2025/07/image-1232.jpg"
 					}
 				},
 				{
@@ -2671,7 +2671,7 @@ const RelatedPosts = (props) => {
 					"thumbnail": {
 						"id": 187833,
 						"title": "",
-						"src": "https://promptshub.net/server/wp-content/uploads/2025/07/image-1233.jpg"
+						"src": "https://server.promptshub.net/wp-content/uploads/2025/07/image-1233.jpg"
 					}
 				},
 				{
@@ -2680,7 +2680,7 @@ const RelatedPosts = (props) => {
 					"thumbnail": {
 						"id": 187834,
 						"title": "",
-						"src": "https://promptshub.net/server/wp-content/uploads/2025/07/image-1234.jpg"
+						"src": "https://server.promptshub.net/wp-content/uploads/2025/07/image-1234.jpg"
 					}
 				},
 				{
@@ -2689,7 +2689,7 @@ const RelatedPosts = (props) => {
 					"thumbnail": {
 						"id": 187835,
 						"title": "",
-						"src": "https://promptshub.net/server/wp-content/uploads/2025/07/image-1235.jpg"
+						"src": "https://server.promptshub.net/wp-content/uploads/2025/07/image-1235.jpg"
 					}
 				},
 				{
@@ -2698,7 +2698,7 @@ const RelatedPosts = (props) => {
 					"thumbnail": {
 						"id": 187836,
 						"title": "",
-						"src": "https://promptshub.net/server/wp-content/uploads/2025/07/image-1236.jpg"
+						"src": "https://server.promptshub.net/wp-content/uploads/2025/07/image-1236.jpg"
 					}
 				},
 				{
@@ -2707,7 +2707,7 @@ const RelatedPosts = (props) => {
 					"thumbnail": {
 						"id": 187837,
 						"title": "",
-						"src": "https://promptshub.net/server/wp-content/uploads/2025/07/image-1237.jpg"
+						"src": "https://server.promptshub.net/wp-content/uploads/2025/07/image-1237.jpg"
 					}
 				},
 				{
@@ -2716,7 +2716,7 @@ const RelatedPosts = (props) => {
 					"thumbnail": {
 						"id": 187838,
 						"title": "",
-						"src": "https://promptshub.net/server/wp-content/uploads/2025/07/image-1238.jpg"
+						"src": "https://server.promptshub.net/wp-content/uploads/2025/07/image-1238.jpg"
 					}
 				}
 			]
@@ -2727,7 +2727,7 @@ const RelatedPosts = (props) => {
 			"content": "Futon / Sofa bed Furniture landscape, [golden hour lighting], scenic view, [8k ultra detail], [vibrant autumn colors], [wide angle 24mm lens], photography, [peaceful serene atmosphere]",
 			"excerpt": "Professional AI image generation prompt for Futon / Sofa bed Furniture with multiple style variations and placeholder formatting",
 			"status": "publish",
-			"post_thumbnail_url": "https://promptshub.net/server/wp-content/uploads/2025/07/image-1249.jpg",
+			"post_thumbnail_url": "https://server.promptshub.net/wp-content/uploads/2025/07/image-1249.jpg",
 			"featured": "",
 			"author": {
 				"name": "promptshub",
@@ -2762,52 +2762,52 @@ const RelatedPosts = (props) => {
 				{
 					"id": 187851,
 					"title": "image-1251",
-					"src": "https://promptshub.net/server/wp-content/uploads/2025/07/image-1251.jpg"
+					"src": "https://server.promptshub.net/wp-content/uploads/2025/07/image-1251.jpg"
 				},
 				{
 					"id": 187850,
 					"title": "image-1250",
-					"src": "https://promptshub.net/server/wp-content/uploads/2025/07/image-1250.jpg"
+					"src": "https://server.promptshub.net/wp-content/uploads/2025/07/image-1250.jpg"
 				},
 				{
 					"id": 187848,
 					"title": "image-1248",
-					"src": "https://promptshub.net/server/wp-content/uploads/2025/07/image-1248.jpg"
+					"src": "https://server.promptshub.net/wp-content/uploads/2025/07/image-1248.jpg"
 				},
 				{
 					"id": 187847,
 					"title": "image-1247",
-					"src": "https://promptshub.net/server/wp-content/uploads/2025/07/image-1247.jpg"
+					"src": "https://server.promptshub.net/wp-content/uploads/2025/07/image-1247.jpg"
 				},
 				{
 					"id": 187846,
 					"title": "image-1246",
-					"src": "https://promptshub.net/server/wp-content/uploads/2025/07/image-1246.jpg"
+					"src": "https://server.promptshub.net/wp-content/uploads/2025/07/image-1246.jpg"
 				},
 				{
 					"id": 187845,
 					"title": "image-1245",
-					"src": "https://promptshub.net/server/wp-content/uploads/2025/07/image-1245.jpg"
+					"src": "https://server.promptshub.net/wp-content/uploads/2025/07/image-1245.jpg"
 				},
 				{
 					"id": 187844,
 					"title": "image-1244",
-					"src": "https://promptshub.net/server/wp-content/uploads/2025/07/image-1244.jpg"
+					"src": "https://server.promptshub.net/wp-content/uploads/2025/07/image-1244.jpg"
 				},
 				{
 					"id": 187843,
 					"title": "image-1243",
-					"src": "https://promptshub.net/server/wp-content/uploads/2025/07/image-1243.jpg"
+					"src": "https://server.promptshub.net/wp-content/uploads/2025/07/image-1243.jpg"
 				},
 				{
 					"id": 187842,
 					"title": "image-1242",
-					"src": "https://promptshub.net/server/wp-content/uploads/2025/07/image-1242.jpg"
+					"src": "https://server.promptshub.net/wp-content/uploads/2025/07/image-1242.jpg"
 				},
 				{
 					"id": 187841,
 					"title": "image-1241",
-					"src": "https://promptshub.net/server/wp-content/uploads/2025/07/image-1241.jpg"
+					"src": "https://server.promptshub.net/wp-content/uploads/2025/07/image-1241.jpg"
 				}
 			],
 			"addons": [],
@@ -2839,7 +2839,7 @@ const RelatedPosts = (props) => {
 					"thumbnail": {
 						"id": 187841,
 						"title": "",
-						"src": "https://promptshub.net/server/wp-content/uploads/2025/07/image-1241.jpg"
+						"src": "https://server.promptshub.net/wp-content/uploads/2025/07/image-1241.jpg"
 					}
 				},
 				{
@@ -2848,7 +2848,7 @@ const RelatedPosts = (props) => {
 					"thumbnail": {
 						"id": 187842,
 						"title": "",
-						"src": "https://promptshub.net/server/wp-content/uploads/2025/07/image-1242.jpg"
+						"src": "https://server.promptshub.net/wp-content/uploads/2025/07/image-1242.jpg"
 					}
 				},
 				{
@@ -2857,7 +2857,7 @@ const RelatedPosts = (props) => {
 					"thumbnail": {
 						"id": 187843,
 						"title": "",
-						"src": "https://promptshub.net/server/wp-content/uploads/2025/07/image-1243.jpg"
+						"src": "https://server.promptshub.net/wp-content/uploads/2025/07/image-1243.jpg"
 					}
 				},
 				{
@@ -2866,7 +2866,7 @@ const RelatedPosts = (props) => {
 					"thumbnail": {
 						"id": 187844,
 						"title": "",
-						"src": "https://promptshub.net/server/wp-content/uploads/2025/07/image-1244.jpg"
+						"src": "https://server.promptshub.net/wp-content/uploads/2025/07/image-1244.jpg"
 					}
 				},
 				{
@@ -2875,7 +2875,7 @@ const RelatedPosts = (props) => {
 					"thumbnail": {
 						"id": 187845,
 						"title": "",
-						"src": "https://promptshub.net/server/wp-content/uploads/2025/07/image-1245.jpg"
+						"src": "https://server.promptshub.net/wp-content/uploads/2025/07/image-1245.jpg"
 					}
 				},
 				{
@@ -2884,7 +2884,7 @@ const RelatedPosts = (props) => {
 					"thumbnail": {
 						"id": 187846,
 						"title": "",
-						"src": "https://promptshub.net/server/wp-content/uploads/2025/07/image-1246.jpg"
+						"src": "https://server.promptshub.net/wp-content/uploads/2025/07/image-1246.jpg"
 					}
 				},
 				{
@@ -2893,7 +2893,7 @@ const RelatedPosts = (props) => {
 					"thumbnail": {
 						"id": 187847,
 						"title": "",
-						"src": "https://promptshub.net/server/wp-content/uploads/2025/07/image-1247.jpg"
+						"src": "https://server.promptshub.net/wp-content/uploads/2025/07/image-1247.jpg"
 					}
 				},
 				{
@@ -2902,7 +2902,7 @@ const RelatedPosts = (props) => {
 					"thumbnail": {
 						"id": 187848,
 						"title": "",
-						"src": "https://promptshub.net/server/wp-content/uploads/2025/07/image-1248.jpg"
+						"src": "https://server.promptshub.net/wp-content/uploads/2025/07/image-1248.jpg"
 					}
 				},
 				{
@@ -2911,7 +2911,7 @@ const RelatedPosts = (props) => {
 					"thumbnail": {
 						"id": 187849,
 						"title": "",
-						"src": "https://promptshub.net/server/wp-content/uploads/2025/07/image-1249.jpg"
+						"src": "https://server.promptshub.net/wp-content/uploads/2025/07/image-1249.jpg"
 					}
 				},
 				{
@@ -2920,7 +2920,7 @@ const RelatedPosts = (props) => {
 					"thumbnail": {
 						"id": 187850,
 						"title": "",
-						"src": "https://promptshub.net/server/wp-content/uploads/2025/07/image-1250.jpg"
+						"src": "https://server.promptshub.net/wp-content/uploads/2025/07/image-1250.jpg"
 					}
 				}
 			]
@@ -2931,7 +2931,7 @@ const RelatedPosts = (props) => {
 			"content": "Foldable furniture  Furniture landscape, [golden hour lighting], scenic view, [8k ultra detail], [vibrant autumn colors], [wide angle 24mm lens], photography, [peaceful serene atmosphere]",
 			"excerpt": "Professional AI image generation prompt for Foldable furniture  Furniture with multiple style variations and placeholder formatting",
 			"status": "publish",
-			"post_thumbnail_url": "https://promptshub.net/server/wp-content/uploads/2025/07/image-1255.jpg",
+			"post_thumbnail_url": "https://server.promptshub.net/wp-content/uploads/2025/07/image-1255.jpg",
 			"featured": "",
 			"author": {
 				"name": "promptshub",
@@ -2966,52 +2966,52 @@ const RelatedPosts = (props) => {
 				{
 					"id": 187862,
 					"title": "image-1262",
-					"src": "https://promptshub.net/server/wp-content/uploads/2025/07/image-1262.jpg"
+					"src": "https://server.promptshub.net/wp-content/uploads/2025/07/image-1262.jpg"
 				},
 				{
 					"id": 187861,
 					"title": "image-1261",
-					"src": "https://promptshub.net/server/wp-content/uploads/2025/07/image-1261.jpg"
+					"src": "https://server.promptshub.net/wp-content/uploads/2025/07/image-1261.jpg"
 				},
 				{
 					"id": 187860,
 					"title": "image-1260",
-					"src": "https://promptshub.net/server/wp-content/uploads/2025/07/image-1260.jpg"
+					"src": "https://server.promptshub.net/wp-content/uploads/2025/07/image-1260.jpg"
 				},
 				{
 					"id": 187859,
 					"title": "image-1259",
-					"src": "https://promptshub.net/server/wp-content/uploads/2025/07/image-1259.jpg"
+					"src": "https://server.promptshub.net/wp-content/uploads/2025/07/image-1259.jpg"
 				},
 				{
 					"id": 187858,
 					"title": "image-1258",
-					"src": "https://promptshub.net/server/wp-content/uploads/2025/07/image-1258.jpg"
+					"src": "https://server.promptshub.net/wp-content/uploads/2025/07/image-1258.jpg"
 				},
 				{
 					"id": 187857,
 					"title": "image-1257",
-					"src": "https://promptshub.net/server/wp-content/uploads/2025/07/image-1257.jpg"
+					"src": "https://server.promptshub.net/wp-content/uploads/2025/07/image-1257.jpg"
 				},
 				{
 					"id": 187856,
 					"title": "image-1256",
-					"src": "https://promptshub.net/server/wp-content/uploads/2025/07/image-1256.jpg"
+					"src": "https://server.promptshub.net/wp-content/uploads/2025/07/image-1256.jpg"
 				},
 				{
 					"id": 187854,
 					"title": "image-1254",
-					"src": "https://promptshub.net/server/wp-content/uploads/2025/07/image-1254.jpg"
+					"src": "https://server.promptshub.net/wp-content/uploads/2025/07/image-1254.jpg"
 				},
 				{
 					"id": 187853,
 					"title": "image-1253",
-					"src": "https://promptshub.net/server/wp-content/uploads/2025/07/image-1253.jpg"
+					"src": "https://server.promptshub.net/wp-content/uploads/2025/07/image-1253.jpg"
 				},
 				{
 					"id": 187852,
 					"title": "image-1252",
-					"src": "https://promptshub.net/server/wp-content/uploads/2025/07/image-1252.jpg"
+					"src": "https://server.promptshub.net/wp-content/uploads/2025/07/image-1252.jpg"
 				}
 			],
 			"addons": [],
@@ -3043,7 +3043,7 @@ const RelatedPosts = (props) => {
 					"thumbnail": {
 						"id": 187852,
 						"title": "",
-						"src": "https://promptshub.net/server/wp-content/uploads/2025/07/image-1252.jpg"
+						"src": "https://server.promptshub.net/wp-content/uploads/2025/07/image-1252.jpg"
 					}
 				},
 				{
@@ -3052,7 +3052,7 @@ const RelatedPosts = (props) => {
 					"thumbnail": {
 						"id": 187853,
 						"title": "",
-						"src": "https://promptshub.net/server/wp-content/uploads/2025/07/image-1253.jpg"
+						"src": "https://server.promptshub.net/wp-content/uploads/2025/07/image-1253.jpg"
 					}
 				},
 				{
@@ -3061,7 +3061,7 @@ const RelatedPosts = (props) => {
 					"thumbnail": {
 						"id": 187854,
 						"title": "",
-						"src": "https://promptshub.net/server/wp-content/uploads/2025/07/image-1254.jpg"
+						"src": "https://server.promptshub.net/wp-content/uploads/2025/07/image-1254.jpg"
 					}
 				},
 				{
@@ -3070,7 +3070,7 @@ const RelatedPosts = (props) => {
 					"thumbnail": {
 						"id": 187855,
 						"title": "",
-						"src": "https://promptshub.net/server/wp-content/uploads/2025/07/image-1255.jpg"
+						"src": "https://server.promptshub.net/wp-content/uploads/2025/07/image-1255.jpg"
 					}
 				},
 				{
@@ -3079,7 +3079,7 @@ const RelatedPosts = (props) => {
 					"thumbnail": {
 						"id": 187856,
 						"title": "",
-						"src": "https://promptshub.net/server/wp-content/uploads/2025/07/image-1256.jpg"
+						"src": "https://server.promptshub.net/wp-content/uploads/2025/07/image-1256.jpg"
 					}
 				},
 				{
@@ -3088,7 +3088,7 @@ const RelatedPosts = (props) => {
 					"thumbnail": {
 						"id": 187857,
 						"title": "",
-						"src": "https://promptshub.net/server/wp-content/uploads/2025/07/image-1257.jpg"
+						"src": "https://server.promptshub.net/wp-content/uploads/2025/07/image-1257.jpg"
 					}
 				},
 				{
@@ -3097,7 +3097,7 @@ const RelatedPosts = (props) => {
 					"thumbnail": {
 						"id": 187858,
 						"title": "",
-						"src": "https://promptshub.net/server/wp-content/uploads/2025/07/image-1258.jpg"
+						"src": "https://server.promptshub.net/wp-content/uploads/2025/07/image-1258.jpg"
 					}
 				},
 				{
@@ -3106,7 +3106,7 @@ const RelatedPosts = (props) => {
 					"thumbnail": {
 						"id": 187859,
 						"title": "",
-						"src": "https://promptshub.net/server/wp-content/uploads/2025/07/image-1259.jpg"
+						"src": "https://server.promptshub.net/wp-content/uploads/2025/07/image-1259.jpg"
 					}
 				},
 				{
@@ -3115,7 +3115,7 @@ const RelatedPosts = (props) => {
 					"thumbnail": {
 						"id": 187860,
 						"title": "",
-						"src": "https://promptshub.net/server/wp-content/uploads/2025/07/image-1260.jpg"
+						"src": "https://server.promptshub.net/wp-content/uploads/2025/07/image-1260.jpg"
 					}
 				},
 				{
@@ -3124,7 +3124,7 @@ const RelatedPosts = (props) => {
 					"thumbnail": {
 						"id": 187861,
 						"title": "",
-						"src": "https://promptshub.net/server/wp-content/uploads/2025/07/image-1261.jpg"
+						"src": "https://server.promptshub.net/wp-content/uploads/2025/07/image-1261.jpg"
 					}
 				}
 			]
@@ -3135,7 +3135,7 @@ const RelatedPosts = (props) => {
 			"content": "Under-bed storage Storage Furniture landscape, [golden hour lighting], scenic view, [8k ultra detail], [vibrant autumn colors], [wide angle 24mm lens], photography, [peaceful serene atmosphere]",
 			"excerpt": "Professional AI image generation prompt for Under-bed storage Storage Furniture with multiple style variations and placeholder formatting",
 			"status": "publish",
-			"post_thumbnail_url": "https://promptshub.net/server/wp-content/uploads/2025/07/image-1271.jpg",
+			"post_thumbnail_url": "https://server.promptshub.net/wp-content/uploads/2025/07/image-1271.jpg",
 			"featured": "",
 			"author": {
 				"name": "promptshub",
@@ -3170,42 +3170,42 @@ const RelatedPosts = (props) => {
 				{
 					"id": 187873,
 					"title": "image-1273",
-					"src": "https://promptshub.net/server/wp-content/uploads/2025/07/image-1273.jpg"
+					"src": "https://server.promptshub.net/wp-content/uploads/2025/07/image-1273.jpg"
 				},
 				{
 					"id": 187872,
 					"title": "image-1272",
-					"src": "https://promptshub.net/server/wp-content/uploads/2025/07/image-1272.jpg"
+					"src": "https://server.promptshub.net/wp-content/uploads/2025/07/image-1272.jpg"
 				},
 				{
 					"id": 187870,
 					"title": "image-1270",
-					"src": "https://promptshub.net/server/wp-content/uploads/2025/07/image-1270.jpg"
+					"src": "https://server.promptshub.net/wp-content/uploads/2025/07/image-1270.jpg"
 				},
 				{
 					"id": 187868,
 					"title": "image-1268",
-					"src": "https://promptshub.net/server/wp-content/uploads/2025/07/image-1268.jpg"
+					"src": "https://server.promptshub.net/wp-content/uploads/2025/07/image-1268.jpg"
 				},
 				{
 					"id": 187866,
 					"title": "image-1266",
-					"src": "https://promptshub.net/server/wp-content/uploads/2025/07/image-1266.jpg"
+					"src": "https://server.promptshub.net/wp-content/uploads/2025/07/image-1266.jpg"
 				},
 				{
 					"id": 187865,
 					"title": "image-1265",
-					"src": "https://promptshub.net/server/wp-content/uploads/2025/07/image-1265.jpg"
+					"src": "https://server.promptshub.net/wp-content/uploads/2025/07/image-1265.jpg"
 				},
 				{
 					"id": 187864,
 					"title": "image-1264",
-					"src": "https://promptshub.net/server/wp-content/uploads/2025/07/image-1264.jpg"
+					"src": "https://server.promptshub.net/wp-content/uploads/2025/07/image-1264.jpg"
 				},
 				{
 					"id": 187863,
 					"title": "image-1263",
-					"src": "https://promptshub.net/server/wp-content/uploads/2025/07/image-1263.jpg"
+					"src": "https://server.promptshub.net/wp-content/uploads/2025/07/image-1263.jpg"
 				}
 			],
 			"addons": [],
@@ -3237,7 +3237,7 @@ const RelatedPosts = (props) => {
 					"thumbnail": {
 						"id": 187863,
 						"title": "",
-						"src": "https://promptshub.net/server/wp-content/uploads/2025/07/image-1263.jpg"
+						"src": "https://server.promptshub.net/wp-content/uploads/2025/07/image-1263.jpg"
 					}
 				},
 				{
@@ -3246,7 +3246,7 @@ const RelatedPosts = (props) => {
 					"thumbnail": {
 						"id": 187864,
 						"title": "",
-						"src": "https://promptshub.net/server/wp-content/uploads/2025/07/image-1264.jpg"
+						"src": "https://server.promptshub.net/wp-content/uploads/2025/07/image-1264.jpg"
 					}
 				},
 				{
@@ -3255,7 +3255,7 @@ const RelatedPosts = (props) => {
 					"thumbnail": {
 						"id": 187865,
 						"title": "",
-						"src": "https://promptshub.net/server/wp-content/uploads/2025/07/image-1265.jpg"
+						"src": "https://server.promptshub.net/wp-content/uploads/2025/07/image-1265.jpg"
 					}
 				},
 				{
@@ -3264,7 +3264,7 @@ const RelatedPosts = (props) => {
 					"thumbnail": {
 						"id": 187866,
 						"title": "",
-						"src": "https://promptshub.net/server/wp-content/uploads/2025/07/image-1266.jpg"
+						"src": "https://server.promptshub.net/wp-content/uploads/2025/07/image-1266.jpg"
 					}
 				},
 				{
@@ -3273,7 +3273,7 @@ const RelatedPosts = (props) => {
 					"thumbnail": {
 						"id": 187867,
 						"title": "",
-						"src": "https://promptshub.net/server/wp-content/uploads/2025/07/image-1267.jpg"
+						"src": "https://server.promptshub.net/wp-content/uploads/2025/07/image-1267.jpg"
 					}
 				},
 				{
@@ -3282,7 +3282,7 @@ const RelatedPosts = (props) => {
 					"thumbnail": {
 						"id": 187868,
 						"title": "",
-						"src": "https://promptshub.net/server/wp-content/uploads/2025/07/image-1268.jpg"
+						"src": "https://server.promptshub.net/wp-content/uploads/2025/07/image-1268.jpg"
 					}
 				},
 				{
@@ -3291,7 +3291,7 @@ const RelatedPosts = (props) => {
 					"thumbnail": {
 						"id": 187869,
 						"title": "",
-						"src": "https://promptshub.net/server/wp-content/uploads/2025/07/image-1269.jpg"
+						"src": "https://server.promptshub.net/wp-content/uploads/2025/07/image-1269.jpg"
 					}
 				},
 				{
@@ -3300,7 +3300,7 @@ const RelatedPosts = (props) => {
 					"thumbnail": {
 						"id": 187870,
 						"title": "",
-						"src": "https://promptshub.net/server/wp-content/uploads/2025/07/image-1270.jpg"
+						"src": "https://server.promptshub.net/wp-content/uploads/2025/07/image-1270.jpg"
 					}
 				},
 				{
@@ -3309,7 +3309,7 @@ const RelatedPosts = (props) => {
 					"thumbnail": {
 						"id": 187871,
 						"title": "",
-						"src": "https://promptshub.net/server/wp-content/uploads/2025/07/image-1271.jpg"
+						"src": "https://server.promptshub.net/wp-content/uploads/2025/07/image-1271.jpg"
 					}
 				},
 				{
@@ -3318,7 +3318,7 @@ const RelatedPosts = (props) => {
 					"thumbnail": {
 						"id": 187872,
 						"title": "",
-						"src": "https://promptshub.net/server/wp-content/uploads/2025/07/image-1272.jpg"
+						"src": "https://server.promptshub.net/wp-content/uploads/2025/07/image-1272.jpg"
 					}
 				}
 			]
@@ -3329,7 +3329,7 @@ const RelatedPosts = (props) => {
 			"content": "Closet organizer system Storage Furniture landscape, [golden hour lighting], scenic view, [8k ultra detail], [vibrant autumn colors], [wide angle 24mm lens], photography, [peaceful serene atmosphere]",
 			"excerpt": "Professional AI image generation prompt for Closet organizer system Storage Furniture with multiple style variations and placeholder formatting",
 			"status": "publish",
-			"post_thumbnail_url": "https://promptshub.net/server/wp-content/uploads/2025/07/image-1275.jpg",
+			"post_thumbnail_url": "https://server.promptshub.net/wp-content/uploads/2025/07/image-1275.jpg",
 			"featured": "",
 			"author": {
 				"name": "promptshub",
@@ -3364,57 +3364,57 @@ const RelatedPosts = (props) => {
 				{
 					"id": 187884,
 					"title": "image-1284",
-					"src": "https://promptshub.net/server/wp-content/uploads/2025/07/image-1284.jpg"
+					"src": "https://server.promptshub.net/wp-content/uploads/2025/07/image-1284.jpg"
 				},
 				{
 					"id": 187883,
 					"title": "image-1283",
-					"src": "https://promptshub.net/server/wp-content/uploads/2025/07/image-1283.jpg"
+					"src": "https://server.promptshub.net/wp-content/uploads/2025/07/image-1283.jpg"
 				},
 				{
 					"id": 187882,
 					"title": "image-1282",
-					"src": "https://promptshub.net/server/wp-content/uploads/2025/07/image-1282.jpg"
+					"src": "https://server.promptshub.net/wp-content/uploads/2025/07/image-1282.jpg"
 				},
 				{
 					"id": 187881,
 					"title": "image-1281",
-					"src": "https://promptshub.net/server/wp-content/uploads/2025/07/image-1281.jpg"
+					"src": "https://server.promptshub.net/wp-content/uploads/2025/07/image-1281.jpg"
 				},
 				{
 					"id": 187880,
 					"title": "image-1280",
-					"src": "https://promptshub.net/server/wp-content/uploads/2025/07/image-1280.jpg"
+					"src": "https://server.promptshub.net/wp-content/uploads/2025/07/image-1280.jpg"
 				},
 				{
 					"id": 187879,
 					"title": "image-1279",
-					"src": "https://promptshub.net/server/wp-content/uploads/2025/07/image-1279.jpg"
+					"src": "https://server.promptshub.net/wp-content/uploads/2025/07/image-1279.jpg"
 				},
 				{
 					"id": 187878,
 					"title": "image-1278",
-					"src": "https://promptshub.net/server/wp-content/uploads/2025/07/image-1278.jpg"
+					"src": "https://server.promptshub.net/wp-content/uploads/2025/07/image-1278.jpg"
 				},
 				{
 					"id": 187877,
 					"title": "image-1277",
-					"src": "https://promptshub.net/server/wp-content/uploads/2025/07/image-1277.jpg"
+					"src": "https://server.promptshub.net/wp-content/uploads/2025/07/image-1277.jpg"
 				},
 				{
 					"id": 187876,
 					"title": "image-1276",
-					"src": "https://promptshub.net/server/wp-content/uploads/2025/07/image-1276.jpg"
+					"src": "https://server.promptshub.net/wp-content/uploads/2025/07/image-1276.jpg"
 				},
 				{
 					"id": 187875,
 					"title": "image-1275",
-					"src": "https://promptshub.net/server/wp-content/uploads/2025/07/image-1275.jpg"
+					"src": "https://server.promptshub.net/wp-content/uploads/2025/07/image-1275.jpg"
 				},
 				{
 					"id": 187874,
 					"title": "image-1274",
-					"src": "https://promptshub.net/server/wp-content/uploads/2025/07/image-1274.jpg"
+					"src": "https://server.promptshub.net/wp-content/uploads/2025/07/image-1274.jpg"
 				}
 			],
 			"addons": [],
@@ -3446,7 +3446,7 @@ const RelatedPosts = (props) => {
 					"thumbnail": {
 						"id": 187874,
 						"title": "",
-						"src": "https://promptshub.net/server/wp-content/uploads/2025/07/image-1274.jpg"
+						"src": "https://server.promptshub.net/wp-content/uploads/2025/07/image-1274.jpg"
 					}
 				},
 				{
@@ -3455,7 +3455,7 @@ const RelatedPosts = (props) => {
 					"thumbnail": {
 						"id": 187875,
 						"title": "",
-						"src": "https://promptshub.net/server/wp-content/uploads/2025/07/image-1275.jpg"
+						"src": "https://server.promptshub.net/wp-content/uploads/2025/07/image-1275.jpg"
 					}
 				},
 				{
@@ -3464,7 +3464,7 @@ const RelatedPosts = (props) => {
 					"thumbnail": {
 						"id": 187876,
 						"title": "",
-						"src": "https://promptshub.net/server/wp-content/uploads/2025/07/image-1276.jpg"
+						"src": "https://server.promptshub.net/wp-content/uploads/2025/07/image-1276.jpg"
 					}
 				},
 				{
@@ -3473,7 +3473,7 @@ const RelatedPosts = (props) => {
 					"thumbnail": {
 						"id": 187877,
 						"title": "",
-						"src": "https://promptshub.net/server/wp-content/uploads/2025/07/image-1277.jpg"
+						"src": "https://server.promptshub.net/wp-content/uploads/2025/07/image-1277.jpg"
 					}
 				},
 				{
@@ -3482,7 +3482,7 @@ const RelatedPosts = (props) => {
 					"thumbnail": {
 						"id": 187878,
 						"title": "",
-						"src": "https://promptshub.net/server/wp-content/uploads/2025/07/image-1278.jpg"
+						"src": "https://server.promptshub.net/wp-content/uploads/2025/07/image-1278.jpg"
 					}
 				},
 				{
@@ -3491,7 +3491,7 @@ const RelatedPosts = (props) => {
 					"thumbnail": {
 						"id": 187879,
 						"title": "",
-						"src": "https://promptshub.net/server/wp-content/uploads/2025/07/image-1279.jpg"
+						"src": "https://server.promptshub.net/wp-content/uploads/2025/07/image-1279.jpg"
 					}
 				},
 				{
@@ -3500,7 +3500,7 @@ const RelatedPosts = (props) => {
 					"thumbnail": {
 						"id": 187880,
 						"title": "",
-						"src": "https://promptshub.net/server/wp-content/uploads/2025/07/image-1280.jpg"
+						"src": "https://server.promptshub.net/wp-content/uploads/2025/07/image-1280.jpg"
 					}
 				},
 				{
@@ -3509,7 +3509,7 @@ const RelatedPosts = (props) => {
 					"thumbnail": {
 						"id": 187881,
 						"title": "",
-						"src": "https://promptshub.net/server/wp-content/uploads/2025/07/image-1281.jpg"
+						"src": "https://server.promptshub.net/wp-content/uploads/2025/07/image-1281.jpg"
 					}
 				},
 				{
@@ -3518,7 +3518,7 @@ const RelatedPosts = (props) => {
 					"thumbnail": {
 						"id": 187882,
 						"title": "",
-						"src": "https://promptshub.net/server/wp-content/uploads/2025/07/image-1282.jpg"
+						"src": "https://server.promptshub.net/wp-content/uploads/2025/07/image-1282.jpg"
 					}
 				},
 				{
@@ -3527,7 +3527,7 @@ const RelatedPosts = (props) => {
 					"thumbnail": {
 						"id": 187883,
 						"title": "",
-						"src": "https://promptshub.net/server/wp-content/uploads/2025/07/image-1283.jpg"
+						"src": "https://server.promptshub.net/wp-content/uploads/2025/07/image-1283.jpg"
 					}
 				}
 			]
@@ -3538,7 +3538,7 @@ const RelatedPosts = (props) => {
 			"content": "Floating shelves Storage Furniture landscape, [golden hour lighting], scenic view, [8k ultra detail], [vibrant autumn colors], [wide angle 24mm lens], photography, [peaceful serene atmosphere]",
 			"excerpt": "Professional AI image generation prompt for Floating shelves Storage Furniture with multiple style variations and placeholder formatting",
 			"status": "publish",
-			"post_thumbnail_url": "https://promptshub.net/server/wp-content/uploads/2025/07/image-1288.jpg",
+			"post_thumbnail_url": "https://server.promptshub.net/wp-content/uploads/2025/07/image-1288.jpg",
 			"featured": "",
 			"author": {
 				"name": "promptshub",
@@ -3573,57 +3573,57 @@ const RelatedPosts = (props) => {
 				{
 					"id": 187895,
 					"title": "image-1295",
-					"src": "https://promptshub.net/server/wp-content/uploads/2025/07/image-1295.jpg"
+					"src": "https://server.promptshub.net/wp-content/uploads/2025/07/image-1295.jpg"
 				},
 				{
 					"id": 187894,
 					"title": "image-1294",
-					"src": "https://promptshub.net/server/wp-content/uploads/2025/07/image-1294.jpg"
+					"src": "https://server.promptshub.net/wp-content/uploads/2025/07/image-1294.jpg"
 				},
 				{
 					"id": 187893,
 					"title": "image-1293",
-					"src": "https://promptshub.net/server/wp-content/uploads/2025/07/image-1293.jpg"
+					"src": "https://server.promptshub.net/wp-content/uploads/2025/07/image-1293.jpg"
 				},
 				{
 					"id": 187892,
 					"title": "image-1292",
-					"src": "https://promptshub.net/server/wp-content/uploads/2025/07/image-1292.jpg"
+					"src": "https://server.promptshub.net/wp-content/uploads/2025/07/image-1292.jpg"
 				},
 				{
 					"id": 187891,
 					"title": "image-1291",
-					"src": "https://promptshub.net/server/wp-content/uploads/2025/07/image-1291.jpg"
+					"src": "https://server.promptshub.net/wp-content/uploads/2025/07/image-1291.jpg"
 				},
 				{
 					"id": 187890,
 					"title": "image-1290",
-					"src": "https://promptshub.net/server/wp-content/uploads/2025/07/image-1290.jpg"
+					"src": "https://server.promptshub.net/wp-content/uploads/2025/07/image-1290.jpg"
 				},
 				{
 					"id": 187889,
 					"title": "image-1289",
-					"src": "https://promptshub.net/server/wp-content/uploads/2025/07/image-1289.jpg"
+					"src": "https://server.promptshub.net/wp-content/uploads/2025/07/image-1289.jpg"
 				},
 				{
 					"id": 187888,
 					"title": "image-1288",
-					"src": "https://promptshub.net/server/wp-content/uploads/2025/07/image-1288.jpg"
+					"src": "https://server.promptshub.net/wp-content/uploads/2025/07/image-1288.jpg"
 				},
 				{
 					"id": 187887,
 					"title": "image-1287",
-					"src": "https://promptshub.net/server/wp-content/uploads/2025/07/image-1287.jpg"
+					"src": "https://server.promptshub.net/wp-content/uploads/2025/07/image-1287.jpg"
 				},
 				{
 					"id": 187886,
 					"title": "image-1286",
-					"src": "https://promptshub.net/server/wp-content/uploads/2025/07/image-1286.jpg"
+					"src": "https://server.promptshub.net/wp-content/uploads/2025/07/image-1286.jpg"
 				},
 				{
 					"id": 187885,
 					"title": "image-1285",
-					"src": "https://promptshub.net/server/wp-content/uploads/2025/07/image-1285.jpg"
+					"src": "https://server.promptshub.net/wp-content/uploads/2025/07/image-1285.jpg"
 				}
 			],
 			"addons": [],
@@ -3655,7 +3655,7 @@ const RelatedPosts = (props) => {
 					"thumbnail": {
 						"id": 187885,
 						"title": "",
-						"src": "https://promptshub.net/server/wp-content/uploads/2025/07/image-1285.jpg"
+						"src": "https://server.promptshub.net/wp-content/uploads/2025/07/image-1285.jpg"
 					}
 				},
 				{
@@ -3664,7 +3664,7 @@ const RelatedPosts = (props) => {
 					"thumbnail": {
 						"id": 187886,
 						"title": "",
-						"src": "https://promptshub.net/server/wp-content/uploads/2025/07/image-1286.jpg"
+						"src": "https://server.promptshub.net/wp-content/uploads/2025/07/image-1286.jpg"
 					}
 				},
 				{
@@ -3673,7 +3673,7 @@ const RelatedPosts = (props) => {
 					"thumbnail": {
 						"id": 187887,
 						"title": "",
-						"src": "https://promptshub.net/server/wp-content/uploads/2025/07/image-1287.jpg"
+						"src": "https://server.promptshub.net/wp-content/uploads/2025/07/image-1287.jpg"
 					}
 				},
 				{
@@ -3682,7 +3682,7 @@ const RelatedPosts = (props) => {
 					"thumbnail": {
 						"id": 187888,
 						"title": "",
-						"src": "https://promptshub.net/server/wp-content/uploads/2025/07/image-1288.jpg"
+						"src": "https://server.promptshub.net/wp-content/uploads/2025/07/image-1288.jpg"
 					}
 				},
 				{
@@ -3691,7 +3691,7 @@ const RelatedPosts = (props) => {
 					"thumbnail": {
 						"id": 187889,
 						"title": "",
-						"src": "https://promptshub.net/server/wp-content/uploads/2025/07/image-1289.jpg"
+						"src": "https://server.promptshub.net/wp-content/uploads/2025/07/image-1289.jpg"
 					}
 				},
 				{
@@ -3700,7 +3700,7 @@ const RelatedPosts = (props) => {
 					"thumbnail": {
 						"id": 187890,
 						"title": "",
-						"src": "https://promptshub.net/server/wp-content/uploads/2025/07/image-1290.jpg"
+						"src": "https://server.promptshub.net/wp-content/uploads/2025/07/image-1290.jpg"
 					}
 				},
 				{
@@ -3709,7 +3709,7 @@ const RelatedPosts = (props) => {
 					"thumbnail": {
 						"id": 187891,
 						"title": "",
-						"src": "https://promptshub.net/server/wp-content/uploads/2025/07/image-1291.jpg"
+						"src": "https://server.promptshub.net/wp-content/uploads/2025/07/image-1291.jpg"
 					}
 				},
 				{
@@ -3718,7 +3718,7 @@ const RelatedPosts = (props) => {
 					"thumbnail": {
 						"id": 187892,
 						"title": "",
-						"src": "https://promptshub.net/server/wp-content/uploads/2025/07/image-1292.jpg"
+						"src": "https://server.promptshub.net/wp-content/uploads/2025/07/image-1292.jpg"
 					}
 				},
 				{
@@ -3727,7 +3727,7 @@ const RelatedPosts = (props) => {
 					"thumbnail": {
 						"id": 187893,
 						"title": "",
-						"src": "https://promptshub.net/server/wp-content/uploads/2025/07/image-1293.jpg"
+						"src": "https://server.promptshub.net/wp-content/uploads/2025/07/image-1293.jpg"
 					}
 				},
 				{
@@ -3736,7 +3736,7 @@ const RelatedPosts = (props) => {
 					"thumbnail": {
 						"id": 187894,
 						"title": "",
-						"src": "https://promptshub.net/server/wp-content/uploads/2025/07/image-1294.jpg"
+						"src": "https://server.promptshub.net/wp-content/uploads/2025/07/image-1294.jpg"
 					}
 				}
 			]

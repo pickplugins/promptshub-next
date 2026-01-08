@@ -155,9 +155,6 @@ const ProductArchive = (props) => {
 
 				<div className="flex flex-col gap-4 relative">
 
-					{JSON.stringify(entry)}
-
-
 					<div className="w-full h-[300px] overflow-hidden bg-gray-600 rounded-sm ">
 						{entry?.post_thumbnail_url && (
 							<Link className="text-left text-xl  font-medium cursor-pointer" href={`/prompts/${entry?.slug}/`} >

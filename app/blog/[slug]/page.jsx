@@ -3,9 +3,9 @@ import Link from "next/link";
 import Image from "next/image";
 
 
-import Comments from "/components/shop-elements/Comments";
-import RelatedPosts from "/components/shop-elements/RelatedPosts";
-import EmailSubscribe from "/components/EmailSubscribe";
+import Comments from "../../components/shop-elements/Comments";
+import RelatedPosts from "../../components/shop-elements/RelatedPosts";
+import EmailSubscribe from "../../components/EmailSubscribe";
 
 
 

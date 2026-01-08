@@ -9,8 +9,6 @@ import { APIProvider, Map, useMapsLibrary, useMap } from '@vis.gl/react-google-m
 
 import { useCounterStore } from '../store/useCounterStore'
 import { useUtilsStore } from "/store/useUtilsStore";
-import LocationPicker from "/components/LocationPicker";
-import GoogleMapDirections from "/components/GoogleMapDirections";
 import PopoverButton from "/components/PopoverButton";
 import Spinner from "../Spinner";
 

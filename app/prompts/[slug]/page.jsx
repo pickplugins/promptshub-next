@@ -7,7 +7,7 @@ import Image from "next/image";
 
 // import { useState, useEffect, useContext } from "react";
 
-import PromptView from "/components/PromptView";
+import PromptView from "../../../components/PromptView";
 
 import { marked } from 'marked';
 import { IconArrowNarrowRightDashed, IconHelp, IconCopy, IconBrandOpenai, IconX, IconShoppingCartPlus, IconHeart, IconHeartFilled, IconChevronDown, IconShoppingCartCopy, IconDownload, IconThumbUp, IconThumbDown, IconEyeSearch, IconReplace } from "@tabler/icons-react";
@@ -19,7 +19,7 @@ const serverUrl = process.env.NEXT_PUBLIC_SERVER_URL;
 // ⬅️ Force server-side rendering on every request
 export const dynamic = "force-dynamic";
 
-import { getProduct } from "/lib/getProduct";
+import { getProduct } from "../../../lib/getProduct";
 
 export async function generateMetadata({ params }) {
   const { slug } = await params; // ✅ await params

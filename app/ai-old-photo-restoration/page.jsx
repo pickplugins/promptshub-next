@@ -1,7 +1,7 @@
 
 
 
-import { AuthProvider } from "../components/auth-context";
+import { AuthProvider } from "../../components/auth-context";
 
 
 

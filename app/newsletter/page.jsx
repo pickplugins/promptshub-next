@@ -2,8 +2,8 @@
 import Link from "next/link";
 import React from "react";
 
-import EmailSubscribe from "/components/EmailSubscribe";
-import ToggleContent from "/components/ToggleContent";
+import EmailSubscribe from "../../components/EmailSubscribe";
+import ToggleContent from "../../components/ToggleContent";
 import { IconChevronDown, IconChevronUp, IconSquare, IconFidgetSpinner, IconTrash, IconHelpHexagon, IconStar, IconClockPause, IconExclamationCircle, IconRosetteDiscountCheck, IconX } from "@tabler/icons-react";
 
 

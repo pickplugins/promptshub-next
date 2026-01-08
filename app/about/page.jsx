@@ -1,9 +1,7 @@
 
 
-import UserAccount from "/components/UserAccount";
 
-import { AuthProvider } from "../components/auth-context";
-import { useAuthStore } from "/store/authStore";
+import { AuthProvider } from "../../components/auth-context";
 
 
 

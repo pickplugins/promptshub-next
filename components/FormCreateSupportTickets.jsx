@@ -4,9 +4,9 @@ import { IconChevronDown, IconChevronUp, IconSquare, IconFidgetSpinner, IconTras
 
 import { useCounterStore } from '../store/useCounterStore'
 
-import ToggleContent from "/components/ToggleContent";
-import TermsPicker from "/components/shop-elements/TermsPicker";
-import TagsPicker from "/components/shop-elements/TagsPicker";
+import ToggleContent from "./ToggleContent";
+import TermsPicker from "./shop-elements/TermsPicker";
+import TagsPicker from "./shop-elements/TagsPicker";
 
 const serverUrl = process.env.NEXT_PUBLIC_SERVER_URL;
 const appUrl = process.env.NEXT_PUBLIC_APP_URL;

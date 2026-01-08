@@ -5,7 +5,7 @@ import React from "react";
 
 import { IconChevronDown, IconChevronUp, IconSquare, IconFidgetSpinner, IconTrash, IconHelpHexagon, IconStar, IconClockPause, IconExclamationCircle, IconRosetteDiscountCheck, IconX } from "@tabler/icons-react";
 
-import FormCreateSupportTickets from "/components/FormCreateSupportTickets";
+import FormCreateSupportTickets from "../../components/FormCreateSupportTickets";
 
 
 const serverUrl = process.env.NEXT_PUBLIC_SERVER_URL;

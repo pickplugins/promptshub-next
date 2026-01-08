@@ -4,8 +4,7 @@ import { useState, useEffect, useContext } from "react";
 import Spinner from "./Spinner";
 import { IconChevronDown, IconChevronUp, IconSquare, IconFidgetSpinner, IconTrash, IconStarFilled, IconStar, IconClockPause, IconExclamationCircle, IconRosetteDiscountCheck, IconX } from "@tabler/icons-react";
 import { useCounterStore } from '../store/useCounterStore'
-import { useAuthStore } from "/store/authStore";
-import LocationPicker from "./LocationPicker";
+import { useAuthStore } from "../store/authStore";
 
 
 const UserProfileEdit = ({ user }) => {
@@ -441,13 +440,7 @@ const UserProfileEdit = ({ user }) => {
 
 								</div>
 							</div>
-							<LocationPicker markerDraggable={true} latlng={editUserData?.delivery_location} onLocationSelect={(coords) => {
 
-								seteditUserData({ ...editUserData, delivery_location: coords });
-
-
-
-							}} />
 						</div>
 					)}
 					{!editUserData?.delivery_location && (
@@ -455,13 +448,7 @@ const UserProfileEdit = ({ user }) => {
 							<h3 className="mb-5 text-2xl ">{("Delivery Location")}</h3>
 							<p>You haven't set any delivery location.</p>
 
-							<LocationPicker markerDraggable={true} onLocationSelect={(coords) => {
 
-								seteditUserData({ ...editUserData, delivery_location: coords });
-
-
-
-							}} />
 						</div>
 					)}
 

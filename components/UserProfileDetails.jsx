@@ -4,7 +4,7 @@ import Link from "next/link";
 import Image from "next/image";
 import { useAuth } from "./auth-context";
 import { useCounterStore } from '../store/useCounterStore'
-import { useAuthStore } from "/store/authStore";
+import { useAuthStore } from "../store/authStore";
 import LocationPicker from "./LocationPicker";
 import Spinner from "./Spinner";
 

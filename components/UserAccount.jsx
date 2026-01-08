@@ -11,13 +11,13 @@ import {
 } from "@tabler/icons-react";
 import { useCounterStore } from '../store/useCounterStore'
 import AccordionMenu from "./AccordionMenu";
-import { useAuthStore } from "/store/authStore";
+import { useAuthStore } from "../store/authStore";
 
 
-import Login from '/components/Login';
+import Login from './Login';
 
-import Register from '/components/Register';
-import UserProfileDetails from "/components/UserProfileDetails";
+import Register from './Register';
+import UserProfileDetails from './UserProfileDetails';
 
 
 

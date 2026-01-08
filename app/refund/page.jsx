@@ -1,8 +1,6 @@
 
 
-import UserAccount from "/components/UserAccount";
-
-import { AuthProvider } from "../components/auth-context";
+import { AuthProvider } from "../../components/auth-context";
 
 
 

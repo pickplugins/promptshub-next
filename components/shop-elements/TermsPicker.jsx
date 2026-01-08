@@ -2,7 +2,7 @@
 import { useState, useEffect, useContext } from "react";
 
 import { IconSettings, IconCheckbox, IconSquare, IconFidgetSpinner, IconTrash, IconStarFilled, IconStar } from "@tabler/icons-react";
-import { useCounterStore } from '../store/useCounterStore'
+import { useCounterStore } from '../../store/useCounterStore'
 
 const TermsPicker = (props) => {
 

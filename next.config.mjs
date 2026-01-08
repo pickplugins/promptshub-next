@@ -1,9 +1,21 @@
 /** @type {import('next').NextConfig} */
 const nextConfig = {
   images: {
-    domains: ['localhost', 'secure.gravatar.com', 'promptshub.net', 'server.promptshub.net'],
+    remotePatterns: [
+      {
+        protocol: "http",
+        hostname: "localhost",
+      },
+      {
+        protocol: "https",
+        hostname: "secure.gravatar.com",
+      },
+      {
+        protocol: 'https',
+        hostname: 'server.promptshub.net',
+      },
+    ],
   },
-
 };
 
 export default nextConfig;

@@ -8,9 +8,9 @@ import { useState, useEffect, useContext } from "react";
 import Spinner from "/components/Spinner";
 import { IconRefresh } from "@tabler/icons-react";
 
-import { useCounterStore } from '../store/useCounterStore'
-import { useUtilsStore } from "../store/useUtilsStore";
-import { useAuthStore } from "../store/authStore";
+import { useCounterStore } from '../../store/useCounterStore'
+import { useUtilsStore } from "../../store/useUtilsStore";
+import { useAuthStore } from "../../store/authStore";
 
 
 const page = () => {

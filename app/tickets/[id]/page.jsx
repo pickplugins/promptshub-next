@@ -6,13 +6,13 @@ import Image from "next/image";
 
 import { useState, useEffect, useContext } from "react";
 
-import Comments from "../../components/shop-elements/Comments";
+import Comments from "../../../components/shop-elements/Comments";
 
-import { useCounterStore } from '../store/useCounterStore'
+import { useCounterStore } from '../../../store/useCounterStore'
 import { IconArrowNarrowRightDashed, IconArrowNarrowLeftDashed, IconCopy, IconBrandOpenai, IconX, IconBookmark, IconHeart, IconHeartFilled, IconChevronDown, IconChevronUp, IconDownload, IconThumbUp, IconThumbDown, IconEyeSearch, IconReplace } from "@tabler/icons-react";
-import EmailSubscribe from "../../components/EmailSubscribe";
-import Spinner from "../../components/Spinner";
-import { useAuthStore } from "/store/authStore";
+import EmailSubscribe from "../../../components/EmailSubscribe";
+import Spinner from "../../../components/Spinner";
+import { useAuthStore } from "../../../store/authStore";
 
 
 const page = ({ params }) => {

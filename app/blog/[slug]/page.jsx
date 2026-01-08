@@ -3,13 +3,13 @@ import Link from "next/link";
 import Image from "next/image";
 
 
-import Comments from "../../components/shop-elements/Comments";
-import RelatedPosts from "../../components/shop-elements/RelatedPosts";
-import EmailSubscribe from "../../components/EmailSubscribe";
+import Comments from "../../../components/shop-elements/Comments";
+import RelatedPosts from "../../../components/shop-elements/RelatedPosts";
+import EmailSubscribe from "../../../components/EmailSubscribe";
 
 
 
-import { getBlogPost } from "/lib/getBlogPost";
+import { getBlogPost } from "../../../lib/getBlogPost";
 
 const appUrl = process.env.NEXT_PUBLIC_APP_URL;
 

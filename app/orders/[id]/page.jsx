@@ -2,17 +2,17 @@
 import React, { use } from 'react'
 import { useState, useEffect, useContext } from "react";
 
-import { useCounterStore } from '../store/useCounterStore'
-import { useUtilsStore } from "../store/useUtilsStore";
-import { useAuthStore } from "../store/authStore";
-import Spinner from "../../components/Spinner";
+import { useCounterStore } from '../../../store/useCounterStore'
+import { useUtilsStore } from "../../../store/useUtilsStore";
+import { useAuthStore } from "../../../store/authStore";
+import Spinner from "../../../components/Spinner";
 import InvoiceWithPDF from "../../../components/InvoiceWithPDF";
-import Tabs from "../../components/Tabs";
-import Tab from "../../components/Tab";
-import Trackings from "../../components/shop-elements/Trackings";
-import OrderSubscription from "../../components/shop-elements/OrderSubscription";
-import OrderUpdate from "../../components/shop-elements/OrderUpdate";
-import OrderDelivery from "../../components/shop-elements/OrderDelivery";
+import Tabs from "../../../components/Tabs";
+import Tab from "../../../components/Tab";
+import Trackings from "../../../components/shop-elements/Trackings";
+import OrderSubscription from "../../../components/shop-elements/OrderSubscription";
+import OrderUpdate from "../../../components/shop-elements/OrderUpdate";
+import OrderDelivery from "../../../components/shop-elements/OrderDelivery";
 import { IconRss, IconTruckDelivery, IconRouteSquare, IconFileDollar, IconTrash, IconTrolley, IconStar, IconClockPause, IconExclamationCircle, IconRosetteDiscountCheck, IconX } from "@tabler/icons-react";
 
 

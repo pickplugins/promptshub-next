@@ -3,10 +3,8 @@ import Link from "next/link";
 import Image from "next/image";
 import React from "react";
 
-import EntriesTable from "/components/EntriesTable";
+import EntriesTable from "../../components/EntriesTable";
 import { useState, useEffect, useContext } from "react";
-import Spinner from "/components/Spinner";
-import { IconRefresh } from "@tabler/icons-react";
 
 import { useCounterStore } from '../../store/useCounterStore'
 import { useUtilsStore } from "../../store/useUtilsStore";

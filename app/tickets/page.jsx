@@ -4,9 +4,9 @@ import Link from "next/link";
 import Image from "next/image";
 import React from "react";
 import { useState, useEffect, useContext } from "react";
-import EntriesTable from "../components/EntriesTable";
-import { useCounterStore } from '../store/useCounterStore'
-import { useAuthStore } from "../store/authStore";
+import EntriesTable from "../../components/EntriesTable";
+import { useCounterStore } from '../../store/useCounterStore'
+import { useAuthStore } from "../../store/authStore";
 
 
 

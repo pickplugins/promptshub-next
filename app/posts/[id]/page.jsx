@@ -11,7 +11,6 @@ import Tabs from "../../../components/Tabs";
 import Tab from "../../../components/Tab";
 import Comments from "../../../components/shop-elements/Comments";
 import RelatedPosts from "../../../components/shop-elements/RelatedPosts";
-import Upsells from "../../../components/shop-elements/Upsells";
 import ToggleContent from "../../../components/ToggleContent";
 import { useCounterStore } from '../../../store/useCounterStore'
 
@@ -337,17 +336,6 @@ const page = ({ params }) => {
           </Tabs>
 
         </div>
-
-        {productData?.upsells?.length > 0 && (
-          <div className="p-5  rounded-sm">
-            <div className="flex gap-3">
-              <div className="text-2xl ">{("Frequently Bought Together")}</div>
-            </div>
-            <div className="my-4 ">
-              <Upsells productData={productData} />
-            </div>
-          </div>
-        )}
 
 
 

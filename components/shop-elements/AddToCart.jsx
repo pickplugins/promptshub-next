@@ -2,8 +2,8 @@
 "use client"
 import { useState, useEffect } from "react";
 import { IconSquareRoundedPlusFilled, IconSquareRoundedMinusFilled, IconStarFilled, IconStar, IconIdBadge2 } from "@tabler/icons-react";
-import { useCounterStore } from '../store/useCounterStore'
-import { useUtilsStore } from "../store/useUtilsStore";
+import { useCounterStore } from '../../store/useCounterStore'
+import { useUtilsStore } from '../../store/useUtilsStore';
 
 import * as fbq from "../../lib/fpixel";
 

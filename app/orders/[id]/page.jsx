@@ -9,10 +9,6 @@ import Spinner from "../../../components/Spinner";
 import InvoiceWithPDF from "../../../components/InvoiceWithPDF";
 import Tabs from "../../../components/Tabs";
 import Tab from "../../../components/Tab";
-import Trackings from "../../../components/shop-elements/Trackings";
-import OrderSubscription from "../../../components/shop-elements/OrderSubscription";
-import OrderUpdate from "../../../components/shop-elements/OrderUpdate";
-import OrderDelivery from "../../../components/shop-elements/OrderDelivery";
 import { IconRss, IconTruckDelivery, IconRouteSquare, IconFileDollar, IconTrash, IconTrolley, IconStar, IconClockPause, IconExclamationCircle, IconRosetteDiscountCheck, IconX } from "@tabler/icons-react";
 
 
@@ -256,7 +252,6 @@ const page = ({ params }) => {
               // { label: "Payments", icon: <IconFileDollar size={18} /> },
               { label: "Subscription", icon: <IconRss size={18} /> },
               { label: "Delivery", icon: <IconTruckDelivery size={18} /> },
-              { label: "Trackings", icon: <IconRouteSquare size={18} /> },
 
 
             ]}>
@@ -264,60 +259,7 @@ const page = ({ params }) => {
               <InvoiceWithPDF invoice={invoiceData} />
 
             </Tab>
-            <Tab index={1}>
 
-
-              <OrderUpdate order_id={id} />
-
-
-            </Tab>
-            {/* <Tab index={2}>
-
-              <OrderPayments order_id={id} />
-            </Tab> */}
-
-            <Tab index={2}>
-
-
-
-              <OrderSubscription subscriptionId={subscriptionData?.id} />
-
-
-
-
-
-
-            </Tab>
-            <Tab index={3}>
-
-
-
-              {deliveryData && (
-                <OrderDelivery delivery_id={deliveryData?.id} delivery_location={orderData?.delivery_location} order_id={id} userid={orderData?.userid} />
-
-              )}
-
-
-
-            </Tab>
-
-            <Tab index={4}>
-
-
-
-              {deliveryData?.id && (
-                <Trackings deliveryData={deliveryData} delivery_id={deliveryData?.id} order_id={id} />
-              )}
-              {!deliveryData?.id && (
-                <div className="bg-white shadow-sm  p-5 rounded-sm">
-                  No trackings yet, Please wait for rider response.
-                </div>)}
-
-
-
-
-
-            </Tab>
 
 
 
